@@ -1,0 +1,1558 @@
+[
+  {
+    "word": "be",
+    "guideword": "CONTINUE",
+    "level": "A2",
+    "part_of_speech": "auxiliary verb",
+    "topic": "",
+    "details": "/british-english/words/detail/480",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "be",
+          "position": "verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKAZT__003.mp3",
+          "written": "/biː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "I am Spanish/a teacher, etc.",
+            "level": "A1",
+            "definition": "used to give information about someone or something",
+            "dictionary_examples": [
+              "I'm tired.",
+              "I'm very well, thank you.",
+              "Hi, I'm Sylvie.",
+              "He's tall.",
+              "They aren't German, they're from Austria.",
+              "He was six at the time.",
+              "They were late.",
+              "The film was great.",
+              "Her house isn't very big."
+            ],
+            "learner_examples": [
+              "My friend's name is Sarah. (Skills for Life (Entry 1); A1; Tamil)"
+            ]
+          },
+          {
+            "sense_title": "there is/there are/there was, etc.",
+            "level": "A1",
+            "definition": "used to say that someone or something exists",
+            "dictionary_examples": [
+              "There are six Italians in the class.",
+              "There are three bedrooms.",
+              "There's a shop at the end of the road.",
+              "There was a good programme on TV last night.",
+              "Is there a problem?"
+            ],
+            "learner_examples": [
+              "There are many interesting things. (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "be",
+            "level": "A1",
+            "definition": "used to say or ask where someone or something is",
+            "dictionary_examples": [
+              "He's in the garden.",
+              "Are you there?",
+              "I'm here!",
+              "The plates are in this cupboard.",
+              "Where is that letter?"
+            ],
+            "learner_examples": [
+              "My college is in Braintree. (Skills for Life (Entry 1); A1; Hungarian)"
+            ]
+          },
+          {
+            "sense_title": "have/has been to",
+            "level": "A2",
+            "definition": "used to say that someone has gone to a place and returned from that place",
+            "dictionary_examples": [
+              "I've been to Mexico.",
+              "Have you ever been to the US?"
+            ],
+            "learner_examples": [
+              "I like Japanese people and I've been to Japan three times. (Key English Test; A2; Chinese)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "be",
+          "position": "auxiliary verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKAZT__003.mp3",
+          "written": "/biː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "be (CONTINUE)",
+            "level": "A2",
+            "definition": "used with the present participle of other verbs to describe actions that are or were still continuing",
+            "dictionary_examples": [
+              "I'm still eating.",
+              "She's studying to be a lawyer.",
+              "The audience clearly wasn't enjoying the show.",
+              "You're always complaining.",
+              "I'll be coming back on Tuesday."
+            ],
+            "learner_examples": [
+              "I'm thinking of painting it blue. (Key English Test; A2; Albanian)"
+            ]
+          },
+          {
+            "sense_title": "be (PASSIVE)",
+            "level": "A2",
+            "definition": "used with the past participle of other verbs to form the passive",
+            "dictionary_examples": [
+              "This dessert is made from eggs, sugar, and cream.",
+              "A body was discovered by the police.",
+              "The results will be announced next week.",
+              "I haven't been invited.",
+              "They were asked to leave."
+            ],
+            "learner_examples": [
+              "I like it very much, because it is interesting and it was written by an excellent author, Lev Tolstoy. (Key English Test; A2; Russian)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "be",
+    "guideword": "PASSIVE",
+    "level": "A2",
+    "part_of_speech": "auxiliary verb",
+    "topic": "",
+    "details": "/british-english/words/detail/480",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "be",
+          "position": "verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKAZT__003.mp3",
+          "written": "/biː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "I am Spanish/a teacher, etc.",
+            "level": "A1",
+            "definition": "used to give information about someone or something",
+            "dictionary_examples": [
+              "I'm tired.",
+              "I'm very well, thank you.",
+              "Hi, I'm Sylvie.",
+              "He's tall.",
+              "They aren't German, they're from Austria.",
+              "He was six at the time.",
+              "They were late.",
+              "The film was great.",
+              "Her house isn't very big."
+            ],
+            "learner_examples": [
+              "My friend's name is Sarah. (Skills for Life (Entry 1); A1; Tamil)"
+            ]
+          },
+          {
+            "sense_title": "there is/there are/there was, etc.",
+            "level": "A1",
+            "definition": "used to say that someone or something exists",
+            "dictionary_examples": [
+              "There are six Italians in the class.",
+              "There are three bedrooms.",
+              "There's a shop at the end of the road.",
+              "There was a good programme on TV last night.",
+              "Is there a problem?"
+            ],
+            "learner_examples": [
+              "There are many interesting things. (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "be",
+            "level": "A1",
+            "definition": "used to say or ask where someone or something is",
+            "dictionary_examples": [
+              "He's in the garden.",
+              "Are you there?",
+              "I'm here!",
+              "The plates are in this cupboard.",
+              "Where is that letter?"
+            ],
+            "learner_examples": [
+              "My college is in Braintree. (Skills for Life (Entry 1); A1; Hungarian)"
+            ]
+          },
+          {
+            "sense_title": "have/has been to",
+            "level": "A2",
+            "definition": "used to say that someone has gone to a place and returned from that place",
+            "dictionary_examples": [
+              "I've been to Mexico.",
+              "Have you ever been to the US?"
+            ],
+            "learner_examples": [
+              "I like Japanese people and I've been to Japan three times. (Key English Test; A2; Chinese)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "be",
+          "position": "auxiliary verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKAZT__003.mp3",
+          "written": "/biː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "be (CONTINUE)",
+            "level": "A2",
+            "definition": "used with the present participle of other verbs to describe actions that are or were still continuing",
+            "dictionary_examples": [
+              "I'm still eating.",
+              "She's studying to be a lawyer.",
+              "The audience clearly wasn't enjoying the show.",
+              "You're always complaining.",
+              "I'll be coming back on Tuesday."
+            ],
+            "learner_examples": [
+              "I'm thinking of painting it blue. (Key English Test; A2; Albanian)"
+            ]
+          },
+          {
+            "sense_title": "be (PASSIVE)",
+            "level": "A2",
+            "definition": "used with the past participle of other verbs to form the passive",
+            "dictionary_examples": [
+              "This dessert is made from eggs, sugar, and cream.",
+              "A body was discovered by the police.",
+              "The results will be announced next week.",
+              "I haven't been invited.",
+              "They were asked to leave."
+            ],
+            "learner_examples": [
+              "I like it very much, because it is interesting and it was written by an excellent author, Lev Tolstoy. (Key English Test; A2; Russian)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "do",
+    "guideword": "FOR EMPHASIS",
+    "level": "B2",
+    "part_of_speech": "auxiliary verb",
+    "topic": "communication",
+    "details": "/british-english/words/detail/1718",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "do",
+          "position": "auxiliary verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKDIZZI011.mp3",
+          "written": "/duː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "do (QUESTIONS/NEGATIVES)",
+            "level": "A1",
+            "definition": "used with another verb to form questions and negative phrases",
+            "dictionary_examples": [
+              "Do you speak English?",
+              "Where do you work?",
+              "When does your train leave?",
+              "Why did you say that?",
+              "I don't know.",
+              "He doesn't eat meat.",
+              "I didn't see her there."
+            ],
+            "learner_examples": [
+              "What did you do at [the] party? (Key English Test; A2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "don't you?/do you?/doesn't she?/does she?, etc.",
+            "level": "A2",
+            "definition": "used in a phrase at the end of a sentence to make the sentence a question",
+            "dictionary_examples": [
+              "You like her, don't you?",
+              "Sarah lives near here, doesn't she?",
+              "You didn't ask him, did you?",
+              "It doesn't hurt, does it?"
+            ],
+            "learner_examples": [
+              "You love watch[ing] tv, don't you?! (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "Do you mind ...?",
+            "level": "A2",
+            "definition": "something you say when politely asking if you can do something, or when asking someone else to do something",
+            "dictionary_examples": [
+              "Do you mind if I put the television on?"
+            ],
+            "learner_examples": [
+              "Do you mind if I bring a friend? (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "do badly/well",
+            "level": "B1",
+            "definition": "to be unsuccessful/successful",
+            "dictionary_examples": [
+              "Sam did very well in her exams."
+            ],
+            "learner_examples": [
+              "I had done badly in my last exam and my teacher said she would talk to my mother. (Preliminary English Test; B1; Tamil)"
+            ]
+          },
+          {
+            "sense_title": "do (AVOID REPEATING)",
+            "level": "B1",
+            "definition": "used to avoid repeating a verb that has just been used",
+            "dictionary_examples": [
+              "She runs much faster than he does.",
+              "Maria looks much healthier than she did.",
+              "\"I hate that song!\" \"So do I.\"",
+              "\"I don't like the heat.\" \"Nor/Neither do I.\"",
+              "\"May I join you?\" \"Please do!\""
+            ],
+            "learner_examples": [
+              "I like Brad Pitt a lot, and so does she. (Preliminary English Test; B1; Italian)"
+            ]
+          },
+          {
+            "sense_title": "do (FOR EMPHASIS)",
+            "level": "B2",
+            "definition": "used to give extra force to the main verb",
+            "dictionary_examples": [
+              "Do let me know if you need anything.",
+              "He does like you - he's just shy."
+            ],
+            "learner_examples": [
+              "I real[l]y do love to be a volunteer, to help people as much as I can. (Skills for Life (Level 1); B2; Romanian)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "do",
+          "position": "verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKDIZZI011.mp3",
+          "written": "/duː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "do (ACTION)",
+            "level": "A1",
+            "definition": "to perform an action",
+            "dictionary_examples": [
+              "What shall we do?",
+              "What are you doing tonight?",
+              "Have you done your homework?",
+              "We did a lot of talking.",
+              "I've got nothing to do."
+            ],
+            "learner_examples": [
+              "I have nothing to do. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "do (STUDY)",
+            "level": "A1",
+            "definition": "to study a subject",
+            "dictionary_examples": [
+              "Diana did history at university."
+            ],
+            "learner_examples": [
+              "I'm doing English [at] the college. (Skills for Life (Entry 1); A1; French)"
+            ]
+          },
+          {
+            "sense_title": "do the cleaning/cooking, etc.",
+            "level": "A1",
+            "definition": "to perform a job in the house",
+            "dictionary_examples": [
+              "I do the cooking but Joe does most of the cleaning."
+            ],
+            "learner_examples": [
+              "She like[s] to do [the] cooking. (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "what does sb do?",
+            "level": "A1",
+            "definition": "used to ask what someone's job is",
+            "dictionary_examples": [
+              "\"What do you do (for a living)?\" \"I'm a doctor.\"",
+              "What does Antonio do - does he teach?",
+              "I don't know what his wife does."
+            ],
+            "learner_examples": [
+              "What does Angie do? (Preliminary English Test; B1; German)"
+            ]
+          },
+          {
+            "sense_title": "do (MAKE)",
+            "level": "A2",
+            "definition": "to make or produce something",
+            "dictionary_examples": [
+              "I've done 20 copies of the hand-out.",
+              "They do really good cakes in the cafe."
+            ],
+            "learner_examples": [
+              "[On] any sp[e]cial day [like] Devali they do some sp[e]cial sweet food. (Skills for Life (Entry 2); A2; Arabic)"
+            ]
+          },
+          {
+            "sense_title": "do (HEALTHY/HAPPY)",
+            "level": "A2",
+            "definition": "used for talking or asking about someone and whether they are healthy, happy or succeeding",
+            "dictionary_examples": [
+              "Hi, how are you doing?",
+              "\"How is Freya doing?\" \"She's doing really well, thanks.\""
+            ],
+            "learner_examples": [
+              "I'm doing fine. (Preliminary English Test; B1; Estonian)"
+            ]
+          },
+          {
+            "sense_title": "do (SPORT ETC.)",
+            "level": "A2",
+            "definition": "to perform a sports activity",
+            "dictionary_examples": [
+              "She does yoga in her spare time."
+            ],
+            "learner_examples": [
+              "[At the club,] I can swim, do karate [or] yoga, play soccer, tennis, squash and table-tennis. (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "do your hair/make-up, etc.",
+            "level": "B1",
+            "definition": "to make your hair/make-up, etc. look nice",
+            "dictionary_examples": [
+              "It takes him half an hour to do his hair in the morning."
+            ],
+            "learner_examples": [
+              "I was the assistant of the person responsible for the clothes and make-up of the pop-group, [and] I was asked to do their make-up on my o[w]n. (First Certificate in English; B2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "do your best ()",
+            "level": "B1",
+            "definition": "to make the greatest effort possible",
+            "dictionary_examples": [
+              "I did my best to persuade him."
+            ],
+            "learner_examples": [
+              "I'll do my best to cover the work. (Preliminary English Test; B1; French)"
+            ]
+          },
+          {
+            "sense_title": "do sb good ()",
+            "level": "B2",
+            "definition": "to have a good effect on someone",
+            "dictionary_examples": [
+              "A break from this would do us all good. "
+            ],
+            "learner_examples": [
+              "I must admit that my stay in your nice home did me good. (First Certificate in English; B2; Polish)"
+            ]
+          },
+          {
+            "sense_title": "do damage/harm, etc.",
+            "level": "B2",
+            "definition": "to cause damage/harm, etc.",
+            "dictionary_examples": [
+              "The fire did a lot of structural damage to the building."
+            ],
+            "learner_examples": [
+              "I promise not to do any damage! (First Certificate in English; B2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "be/have to do with sth",
+            "level": "B2",
+            "definition": "to be related to something",
+            "dictionary_examples": [
+              "She lacks confidence and I think that has to do with her childhood."
+            ],
+            "learner_examples": [
+              "I think that is nothing to do with my accident. (Skills for Life (Level 1); B2; Polish)"
+            ]
+          },
+          {
+            "sense_title": "will do",
+            "level": "C1",
+            "definition": "will be satisfactory",
+            "dictionary_examples": [
+              "You don't have to pay now, next week will do."
+            ],
+            "learner_examples": [
+              "You need a telephone card. They can cost from 100zT to 1000zT. One of 100zT will do. (Certificate in Advanced English; C1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "do your utmost",
+            "level": "C1",
+            "definition": "to try as hard as you can to do something",
+            "dictionary_examples": [
+              "We did our utmost to finish the project on time."
+            ],
+            "learner_examples": [
+              "In addition, we l[i]ve in a materialistic society where we all do our utmost in order to make ends meet, but we are never satisfied. (Certificate in Advanced English; C1; Greek)"
+            ]
+          },
+          {
+            "sense_title": "do the job",
+            "level": "C2",
+            "definition": "If something does the job, it is suitable for a particular purpose.",
+            "dictionary_examples": [
+              "Here, this knife should do the job."
+            ],
+            "learner_examples": [
+              "Allow them to bring home friends and therefore develop social skills. In my opinion, that should do the job. (Certificate of Proficiency in English; C2; German)"
+            ]
+          },
+          {
+            "sense_title": "do sb/sth justice; do justice to sb/sth",
+            "level": "C2",
+            "definition": "to show the best or real qualities of something or someone",
+            "dictionary_examples": [
+              "This postcard doesn't do justice to the wonderful scenery."
+            ],
+            "learner_examples": [
+              "No words can do justice to the indignation that I feel. (Certificate of Proficiency in English; C2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "can't/couldn't very well do sth",
+            "level": "C2",
+            "definition": "used to say that something is not a suitable or practical thing to do",
+            "dictionary_examples": [
+              "I couldn't very well tell her while he was there."
+            ],
+            "learner_examples": [
+              "I couldn't very well tell her that without my diaries, I'd be lost and not know who I was. (Certificate of Proficiency in English; C2; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "make do (with)",
+            "level": "C2",
+            "definition": "to accept something that is less good than you would like",
+            "dictionary_examples": [
+              "If we can't get a bigger room we'll have to make do with this."
+            ],
+            "learner_examples": [
+              "Very calmly, he said \"I am not going to put up with this. You might say that I am being too emotional, overreacting, whatever. But I will not come back until my piano has been returned. And let me make very clear that I will not make do with another instrument.\" (Certificate of Proficiency in English; C2; French)"
+            ]
+          },
+          {
+            "sense_title": "do the trick",
+            "level": "C2",
+            "definition": "If something does the trick, it solves a problem or has the result you want.",
+            "dictionary_examples": [
+              "If I've got a headache, a couple of aspirins usually do the trick."
+            ],
+            "learner_examples": [
+              "Using aromatherapy oil and scented candles always did the trick when she wanted to relax. (Certificate of Proficiency in English; C2; French)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "do",
+    "guideword": "QUESTIONS/NEGATIVES",
+    "level": "A1",
+    "part_of_speech": "auxiliary verb",
+    "topic": "",
+    "details": "/british-english/words/detail/1718",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "do",
+          "position": "auxiliary verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKDIZZI011.mp3",
+          "written": "/duː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "do (QUESTIONS/NEGATIVES)",
+            "level": "A1",
+            "definition": "used with another verb to form questions and negative phrases",
+            "dictionary_examples": [
+              "Do you speak English?",
+              "Where do you work?",
+              "When does your train leave?",
+              "Why did you say that?",
+              "I don't know.",
+              "He doesn't eat meat.",
+              "I didn't see her there."
+            ],
+            "learner_examples": [
+              "What did you do at [the] party? (Key English Test; A2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "don't you?/do you?/doesn't she?/does she?, etc.",
+            "level": "A2",
+            "definition": "used in a phrase at the end of a sentence to make the sentence a question",
+            "dictionary_examples": [
+              "You like her, don't you?",
+              "Sarah lives near here, doesn't she?",
+              "You didn't ask him, did you?",
+              "It doesn't hurt, does it?"
+            ],
+            "learner_examples": [
+              "You love watch[ing] tv, don't you?! (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "Do you mind ...?",
+            "level": "A2",
+            "definition": "something you say when politely asking if you can do something, or when asking someone else to do something",
+            "dictionary_examples": [
+              "Do you mind if I put the television on?"
+            ],
+            "learner_examples": [
+              "Do you mind if I bring a friend? (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "do badly/well",
+            "level": "B1",
+            "definition": "to be unsuccessful/successful",
+            "dictionary_examples": [
+              "Sam did very well in her exams."
+            ],
+            "learner_examples": [
+              "I had done badly in my last exam and my teacher said she would talk to my mother. (Preliminary English Test; B1; Tamil)"
+            ]
+          },
+          {
+            "sense_title": "do (AVOID REPEATING)",
+            "level": "B1",
+            "definition": "used to avoid repeating a verb that has just been used",
+            "dictionary_examples": [
+              "She runs much faster than he does.",
+              "Maria looks much healthier than she did.",
+              "\"I hate that song!\" \"So do I.\"",
+              "\"I don't like the heat.\" \"Nor/Neither do I.\"",
+              "\"May I join you?\" \"Please do!\""
+            ],
+            "learner_examples": [
+              "I like Brad Pitt a lot, and so does she. (Preliminary English Test; B1; Italian)"
+            ]
+          },
+          {
+            "sense_title": "do (FOR EMPHASIS)",
+            "level": "B2",
+            "definition": "used to give extra force to the main verb",
+            "dictionary_examples": [
+              "Do let me know if you need anything.",
+              "He does like you - he's just shy."
+            ],
+            "learner_examples": [
+              "I real[l]y do love to be a volunteer, to help people as much as I can. (Skills for Life (Level 1); B2; Romanian)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "do",
+          "position": "verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKDIZZI011.mp3",
+          "written": "/duː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "do (ACTION)",
+            "level": "A1",
+            "definition": "to perform an action",
+            "dictionary_examples": [
+              "What shall we do?",
+              "What are you doing tonight?",
+              "Have you done your homework?",
+              "We did a lot of talking.",
+              "I've got nothing to do."
+            ],
+            "learner_examples": [
+              "I have nothing to do. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "do (STUDY)",
+            "level": "A1",
+            "definition": "to study a subject",
+            "dictionary_examples": [
+              "Diana did history at university."
+            ],
+            "learner_examples": [
+              "I'm doing English [at] the college. (Skills for Life (Entry 1); A1; French)"
+            ]
+          },
+          {
+            "sense_title": "do the cleaning/cooking, etc.",
+            "level": "A1",
+            "definition": "to perform a job in the house",
+            "dictionary_examples": [
+              "I do the cooking but Joe does most of the cleaning."
+            ],
+            "learner_examples": [
+              "She like[s] to do [the] cooking. (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "what does sb do?",
+            "level": "A1",
+            "definition": "used to ask what someone's job is",
+            "dictionary_examples": [
+              "\"What do you do (for a living)?\" \"I'm a doctor.\"",
+              "What does Antonio do - does he teach?",
+              "I don't know what his wife does."
+            ],
+            "learner_examples": [
+              "What does Angie do? (Preliminary English Test; B1; German)"
+            ]
+          },
+          {
+            "sense_title": "do (MAKE)",
+            "level": "A2",
+            "definition": "to make or produce something",
+            "dictionary_examples": [
+              "I've done 20 copies of the hand-out.",
+              "They do really good cakes in the cafe."
+            ],
+            "learner_examples": [
+              "[On] any sp[e]cial day [like] Devali they do some sp[e]cial sweet food. (Skills for Life (Entry 2); A2; Arabic)"
+            ]
+          },
+          {
+            "sense_title": "do (HEALTHY/HAPPY)",
+            "level": "A2",
+            "definition": "used for talking or asking about someone and whether they are healthy, happy or succeeding",
+            "dictionary_examples": [
+              "Hi, how are you doing?",
+              "\"How is Freya doing?\" \"She's doing really well, thanks.\""
+            ],
+            "learner_examples": [
+              "I'm doing fine. (Preliminary English Test; B1; Estonian)"
+            ]
+          },
+          {
+            "sense_title": "do (SPORT ETC.)",
+            "level": "A2",
+            "definition": "to perform a sports activity",
+            "dictionary_examples": [
+              "She does yoga in her spare time."
+            ],
+            "learner_examples": [
+              "[At the club,] I can swim, do karate [or] yoga, play soccer, tennis, squash and table-tennis. (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "do your hair/make-up, etc.",
+            "level": "B1",
+            "definition": "to make your hair/make-up, etc. look nice",
+            "dictionary_examples": [
+              "It takes him half an hour to do his hair in the morning."
+            ],
+            "learner_examples": [
+              "I was the assistant of the person responsible for the clothes and make-up of the pop-group, [and] I was asked to do their make-up on my o[w]n. (First Certificate in English; B2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "do your best ()",
+            "level": "B1",
+            "definition": "to make the greatest effort possible",
+            "dictionary_examples": [
+              "I did my best to persuade him."
+            ],
+            "learner_examples": [
+              "I'll do my best to cover the work. (Preliminary English Test; B1; French)"
+            ]
+          },
+          {
+            "sense_title": "do sb good ()",
+            "level": "B2",
+            "definition": "to have a good effect on someone",
+            "dictionary_examples": [
+              "A break from this would do us all good. "
+            ],
+            "learner_examples": [
+              "I must admit that my stay in your nice home did me good. (First Certificate in English; B2; Polish)"
+            ]
+          },
+          {
+            "sense_title": "do damage/harm, etc.",
+            "level": "B2",
+            "definition": "to cause damage/harm, etc.",
+            "dictionary_examples": [
+              "The fire did a lot of structural damage to the building."
+            ],
+            "learner_examples": [
+              "I promise not to do any damage! (First Certificate in English; B2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "be/have to do with sth",
+            "level": "B2",
+            "definition": "to be related to something",
+            "dictionary_examples": [
+              "She lacks confidence and I think that has to do with her childhood."
+            ],
+            "learner_examples": [
+              "I think that is nothing to do with my accident. (Skills for Life (Level 1); B2; Polish)"
+            ]
+          },
+          {
+            "sense_title": "will do",
+            "level": "C1",
+            "definition": "will be satisfactory",
+            "dictionary_examples": [
+              "You don't have to pay now, next week will do."
+            ],
+            "learner_examples": [
+              "You need a telephone card. They can cost from 100zT to 1000zT. One of 100zT will do. (Certificate in Advanced English; C1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "do your utmost",
+            "level": "C1",
+            "definition": "to try as hard as you can to do something",
+            "dictionary_examples": [
+              "We did our utmost to finish the project on time."
+            ],
+            "learner_examples": [
+              "In addition, we l[i]ve in a materialistic society where we all do our utmost in order to make ends meet, but we are never satisfied. (Certificate in Advanced English; C1; Greek)"
+            ]
+          },
+          {
+            "sense_title": "do the job",
+            "level": "C2",
+            "definition": "If something does the job, it is suitable for a particular purpose.",
+            "dictionary_examples": [
+              "Here, this knife should do the job."
+            ],
+            "learner_examples": [
+              "Allow them to bring home friends and therefore develop social skills. In my opinion, that should do the job. (Certificate of Proficiency in English; C2; German)"
+            ]
+          },
+          {
+            "sense_title": "do sb/sth justice; do justice to sb/sth",
+            "level": "C2",
+            "definition": "to show the best or real qualities of something or someone",
+            "dictionary_examples": [
+              "This postcard doesn't do justice to the wonderful scenery."
+            ],
+            "learner_examples": [
+              "No words can do justice to the indignation that I feel. (Certificate of Proficiency in English; C2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "can't/couldn't very well do sth",
+            "level": "C2",
+            "definition": "used to say that something is not a suitable or practical thing to do",
+            "dictionary_examples": [
+              "I couldn't very well tell her while he was there."
+            ],
+            "learner_examples": [
+              "I couldn't very well tell her that without my diaries, I'd be lost and not know who I was. (Certificate of Proficiency in English; C2; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "make do (with)",
+            "level": "C2",
+            "definition": "to accept something that is less good than you would like",
+            "dictionary_examples": [
+              "If we can't get a bigger room we'll have to make do with this."
+            ],
+            "learner_examples": [
+              "Very calmly, he said \"I am not going to put up with this. You might say that I am being too emotional, overreacting, whatever. But I will not come back until my piano has been returned. And let me make very clear that I will not make do with another instrument.\" (Certificate of Proficiency in English; C2; French)"
+            ]
+          },
+          {
+            "sense_title": "do the trick",
+            "level": "C2",
+            "definition": "If something does the trick, it solves a problem or has the result you want.",
+            "dictionary_examples": [
+              "If I've got a headache, a couple of aspirins usually do the trick."
+            ],
+            "learner_examples": [
+              "Using aromatherapy oil and scented candles always did the trick when she wanted to relax. (Certificate of Proficiency in English; C2; French)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "do",
+    "guideword": "AVOID REPEATING",
+    "level": "B1",
+    "part_of_speech": "auxiliary verb",
+    "topic": "",
+    "details": "/british-english/words/detail/1718",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "do",
+          "position": "auxiliary verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKDIZZI011.mp3",
+          "written": "/duː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "do (QUESTIONS/NEGATIVES)",
+            "level": "A1",
+            "definition": "used with another verb to form questions and negative phrases",
+            "dictionary_examples": [
+              "Do you speak English?",
+              "Where do you work?",
+              "When does your train leave?",
+              "Why did you say that?",
+              "I don't know.",
+              "He doesn't eat meat.",
+              "I didn't see her there."
+            ],
+            "learner_examples": [
+              "What did you do at [the] party? (Key English Test; A2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "don't you?/do you?/doesn't she?/does she?, etc.",
+            "level": "A2",
+            "definition": "used in a phrase at the end of a sentence to make the sentence a question",
+            "dictionary_examples": [
+              "You like her, don't you?",
+              "Sarah lives near here, doesn't she?",
+              "You didn't ask him, did you?",
+              "It doesn't hurt, does it?"
+            ],
+            "learner_examples": [
+              "You love watch[ing] tv, don't you?! (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "Do you mind ...?",
+            "level": "A2",
+            "definition": "something you say when politely asking if you can do something, or when asking someone else to do something",
+            "dictionary_examples": [
+              "Do you mind if I put the television on?"
+            ],
+            "learner_examples": [
+              "Do you mind if I bring a friend? (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "do badly/well",
+            "level": "B1",
+            "definition": "to be unsuccessful/successful",
+            "dictionary_examples": [
+              "Sam did very well in her exams."
+            ],
+            "learner_examples": [
+              "I had done badly in my last exam and my teacher said she would talk to my mother. (Preliminary English Test; B1; Tamil)"
+            ]
+          },
+          {
+            "sense_title": "do (AVOID REPEATING)",
+            "level": "B1",
+            "definition": "used to avoid repeating a verb that has just been used",
+            "dictionary_examples": [
+              "She runs much faster than he does.",
+              "Maria looks much healthier than she did.",
+              "\"I hate that song!\" \"So do I.\"",
+              "\"I don't like the heat.\" \"Nor/Neither do I.\"",
+              "\"May I join you?\" \"Please do!\""
+            ],
+            "learner_examples": [
+              "I like Brad Pitt a lot, and so does she. (Preliminary English Test; B1; Italian)"
+            ]
+          },
+          {
+            "sense_title": "do (FOR EMPHASIS)",
+            "level": "B2",
+            "definition": "used to give extra force to the main verb",
+            "dictionary_examples": [
+              "Do let me know if you need anything.",
+              "He does like you - he's just shy."
+            ],
+            "learner_examples": [
+              "I real[l]y do love to be a volunteer, to help people as much as I can. (Skills for Life (Level 1); B2; Romanian)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "do",
+          "position": "verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKDIZZI011.mp3",
+          "written": "/duː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "do (ACTION)",
+            "level": "A1",
+            "definition": "to perform an action",
+            "dictionary_examples": [
+              "What shall we do?",
+              "What are you doing tonight?",
+              "Have you done your homework?",
+              "We did a lot of talking.",
+              "I've got nothing to do."
+            ],
+            "learner_examples": [
+              "I have nothing to do. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "do (STUDY)",
+            "level": "A1",
+            "definition": "to study a subject",
+            "dictionary_examples": [
+              "Diana did history at university."
+            ],
+            "learner_examples": [
+              "I'm doing English [at] the college. (Skills for Life (Entry 1); A1; French)"
+            ]
+          },
+          {
+            "sense_title": "do the cleaning/cooking, etc.",
+            "level": "A1",
+            "definition": "to perform a job in the house",
+            "dictionary_examples": [
+              "I do the cooking but Joe does most of the cleaning."
+            ],
+            "learner_examples": [
+              "She like[s] to do [the] cooking. (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "what does sb do?",
+            "level": "A1",
+            "definition": "used to ask what someone's job is",
+            "dictionary_examples": [
+              "\"What do you do (for a living)?\" \"I'm a doctor.\"",
+              "What does Antonio do - does he teach?",
+              "I don't know what his wife does."
+            ],
+            "learner_examples": [
+              "What does Angie do? (Preliminary English Test; B1; German)"
+            ]
+          },
+          {
+            "sense_title": "do (MAKE)",
+            "level": "A2",
+            "definition": "to make or produce something",
+            "dictionary_examples": [
+              "I've done 20 copies of the hand-out.",
+              "They do really good cakes in the cafe."
+            ],
+            "learner_examples": [
+              "[On] any sp[e]cial day [like] Devali they do some sp[e]cial sweet food. (Skills for Life (Entry 2); A2; Arabic)"
+            ]
+          },
+          {
+            "sense_title": "do (HEALTHY/HAPPY)",
+            "level": "A2",
+            "definition": "used for talking or asking about someone and whether they are healthy, happy or succeeding",
+            "dictionary_examples": [
+              "Hi, how are you doing?",
+              "\"How is Freya doing?\" \"She's doing really well, thanks.\""
+            ],
+            "learner_examples": [
+              "I'm doing fine. (Preliminary English Test; B1; Estonian)"
+            ]
+          },
+          {
+            "sense_title": "do (SPORT ETC.)",
+            "level": "A2",
+            "definition": "to perform a sports activity",
+            "dictionary_examples": [
+              "She does yoga in her spare time."
+            ],
+            "learner_examples": [
+              "[At the club,] I can swim, do karate [or] yoga, play soccer, tennis, squash and table-tennis. (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "do your hair/make-up, etc.",
+            "level": "B1",
+            "definition": "to make your hair/make-up, etc. look nice",
+            "dictionary_examples": [
+              "It takes him half an hour to do his hair in the morning."
+            ],
+            "learner_examples": [
+              "I was the assistant of the person responsible for the clothes and make-up of the pop-group, [and] I was asked to do their make-up on my o[w]n. (First Certificate in English; B2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "do your best ()",
+            "level": "B1",
+            "definition": "to make the greatest effort possible",
+            "dictionary_examples": [
+              "I did my best to persuade him."
+            ],
+            "learner_examples": [
+              "I'll do my best to cover the work. (Preliminary English Test; B1; French)"
+            ]
+          },
+          {
+            "sense_title": "do sb good ()",
+            "level": "B2",
+            "definition": "to have a good effect on someone",
+            "dictionary_examples": [
+              "A break from this would do us all good. "
+            ],
+            "learner_examples": [
+              "I must admit that my stay in your nice home did me good. (First Certificate in English; B2; Polish)"
+            ]
+          },
+          {
+            "sense_title": "do damage/harm, etc.",
+            "level": "B2",
+            "definition": "to cause damage/harm, etc.",
+            "dictionary_examples": [
+              "The fire did a lot of structural damage to the building."
+            ],
+            "learner_examples": [
+              "I promise not to do any damage! (First Certificate in English; B2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "be/have to do with sth",
+            "level": "B2",
+            "definition": "to be related to something",
+            "dictionary_examples": [
+              "She lacks confidence and I think that has to do with her childhood."
+            ],
+            "learner_examples": [
+              "I think that is nothing to do with my accident. (Skills for Life (Level 1); B2; Polish)"
+            ]
+          },
+          {
+            "sense_title": "will do",
+            "level": "C1",
+            "definition": "will be satisfactory",
+            "dictionary_examples": [
+              "You don't have to pay now, next week will do."
+            ],
+            "learner_examples": [
+              "You need a telephone card. They can cost from 100zT to 1000zT. One of 100zT will do. (Certificate in Advanced English; C1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "do your utmost",
+            "level": "C1",
+            "definition": "to try as hard as you can to do something",
+            "dictionary_examples": [
+              "We did our utmost to finish the project on time."
+            ],
+            "learner_examples": [
+              "In addition, we l[i]ve in a materialistic society where we all do our utmost in order to make ends meet, but we are never satisfied. (Certificate in Advanced English; C1; Greek)"
+            ]
+          },
+          {
+            "sense_title": "do the job",
+            "level": "C2",
+            "definition": "If something does the job, it is suitable for a particular purpose.",
+            "dictionary_examples": [
+              "Here, this knife should do the job."
+            ],
+            "learner_examples": [
+              "Allow them to bring home friends and therefore develop social skills. In my opinion, that should do the job. (Certificate of Proficiency in English; C2; German)"
+            ]
+          },
+          {
+            "sense_title": "do sb/sth justice; do justice to sb/sth",
+            "level": "C2",
+            "definition": "to show the best or real qualities of something or someone",
+            "dictionary_examples": [
+              "This postcard doesn't do justice to the wonderful scenery."
+            ],
+            "learner_examples": [
+              "No words can do justice to the indignation that I feel. (Certificate of Proficiency in English; C2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "can't/couldn't very well do sth",
+            "level": "C2",
+            "definition": "used to say that something is not a suitable or practical thing to do",
+            "dictionary_examples": [
+              "I couldn't very well tell her while he was there."
+            ],
+            "learner_examples": [
+              "I couldn't very well tell her that without my diaries, I'd be lost and not know who I was. (Certificate of Proficiency in English; C2; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "make do (with)",
+            "level": "C2",
+            "definition": "to accept something that is less good than you would like",
+            "dictionary_examples": [
+              "If we can't get a bigger room we'll have to make do with this."
+            ],
+            "learner_examples": [
+              "Very calmly, he said \"I am not going to put up with this. You might say that I am being too emotional, overreacting, whatever. But I will not come back until my piano has been returned. And let me make very clear that I will not make do with another instrument.\" (Certificate of Proficiency in English; C2; French)"
+            ]
+          },
+          {
+            "sense_title": "do the trick",
+            "level": "C2",
+            "definition": "If something does the trick, it solves a problem or has the result you want.",
+            "dictionary_examples": [
+              "If I've got a headache, a couple of aspirins usually do the trick."
+            ],
+            "learner_examples": [
+              "Using aromatherapy oil and scented candles always did the trick when she wanted to relax. (Certificate of Proficiency in English; C2; French)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "have",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "auxiliary verb",
+    "topic": "",
+    "details": "/british-english/words/detail/2669",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "have",
+          "position": "auxiliary verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKHAVE_001.mp3",
+          "written": "/hæv/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "have",
+            "level": "A2",
+            "definition": "used with the past participle of another verb to form the present and past perfect tenses",
+            "dictionary_examples": [
+              " Have you seen Roz? ",
+              " I've passed my test. ",
+              " He hasn't visited London yet. ",
+              " I'd met his wife before. ",
+              " It would have been better to tell the truth. ",
+              " He's been working in France for two years now. "
+            ],
+            "learner_examples": [
+              "I haven't seen you for ages. (Key English Test; A2; Russian)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "have",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKHAVE_001.mp3",
+          "written": "/hæv/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "have (got) to do sth",
+            "level": "A2",
+            "definition": "to need to do something or be forced to do something",
+            "dictionary_examples": [
+              " I've got to go to Manchester tomorrow. ",
+              " Do we have to finish this today? ",
+              " They've had to change their plans. "
+            ],
+            "learner_examples": [
+              "Dear Mr Miller, Unfortunately I'm going to miss the English class tomorrow because I'm ill. Yest[e]rday I went to the doctor and he said that I've got to stay at home for three days. (Preliminary English Test; B1; German)"
+            ]
+          },
+          {
+            "sense_title": "have (got) to do sth",
+            "level": "A2",
+            "definition": "used when you are telling someone how to do something",
+            "dictionary_examples": [
+              "You have to wait for the green light and then record your voice.",
+              " You've got to type in your name, then your password. "
+            ],
+            "learner_examples": [
+              "To get to my house, you have to get bus [number] 30 to town, [and] there you have to get bus [number] 15 to Spring Bank. (Skills for Life (Entry 2); A2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "have (got) to do/be sth",
+            "level": "C2",
+            "definition": "used to say that you feel certain that something is true or will happen",
+            "dictionary_examples": [
+              "Interest rates have to come down at some point.",
+              "There's (=there has) got to be a better way of doing this."
+            ],
+            "learner_examples": [
+              "There has to be a solution to this. (Certificate of Proficiency in English; C2; Spanish)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "have",
+          "position": "verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKHAVE_001.mp3",
+          "written": "/hæv/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "have (POSSESS)",
+            "level": "A1",
+            "definition": "to own or possess",
+            "dictionary_examples": [
+              "They have a big house.",
+              "He has blue eyes.",
+              "I've got two brothers.",
+              "He's got a degree.",
+              "She has a lot of experience.",
+              "Have you got time to finish the report today?"
+            ],
+            "learner_examples": [
+              "I had [a] big house in Somalia, now I hav[e] [a] small house. (Skills for Life (Entry 1); A1; Somali)"
+            ]
+          },
+          {
+            "sense_title": "have (BE ILL)",
+            "level": "A1",
+            "definition": "If you have a particular illness, you suffer from it.",
+            "dictionary_examples": [
+              "I've got a cold.",
+              "Have you ever had measles?"
+            ],
+            "learner_examples": [
+              "I know you had [the] flu. (Key English Test; A2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "have (EAT/DRINK)",
+            "level": "A1",
+            "definition": "to eat or drink something",
+            "dictionary_examples": [
+              "I had prawns and rice for lunch.",
+              "Can I have a drink of water?",
+              "Let's have a coffee before the film.",
+              "When are we having dinner?"
+            ],
+            "learner_examples": [
+              "I have dinner [at] 5 pm. (Skills for Life (Entry 1); A1; French)"
+            ]
+          },
+          {
+            "sense_title": "have (BABY)",
+            "level": "A2",
+            "definition": "to give birth to a baby",
+            "dictionary_examples": [
+              "Elaine had a baby girl yesterday."
+            ],
+            "learner_examples": [
+              "She had got married and had had a baby without telling me! (Preliminary English Test; B1; Italian)"
+            ]
+          },
+          {
+            "sense_title": "have fun/a nice time/a problem, etc.",
+            "level": "A2",
+            "definition": "to experience something",
+            "dictionary_examples": [
+              "Have a nice day!",
+              "We had a great time in Venice.",
+              "We had a few problems finding the house.",
+              "Did you have any luck finding a present for Annie?"
+            ],
+            "learner_examples": [
+              "We played a lot of games and had fun. (Key English Test; A2; Singhalese)"
+            ]
+          },
+          {
+            "sense_title": "have a rest/shower/walk, etc.",
+            "level": "A2",
+            "definition": "used with nouns to say that someone does something",
+            "dictionary_examples": [
+              " Can I have a quick shower? ",
+              " Let's have a walk along the river. "
+            ],
+            "learner_examples": [
+              "If you want you can have a shower after play[ing] tennis. (Key English Test; A2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "have sth cleaned/cut/repaired, etc.",
+            "level": "B1",
+            "definition": "to pay someone to do something for you",
+            "dictionary_examples": [
+              "I'm having my hair cut this afternoon.",
+              "I've had my watch mended.",
+              "We're having the house painted next month."
+            ],
+            "learner_examples": [
+              "My mother is having her car repaired. (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "have sth stolen/taken, etc.",
+            "level": "B1",
+            "definition": "If you have something stolen/taken, etc. someone takes something that belongs to you.",
+            "dictionary_examples": [
+              "She had her car stolen last week.",
+              "I had my bag taken."
+            ],
+            "learner_examples": [
+              "He told me over the phone that he had arrived in London with his wife, but shortly after the arrival, he had ha[d] his wallet stolen in the underground station. (Preliminary English Test; B1; Korean)"
+            ]
+          },
+          {
+            "sense_title": "have (CAUSE)",
+            "level": "B1",
+            "definition": "to cause something to be in a particular state",
+            "dictionary_examples": [
+              "He had dinner ready by the time we got home.",
+              "We had the tent up within ten minutes."
+            ],
+            "learner_examples": [
+              "We had everything ready in case of an emergency or a chaos situation. (First Certificate in English; B2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "have (HOLD)",
+            "level": "B1",
+            "definition": "used to say that someone is holding something, or that someone or something is with them",
+            "dictionary_examples": [
+              "He had a pen in his hand.",
+              "She had a little boy with her."
+            ],
+            "learner_examples": [
+              "Maria had the phone in her hand. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "have no idea",
+            "level": "B1",
+            "definition": "to not know",
+            "dictionary_examples": [
+              "\"Where's Serge?\" \"I've no idea.\""
+            ],
+            "learner_examples": [
+              "I have no idea about how his children are. (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "have sb over/round/to stay, etc.",
+            "level": "B2",
+            "definition": "If you have someone over/round, etc. you arrange for someone to visit you in your home.",
+            "dictionary_examples": [
+              "We had Justyna and Al round for dinner last week."
+            ],
+            "learner_examples": [
+              "I'd like to thank you once more for having me round [to] your house. (First Certificate in English; B2; Polish)"
+            ]
+          },
+          {
+            "sense_title": "have sb do sth",
+            "level": "C2",
+            "definition": "to arrange for someone to do something",
+            "dictionary_examples": [
+              "If you wait, I'll have someone collect it for you.",
+              "I'll have my secretary call her this afternoon."
+            ],
+            "learner_examples": [
+              "I would like to request you, as a manager, to either have someone fix the problem with the microwave or simply replace it. (International English Language Testing System; C2; Ulithian)"
+            ]
+          },
+          {
+            "sense_title": "not have a clue",
+            "level": "B2",
+            "definition": "to be completely unable to guess, understand, or deal with something",
+            "dictionary_examples": [
+              "I haven't a clue what you're talking about."
+            ],
+            "learner_examples": [
+              "I haven't a clue about it. (First Certificate in English; B2; Japanese)"
+            ]
+          },
+          {
+            "sense_title": "have a word with sb",
+            "level": "B2",
+            "definition": "to talk to someone for a short time",
+            "dictionary_examples": [
+              "Could I have a word (with you) about the sales figures?",
+              "Perhaps you would have a quiet word with Simon about the problem."
+            ],
+            "learner_examples": [
+              "The nurse sitting beside me said to me, 'Your mother would like to have a word with you,' then she went out. (First Certificate in English; B2; Thai)"
+            ]
+          },
+          {
+            "sense_title": "have nothing to do with sb/sth",
+            "level": "B2",
+            "definition": "to have no connection or influence with someone or something",
+            "dictionary_examples": [
+              "He made his own decision - I had nothing to do with it."
+            ],
+            "learner_examples": [
+              "Of course, I tried to explain [to] him that I had nothing to do with the vanishing of the cake but he didn't trust me. (First Certificate in English; B2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "have nothing to do with sb",
+            "level": "B2",
+            "definition": "If something is or has nothing to do with you, you have no good reason to know about it or be involved with it.",
+            "dictionary_examples": [
+              "I wish he wouldn't offer advice on my marriage - it's nothing to do with him."
+            ],
+            "learner_examples": [
+              "The party was horrible: the guests were all talking about things that had nothing to do with me. (First Certificate in English; B2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "have sth against sb/sth",
+            "level": "C1",
+            "definition": "to have a reason not to like someone or something",
+            "dictionary_examples": [
+              "I've got nothing against him personally, I just don't think he's the right man for the job."
+            ],
+            "learner_examples": [
+              "If you have nothing against taking public transport, I suggest taking a bus. (Certificate in Advanced English; C1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "have it in for sb",
+            "level": "C2",
+            "definition": "to dislike someone and want to cause problems for them",
+            "dictionary_examples": [
+              "She really has it in for me - I don't know what I've done to offend her."
+            ],
+            "learner_examples": [
+              "Only then did she realise that somebody had it in for her. (Certificate of Proficiency in English; C2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "not have the faintest idea",
+            "level": "C2",
+            "definition": "used to emphasize that you do not know something",
+            "dictionary_examples": [
+              "I haven't the faintest idea what you're talking about."
+            ],
+            "learner_examples": [
+              "Some twenty years ago, when I left my parents' home to go and live on my own, I was [given] four mugs. By whom? I haven't the faintest idea. (Certificate of Proficiency in English; C2; Dutch)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

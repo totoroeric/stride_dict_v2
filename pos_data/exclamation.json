@@ -1,0 +1,2423 @@
+[
+  {
+    "word": "bye",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/729",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "bye",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKBUTTE019.mp3",
+          "written": "/baɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "bye",
+            "level": "A1",
+            "definition": "goodbye",
+            "dictionary_examples": [
+              "Are you going? Bye then."
+            ],
+            "learner_examples": [
+              "Bye, see you soon. (Key English Test; A2; Spanish)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Cheers!",
+    "guideword": "GOODBYE",
+    "level": "B1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/888",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "Cheers!",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/EPW_UK_0008.mp3",
+          "written": "/tʃɪəz/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "Cheers! (BEFORE DRINK)",
+            "level": "B1",
+            "definition": "a friendly expression said just before you drink an alcoholic drink",
+            "dictionary_examples": [
+              "Cheers! To your good health."
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "Cheers! (GOODBYE)",
+            "level": "B1",
+            "definition": "used to mean 'goodbye'",
+            "dictionary_examples": [
+              "\"Bye.\" \"Cheers, see you next week.\""
+            ],
+            "learner_examples": [
+              "See you later, cheers. (Preliminary English Test; B1; )"
+            ]
+          },
+          {
+            "sense_title": "Cheers! (THANK YOU)",
+            "level": "B2",
+            "definition": "used to mean 'thank you'",
+            "dictionary_examples": [
+              "\"I've bought you a drink.\" \"Cheers, mate.\""
+            ],
+            "learner_examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Cheers!",
+    "guideword": "THANK YOU",
+    "level": "B2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/888",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "Cheers!",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/EPW_UK_0008.mp3",
+          "written": "/tʃɪəz/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "Cheers! (BEFORE DRINK)",
+            "level": "B1",
+            "definition": "a friendly expression said just before you drink an alcoholic drink",
+            "dictionary_examples": [
+              "Cheers! To your good health."
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "Cheers! (GOODBYE)",
+            "level": "B1",
+            "definition": "used to mean 'goodbye'",
+            "dictionary_examples": [
+              "\"Bye.\" \"Cheers, see you next week.\""
+            ],
+            "learner_examples": [
+              "See you later, cheers. (Preliminary English Test; B1; )"
+            ]
+          },
+          {
+            "sense_title": "Cheers! (THANK YOU)",
+            "level": "B2",
+            "definition": "used to mean 'thank you'",
+            "dictionary_examples": [
+              "\"I've bought you a drink.\" \"Cheers, mate.\""
+            ],
+            "learner_examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "all right",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/175",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "all right",
+          "position": "adjective",
+          "audio": "http://www.englishprofile.org/evp/audio/UKALLEV020.mp3",
+          "written": "/ɔːlˈraɪt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "all right (WITHOUT PROBLEMS)",
+            "level": "A1",
+            "definition": "happening successfully or without problems",
+            "dictionary_examples": [
+              "Did the interview go all right?",
+              "Did he do all right in his exams?",
+              "Did you get home all right last night?"
+            ],
+            "learner_examples": [
+              "Tomorrow I have [the] day off, so everything is all right! (Skills for Life (Entry 1); A1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "all right (WELL)",
+            "level": "A2",
+            "definition": "not hurt or ill",
+            "dictionary_examples": [
+              "\"Harry's just slipped on the ice.\" \"Oh dear! Is he all right?\"",
+              "She was very ill for a while but she's all right now."
+            ],
+            "learner_examples": [
+              "Hi Jo How are you? I hope you are all right. (Key English Test; A2; Arabic)"
+            ]
+          },
+          {
+            "sense_title": "that's all right",
+            "level": "A2",
+            "definition": "used as an answer when someone thanks you, or something you say when someone says sorry, to show that you are not angry",
+            "dictionary_examples": [
+              "\"Thanks for getting the tickets.\" \"That's all right.\"",
+              "\"I'm sorry, I forgot all about your party.\" \"That's all right.\""
+            ],
+            "learner_examples": [
+              "That's all right. Don't worry about [it]. (Key English Test; A2; Thai)"
+            ]
+          },
+          {
+            "sense_title": "all right (PERMISSION)",
+            "level": "A2",
+            "definition": "used to ask if you can do something or to say that someone can do something",
+            "dictionary_examples": [
+              "Is it all right if I put some music on?",
+              "It's all right to have your friends round so long as you check with me first.",
+              "Is it all right with you if I leave the window open?"
+            ],
+            "learner_examples": [
+              "I [asked] him if it was all right if I stayed in his house and Mike answered: \"Of course\". (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "all right (GOOD ENOUGH)",
+            "level": "B1",
+            "definition": "good enough, although not very good",
+            "dictionary_examples": [
+              "\"What did you think of the film?\" \"It was all right. Nothing special.\""
+            ],
+            "learner_examples": [
+              "We arrived by ship and the trip was all right except my friend Tim was ill. (Preliminary English Test; B1; Croatian)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "all right",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKALLEV020.mp3",
+          "written": "/ɔːlˈraɪt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "all right",
+            "level": "A1",
+            "definition": "used to agree to a suggestion or request",
+            "dictionary_examples": [
+              "\"How about going out for dinner?\" \"All right.\"",
+              "\"Can we leave at six?\" \"All right.\""
+            ],
+            "learner_examples": [
+              "All right, tomorrow you get my jacket and wait for me at the bus stop. (Key English Test; A2; Thai)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alright",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/185",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "alright",
+          "position": "adjective",
+          "audio": "http://www.englishprofile.org/evp/audio/UKALLEV020.mp3",
+          "written": "/ɔːlˈraɪt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "alright (WITHOUT PROBLEMS)",
+            "level": "A2",
+            "definition": "happening successfully or without problems",
+            "dictionary_examples": [
+              "Did the interview go alright?",
+              "Did he do alright in his exams?",
+              "Did you get home alright last night?"
+            ],
+            "learner_examples": [
+              "It's good to know you are doing alright [at] school. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "alright (WELL)",
+            "level": "A2",
+            "definition": "not hurt or ill",
+            "dictionary_examples": [
+              "\"Harry's just slipped on the ice.\" \"Oh dear! Is he alright?\"",
+              "She was very ill for a while but she's alright now."
+            ],
+            "learner_examples": [
+              "Dear Robbie, I hope you're alright. (Key English Test; A2; Tamil)"
+            ]
+          },
+          {
+            "sense_title": "that's alright",
+            "level": "A2",
+            "definition": "used as an answer when someone thanks you, or something you say when someone says sorry, to show that you are not angry",
+            "dictionary_examples": [
+              "\"Thanks for getting the tickets.\" \"That's alright.\"",
+              "\"I'm sorry, I forgot all about your party.\" \"That's alright.\""
+            ],
+            "learner_examples": [
+              "Well I am angry with you because you did not come to my party but that's alright - after all, you are my friend. (Key English Test; A2; Gujarati)"
+            ]
+          },
+          {
+            "sense_title": "alright (PERMISSION)",
+            "level": "A2",
+            "definition": "used to ask if you can do something or to say that someone can do something",
+            "dictionary_examples": [
+              "Is it alright if I put some music on?",
+              "It's alright to have your friends round so long as you check with me first.",
+              "Is it alright with you if I leave early today?"
+            ],
+            "learner_examples": [
+              "I want to see the film on Saturday if that's alright [with] you? (Key English Test; A2; Tagalog)"
+            ]
+          },
+          {
+            "sense_title": "alright (GOOD ENOUGH)",
+            "level": "B1",
+            "definition": "good enough, although not very good",
+            "dictionary_examples": [
+              "\"What did you think of the film?\" \"It was alright. Nothing special.\"",
+              "Did your exam go alright?"
+            ],
+            "learner_examples": [
+              "I hope the weather will be alright. (Preliminary English Test; B1; Slovak)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "alright",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKALLEV020.mp3",
+          "written": "/ɔːlˈraɪt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "alright",
+            "level": "A1",
+            "definition": "used to agree to a suggestion or request",
+            "dictionary_examples": [
+              "\"How about going swimming?\" \"Alright.\"",
+              "\"Would you look after the children?\" \"Yes, alright.\""
+            ],
+            "learner_examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Cheers!",
+    "guideword": "BEFORE DRINK",
+    "level": "B1",
+    "part_of_speech": "exclamation",
+    "topic": "",
+    "details": "/british-english/words/detail/888",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "Cheers!",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/EPW_UK_0008.mp3",
+          "written": "/tʃɪəz/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "Cheers! (BEFORE DRINK)",
+            "level": "B1",
+            "definition": "a friendly expression said just before you drink an alcoholic drink",
+            "dictionary_examples": [
+              "Cheers! To your good health."
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "Cheers! (GOODBYE)",
+            "level": "B1",
+            "definition": "used to mean 'goodbye'",
+            "dictionary_examples": [
+              "\"Bye.\" \"Cheers, see you next week.\""
+            ],
+            "learner_examples": [
+              "See you later, cheers. (Preliminary English Test; B1; )"
+            ]
+          },
+          {
+            "sense_title": "Cheers! (THANK YOU)",
+            "level": "B2",
+            "definition": "used to mean 'thank you'",
+            "dictionary_examples": [
+              "\"I've bought you a drink.\" \"Cheers, mate.\""
+            ],
+            "learner_examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cool",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/1225",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "cool",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCOOKE005.mp3",
+          "written": "/kuːl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "cool",
+            "level": "A2",
+            "definition": "used when you like something or agree to something",
+            "dictionary_examples": [
+              "You've got your own apartment? Cool!",
+              "\"We'll meet at ten, then?\" \"Cool.\""
+            ],
+            "learner_examples": [
+              "That's very exciting. Cool! (Key English Test; A2; Chinese)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "cool",
+          "position": "adjective",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCOOKE005.mp3",
+          "written": "/kuːl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "cool (GOOD)",
+            "level": "A2",
+            "definition": "good, stylish, or fashionable",
+            "dictionary_examples": [
+              "It was a really cool gig.",
+              "She's really cool."
+            ],
+            "learner_examples": [
+              "I got this mega cool T-shirt. (Key English Test; A2; Dutch)"
+            ]
+          },
+          {
+            "sense_title": "cool (SLIGHTLY COLD)",
+            "level": "B1",
+            "definition": "slightly cold, but not too cold",
+            "dictionary_examples": [
+              "cool water",
+              "a nice cool breeze"
+            ],
+            "learner_examples": [
+              "Sometimes a cool wind blows [in Bodrum]. (Preliminary English Test; B1; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "cool (CALM)",
+            "level": "C1",
+            "definition": "calm and not emotional",
+            "dictionary_examples": [
+              "She seemed cool and confident."
+            ],
+            "learner_examples": [
+              "I remember saying to myself that \"this little boy will survive\" and after that I felt totally cool and calm and did what had to be done. (Certificate in Advanced English; C1; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "cool (UNFRIENDLY)",
+            "level": "C2",
+            "definition": "unfriendly",
+            "dictionary_examples": [
+              "She was very cool towards us."
+            ],
+            "learner_examples": [
+              "I encouraged him to tell me what was going on and I could hardly believe [it] when he explained the reason why he had been treating me in a cool manner. (Certificate of Proficiency in English; C2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "keep a cool head",
+            "level": "C2",
+            "definition": "to remain calm in a difficult situation",
+            "dictionary_examples": [
+              "To be successful in business, you need to keep a cool head in negotiations."
+            ],
+            "learner_examples": [
+              "Kevin managed to keep a cool head and took over the navigation. (Certificate of Proficiency in English; C2; Spanish)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "cool",
+          "position": "verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCOOKE005.mp3",
+          "written": "/kuːl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "cool",
+            "level": "B2",
+            "definition": "to become less hot, or to make something become less hot",
+            "dictionary_examples": [
+              "Allow the bread to cool before slicing it."
+            ],
+            "learner_examples": [
+              "In the summer many people were delighted by fountains which cooled the air. (First Certificate in English; B2; German)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "cool",
+          "position": "noun",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCOOKE005.mp3",
+          "written": "/kuːl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "lose your cool",
+            "level": "C2",
+            "definition": "to suddenly become very angry",
+            "dictionary_examples": [
+              "She lost her cool and started shouting."
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "keep your cool",
+            "level": "C1",
+            "definition": "to remain calm",
+            "dictionary_examples": [
+              "You did well to keep your cool in all that panic."
+            ],
+            "learner_examples": [
+              "Whatever the problem is, keep your cool, don't panic. (Certificate in Advanced English; C1; Turkish)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "damn",
+    "guideword": "",
+    "level": "B1",
+    "part_of_speech": "exclamation",
+    "topic": "",
+    "details": "/british-english/words/detail/1375",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "damn",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKDAGOE021.mp3",
+          "written": "/dæm/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "damn",
+            "level": "B1",
+            "definition": "used to express anger or disappointment",
+            "dictionary_examples": [
+              "Damn! I've forgotten the tickets."
+            ],
+            "learner_examples": [
+              "It was just a joke, damn it. (Preliminary English Test; B1; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "congratulations",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "",
+    "details": "/british-english/words/detail/1132",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "congratulations",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCONFU017.mp3",
+          "written": "/kənˌgræt.jʊˈleɪ.ʃənz/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "congratulations",
+            "level": "A2",
+            "definition": "something that you say when you want to congratulate someone",
+            "dictionary_examples": [
+              "\"I passed my driving test yesterday.\" \"Congratulations! That's fantastic.\"",
+              "Congratulations on your engagement!"
+            ],
+            "learner_examples": [
+              "Congratulations on your wedding. (Skills for Life (Entry 2); A2; Korean)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "goodbye",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/2531",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "goodbye",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKGONAD012.mp3",
+          "written": "/ˈgʊd.baɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "goodbye",
+            "level": "A1",
+            "definition": "something you say when you leave someone or when they leave you",
+            "dictionary_examples": [
+              "Goodbye Marcos! See you next week."
+            ],
+            "learner_examples": [
+              "Goodbye for now. (Key English Test; A2; Turkish)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hi",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/2719",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "hi",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKHHOK_002.mp3",
+          "written": "/haɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "hi",
+            "level": "A1",
+            "definition": "hello",
+            "dictionary_examples": [
+              "Hi, there!",
+              "Hi, how're you doing?"
+            ],
+            "learner_examples": [
+              "Hi Ramesh. (Skills for Life (Entry 1); A1; Italian)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hey",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/2718",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "hey",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKHAVE_016.mp3",
+          "written": "/heɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "hey",
+            "level": "A2",
+            "definition": "used as a way of attracting someone's attention, or as a greeting",
+            "dictionary_examples": [
+              "Hey! What are you doing with my car?",
+              "Hey, are you guys coming to Angela's party?"
+            ],
+            "learner_examples": [
+              "Jesse: Hey, how are you? (Key English Test; A2; Chinese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "good afternoon",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/2530",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "good afternoon",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCLD00579.mp3",
+          "written": "/ˌgʊd.ɑːf.təˈnuːn/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "good afternoon",
+            "level": "A1",
+            "definition": "something you say to someone when you meet them in the afternoon",
+            "dictionary_examples": [
+              " Good afternoon, Cara."
+            ],
+            "learner_examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "good evening",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/2532",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "good evening",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCLD00580.mp3",
+          "written": "/ˌgʊdˈiːv.nɪŋ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "good evening",
+            "level": "A1",
+            "definition": "something you say to greet someone in the evening",
+            "dictionary_examples": [
+              " Good evening, everyone."
+            ],
+            "learner_examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "good morning",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/2534",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "good morning",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCLD00586.mp3",
+          "written": "/ˌgʊdˈmɔː.nɪŋ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "good morning",
+            "level": "A1",
+            "definition": "something you say to greet someone when you meet them in the morning",
+            "dictionary_examples": [
+              " Good morning, Joe - how are you today?"
+            ],
+            "learner_examples": [
+              "When you come in clas[s] he say[s] hi good morning every body. (Skills for Life (Entry 1); A1; Arabic)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "good night",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/2536",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "good night",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCLD00588.mp3",
+          "written": "/ˌgʊdˈnaɪt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "good night",
+            "level": "A1",
+            "definition": "something you say when you leave someone or they leave you in the evening, or when you are going to bed",
+            "dictionary_examples": [
+              " Good night, everyone - I'm off to bed."
+            ],
+            "learner_examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hello",
+    "guideword": "GREETING",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/2701",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "hello",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKHEFT_029.mp3",
+          "written": "/helˈəʊ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "hello (GREETING)",
+            "level": "A1",
+            "definition": "used to greet someone",
+            "dictionary_examples": [
+              "Hello, Paul. I haven't seen you for ages.",
+              "I just thought I'd call by and say hello."
+            ],
+            "learner_examples": [
+              "Hello Fatima, how are you? (Skills for Life (Entry 2); A2; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "hello (ON PHONE)",
+            "level": "A1",
+            "definition": "used to start a conversation on the phone",
+            "dictionary_examples": [
+              "\"Hello, I'd like some information about your flights to the USA, please.\""
+            ],
+            "learner_examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hello",
+    "guideword": "ON PHONE",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/2701",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "hello",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKHEFT_029.mp3",
+          "written": "/helˈəʊ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "hello (GREETING)",
+            "level": "A1",
+            "definition": "used to greet someone",
+            "dictionary_examples": [
+              "Hello, Paul. I haven't seen you for ages.",
+              "I just thought I'd call by and say hello."
+            ],
+            "learner_examples": [
+              "Hello Fatima, how are you? (Skills for Life (Entry 2); A2; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "hello (ON PHONE)",
+            "level": "A1",
+            "definition": "used to start a conversation on the phone",
+            "dictionary_examples": [
+              "\"Hello, I'd like some information about your flights to the USA, please.\""
+            ],
+            "learner_examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "OK",
+    "guideword": "AGREEING",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/3968",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "OK",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKOFFST021.mp3",
+          "written": "/ˌəʊˈkeɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "OK (AGREEING)",
+            "level": "A1",
+            "definition": "used when agreeing to do something or when allowing someone to do something",
+            "dictionary_examples": [
+              "\"Could you pick me up from the station?\" \"OK, what time?\"",
+              "\"I'll pay you back tomorrow.\" \"Okay, no problem.\""
+            ],
+            "learner_examples": [
+              "OK. See you for dinner! (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "OK (UNDERSTAND)",
+            "level": "A2",
+            "definition": "used to check that someone understands something or that they agree to something",
+            "dictionary_examples": [
+              "So I'll get the food and you can get the drink, OK?",
+              "I'll see you at six-thirty, okay?"
+            ],
+            "learner_examples": [
+              "Don't forget to wear [an] old shirt and jeans, okay? (Key English Test; A2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "OK (ACTION)",
+            "level": "A2",
+            "definition": "used as a way of showing that you are going to take action, start speaking or start something new",
+            "dictionary_examples": [
+              "OK then, if you're ready we'll start.",
+              "Okay, let's go."
+            ],
+            "learner_examples": []
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "OK",
+          "position": "adjective",
+          "audio": "http://www.englishprofile.org/evp/audio/UKOFFST021.mp3",
+          "written": "/ˌəʊˈkeɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "OK (NOT ILL/UPSET, ETC.)",
+            "level": "A1",
+            "definition": "not ill, damaged, upset, etc.",
+            "dictionary_examples": [
+              "Are you OK? You look a bit pale.",
+              "How's Paola? Is she okay after her fall yesterday?",
+              "\"Is everything OK with you?\" \"Yes, fine.\"",
+              "I'll just check that the car's okay - that was a bit of a bang!"
+            ],
+            "learner_examples": [
+              "Hi, Ramesh What are you doing? Are you OK? (Skills for Life (Entry 1); A1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "OK (GOOD)",
+            "level": "A2",
+            "definition": "good or good enough",
+            "dictionary_examples": [
+              "Is your food OK?",
+              "\"Did you have a good meal last night?\" \"It was okay, though I've had better.\"",
+              "Her voice is OK, but it's nothing special."
+            ],
+            "learner_examples": [
+              "I hope the new trousers you bought are OK. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "OK (ALLOWED)",
+            "level": "A2",
+            "definition": "allowed or acceptable",
+            "dictionary_examples": [
+              "Is it OK if I bring a friend to the party?",
+              "Is it okay to smoke in here?",
+              "If it's okay by/with you, I'll leave the shopping till tomorrow."
+            ],
+            "learner_examples": [
+              "Dear Ally, It's okay that you couldn't come. (Key English Test; A2; Chinese)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "OK",
+          "position": "adverb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKOFFST021.mp3",
+          "written": "/ˌəʊˈkeɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "OK",
+            "level": "A2",
+            "definition": "in a satisfactory way",
+            "dictionary_examples": [
+              "Everything was going OK until the printer stopped working.",
+              "Did you sleep okay?",
+              "I just phoned to make sure that you got there okay."
+            ],
+            "learner_examples": [
+              "Finally the day finished OK. (Preliminary English Test; B1; Catalan)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "OK",
+    "guideword": "ACTION",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/3968",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "OK",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKOFFST021.mp3",
+          "written": "/ˌəʊˈkeɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "OK (AGREEING)",
+            "level": "A1",
+            "definition": "used when agreeing to do something or when allowing someone to do something",
+            "dictionary_examples": [
+              "\"Could you pick me up from the station?\" \"OK, what time?\"",
+              "\"I'll pay you back tomorrow.\" \"Okay, no problem.\""
+            ],
+            "learner_examples": [
+              "OK. See you for dinner! (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "OK (UNDERSTAND)",
+            "level": "A2",
+            "definition": "used to check that someone understands something or that they agree to something",
+            "dictionary_examples": [
+              "So I'll get the food and you can get the drink, OK?",
+              "I'll see you at six-thirty, okay?"
+            ],
+            "learner_examples": [
+              "Don't forget to wear [an] old shirt and jeans, okay? (Key English Test; A2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "OK (ACTION)",
+            "level": "A2",
+            "definition": "used as a way of showing that you are going to take action, start speaking or start something new",
+            "dictionary_examples": [
+              "OK then, if you're ready we'll start.",
+              "Okay, let's go."
+            ],
+            "learner_examples": []
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "OK",
+          "position": "adjective",
+          "audio": "http://www.englishprofile.org/evp/audio/UKOFFST021.mp3",
+          "written": "/ˌəʊˈkeɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "OK (NOT ILL/UPSET, ETC.)",
+            "level": "A1",
+            "definition": "not ill, damaged, upset, etc.",
+            "dictionary_examples": [
+              "Are you OK? You look a bit pale.",
+              "How's Paola? Is she okay after her fall yesterday?",
+              "\"Is everything OK with you?\" \"Yes, fine.\"",
+              "I'll just check that the car's okay - that was a bit of a bang!"
+            ],
+            "learner_examples": [
+              "Hi, Ramesh What are you doing? Are you OK? (Skills for Life (Entry 1); A1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "OK (GOOD)",
+            "level": "A2",
+            "definition": "good or good enough",
+            "dictionary_examples": [
+              "Is your food OK?",
+              "\"Did you have a good meal last night?\" \"It was okay, though I've had better.\"",
+              "Her voice is OK, but it's nothing special."
+            ],
+            "learner_examples": [
+              "I hope the new trousers you bought are OK. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "OK (ALLOWED)",
+            "level": "A2",
+            "definition": "allowed or acceptable",
+            "dictionary_examples": [
+              "Is it OK if I bring a friend to the party?",
+              "Is it okay to smoke in here?",
+              "If it's okay by/with you, I'll leave the shopping till tomorrow."
+            ],
+            "learner_examples": [
+              "Dear Ally, It's okay that you couldn't come. (Key English Test; A2; Chinese)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "OK",
+          "position": "adverb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKOFFST021.mp3",
+          "written": "/ˌəʊˈkeɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "OK",
+            "level": "A2",
+            "definition": "in a satisfactory way",
+            "dictionary_examples": [
+              "Everything was going OK until the printer stopped working.",
+              "Did you sleep okay?",
+              "I just phoned to make sure that you got there okay."
+            ],
+            "learner_examples": [
+              "Finally the day finished OK. (Preliminary English Test; B1; Catalan)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "OK",
+    "guideword": "UNDERSTAND",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "",
+    "details": "/british-english/words/detail/3968",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "OK",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKOFFST021.mp3",
+          "written": "/ˌəʊˈkeɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "OK (AGREEING)",
+            "level": "A1",
+            "definition": "used when agreeing to do something or when allowing someone to do something",
+            "dictionary_examples": [
+              "\"Could you pick me up from the station?\" \"OK, what time?\"",
+              "\"I'll pay you back tomorrow.\" \"Okay, no problem.\""
+            ],
+            "learner_examples": [
+              "OK. See you for dinner! (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "OK (UNDERSTAND)",
+            "level": "A2",
+            "definition": "used to check that someone understands something or that they agree to something",
+            "dictionary_examples": [
+              "So I'll get the food and you can get the drink, OK?",
+              "I'll see you at six-thirty, okay?"
+            ],
+            "learner_examples": [
+              "Don't forget to wear [an] old shirt and jeans, okay? (Key English Test; A2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "OK (ACTION)",
+            "level": "A2",
+            "definition": "used as a way of showing that you are going to take action, start speaking or start something new",
+            "dictionary_examples": [
+              "OK then, if you're ready we'll start.",
+              "Okay, let's go."
+            ],
+            "learner_examples": []
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "OK",
+          "position": "adjective",
+          "audio": "http://www.englishprofile.org/evp/audio/UKOFFST021.mp3",
+          "written": "/ˌəʊˈkeɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "OK (NOT ILL/UPSET, ETC.)",
+            "level": "A1",
+            "definition": "not ill, damaged, upset, etc.",
+            "dictionary_examples": [
+              "Are you OK? You look a bit pale.",
+              "How's Paola? Is she okay after her fall yesterday?",
+              "\"Is everything OK with you?\" \"Yes, fine.\"",
+              "I'll just check that the car's okay - that was a bit of a bang!"
+            ],
+            "learner_examples": [
+              "Hi, Ramesh What are you doing? Are you OK? (Skills for Life (Entry 1); A1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "OK (GOOD)",
+            "level": "A2",
+            "definition": "good or good enough",
+            "dictionary_examples": [
+              "Is your food OK?",
+              "\"Did you have a good meal last night?\" \"It was okay, though I've had better.\"",
+              "Her voice is OK, but it's nothing special."
+            ],
+            "learner_examples": [
+              "I hope the new trousers you bought are OK. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "OK (ALLOWED)",
+            "level": "A2",
+            "definition": "allowed or acceptable",
+            "dictionary_examples": [
+              "Is it OK if I bring a friend to the party?",
+              "Is it okay to smoke in here?",
+              "If it's okay by/with you, I'll leave the shopping till tomorrow."
+            ],
+            "learner_examples": [
+              "Dear Ally, It's okay that you couldn't come. (Key English Test; A2; Chinese)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "OK",
+          "position": "adverb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKOFFST021.mp3",
+          "written": "/ˌəʊˈkeɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "OK",
+            "level": "A2",
+            "definition": "in a satisfactory way",
+            "dictionary_examples": [
+              "Everything was going OK until the printer stopped working.",
+              "Did you sleep okay?",
+              "I just phoned to make sure that you got there okay."
+            ],
+            "learner_examples": [
+              "Finally the day finished OK. (Preliminary English Test; B1; Catalan)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "oh",
+    "guideword": "NEW IDEA",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/3966",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "oh",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKNUTRA027.mp3",
+          "written": "/əʊ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "oh (NEW IDEA)",
+            "level": "A1",
+            "definition": "introduces an idea that you have just thought of, or something that you have just remembered",
+            "dictionary_examples": [
+              "Oh, I've just thought of a problem.",
+              "Oh, and don't forget to lock the back door.",
+              "Oh yeah, someone phoned for you while you were out."
+            ],
+            "learner_examples": [
+              "Oh, and don't forget to show up in old clothes, ok? (Key English Test; A2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "oh (EXPRESS EMOTION)",
+            "level": "A1",
+            "definition": "used to express different emotions, such as surprise, disappointment and pleasure, often as a reaction to something someone has said",
+            "dictionary_examples": [
+              "\"Jack can't come after all.\" \"Oh dear, Emma will be sad to hear that.\"",
+              "\"He's been married three times.\" \"Oh, really? I didn't know that!\"",
+              "\"I'm afraid I can't come to the party.\" \" Oh, that's a shame.\"",
+              "Is that for me? Oh, you're so kind!",
+              "\"I'm sorry I forgot to ring you.\" \"Oh, don't worry.\""
+            ],
+            "learner_examples": [
+              "Oh, that's ok. (Key English Test; A2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "Oh my God!",
+            "level": "B1",
+            "definition": "used to emphasize how surprised, angry, shocked, etc. you are",
+            "dictionary_examples": [
+              "Oh my God! The car's been stolen."
+            ],
+            "learner_examples": [
+              "Oh my god, your sister is getting married! (Preliminary English Test; B1; Spanish)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "oh",
+    "guideword": "EXPRESS EMOTION",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/3966",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "oh",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKNUTRA027.mp3",
+          "written": "/əʊ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "oh (NEW IDEA)",
+            "level": "A1",
+            "definition": "introduces an idea that you have just thought of, or something that you have just remembered",
+            "dictionary_examples": [
+              "Oh, I've just thought of a problem.",
+              "Oh, and don't forget to lock the back door.",
+              "Oh yeah, someone phoned for you while you were out."
+            ],
+            "learner_examples": [
+              "Oh, and don't forget to show up in old clothes, ok? (Key English Test; A2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "oh (EXPRESS EMOTION)",
+            "level": "A1",
+            "definition": "used to express different emotions, such as surprise, disappointment and pleasure, often as a reaction to something someone has said",
+            "dictionary_examples": [
+              "\"Jack can't come after all.\" \"Oh dear, Emma will be sad to hear that.\"",
+              "\"He's been married three times.\" \"Oh, really? I didn't know that!\"",
+              "\"I'm afraid I can't come to the party.\" \" Oh, that's a shame.\"",
+              "Is that for me? Oh, you're so kind!",
+              "\"I'm sorry I forgot to ring you.\" \"Oh, don't worry.\""
+            ],
+            "learner_examples": [
+              "Oh, that's ok. (Key English Test; A2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "Oh my God!",
+            "level": "B1",
+            "definition": "used to emphasize how surprised, angry, shocked, etc. you are",
+            "dictionary_examples": [
+              "Oh my God! The car's been stolen."
+            ],
+            "learner_examples": [
+              "Oh my god, your sister is getting married! (Preliminary English Test; B1; Spanish)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "right",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/4971",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "right",
+          "position": "adjective",
+          "audio": "http://www.englishprofile.org/evp/audio/UKRIDER015.mp3",
+          "written": "/raɪt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "right (CORRECT)",
+            "level": "A1",
+            "definition": "correct or true",
+            "dictionary_examples": [
+              " He only got half the answers right. ",
+              " You're right about Alison - she's incredible! ",
+              " \"You came here in 1979, didn't you?\" \"That's right.\" "
+            ],
+            "learner_examples": [
+              "You're right! (Key English Test; A2; Catalan)"
+            ]
+          },
+          {
+            "sense_title": "right (DIRECTION)",
+            "level": "A2",
+            "definition": "on or towards the side of your body that is to the east when you are facing north",
+            "dictionary_examples": [
+              "Most people write with their right hand.",
+              " There's a tree on the right side of the house. "
+            ],
+            "learner_examples": [
+              "He saw a man running away holding a gun [i]n his right hand. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "right (SUITABLE)",
+            "level": "B1",
+            "definition": "suitable or best in a particular situation",
+            "dictionary_examples": [
+              " I'm not sure she's the right person for the job. ",
+              " Are we going in the right direction? "
+            ],
+            "learner_examples": [
+              "I know that you will make the right choice! (Preliminary English Test; B1; Italian)"
+            ]
+          },
+          {
+            "sense_title": "right (MORALLY ACCEPTABLE)",
+            "level": "B2",
+            "definition": "fair or morally acceptable",
+            "dictionary_examples": [
+              " It's not right to criticize him behind his back.",
+              "Someone had to tell him - I think you did the right thing."
+            ],
+            "learner_examples": [
+              "Was he doing the right thing or he was just making matters worse? (First Certificate in English; B2; Greek)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "right",
+          "position": "adverb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKRIDER015.mp3",
+          "written": "/raɪt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "right (DIRECTION)",
+            "level": "A2",
+            "definition": "to the side of your body that is to the east when you are facing north",
+            "dictionary_examples": [
+              " Turn/Go right at the first traffic lights."
+            ],
+            "learner_examples": [
+              "When you go from [the] city, [at the] first roundabout turn right. (Skills for Life (Entry 2); A2; Hungarian)"
+            ]
+          },
+          {
+            "sense_title": "right (IN SPEECH)",
+            "level": "A2",
+            "definition": "used at the beginning of a sentence to get someone's attention or to show you have understood someone",
+            "dictionary_examples": [
+              "Right, whose turn is it to tidy up?",
+              "Right, so Helen's coming tomorrow and Trevor on Thursday."
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "right (EXACTLY)",
+            "level": "B1",
+            "definition": "exactly in a place or time",
+            "dictionary_examples": [
+              "He's right here with me.",
+              "I fell asleep right in the middle of her speech.",
+              "They live right in the centre of the city."
+            ],
+            "learner_examples": [
+              "That's me, right here. (First Certificate in English; B2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "right (CORRECTLY)",
+            "level": "B2",
+            "definition": "correctly",
+            "dictionary_examples": [
+              "He guessed right most of the time."
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "right away/now/after",
+            "level": "B1",
+            "definition": "immediately",
+            "dictionary_examples": [
+              " Do you want to start right away?"
+            ],
+            "learner_examples": [
+              "I [would] love to see your new trousers but I'm busy right now. (Preliminary English Test; B1; Farsi)"
+            ]
+          },
+          {
+            "sense_title": "right (ALL)",
+            "level": "C2",
+            "definition": "all the way",
+            "dictionary_examples": [
+              "Did you read it right through to the end?"
+            ],
+            "learner_examples": [
+              "As time passes by, Ralph learns about Piggy's value as he is the only one that stays with him right to the end. (Certificate of Proficiency in English; C2; Portuguese)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "right",
+          "position": "noun",
+          "audio": "http://www.englishprofile.org/evp/audio/UKRIDER015.mp3",
+          "written": "/raɪt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "right (DIRECTION)",
+            "level": "A2",
+            "definition": "the right side of your body, or the direction towards this side",
+            "dictionary_examples": [
+              " You'll find her in the second room on the right. "
+            ],
+            "learner_examples": [
+              "On the right there is a wardrobe and a table with a chair. (Key English Test; A2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "right (BEHAVIOUR)",
+            "level": "B2",
+            "definition": "morally correct behaviour",
+            "dictionary_examples": [
+              " I've tried to teach them the difference between right and wrong. "
+            ],
+            "learner_examples": [
+              "He was raised not knowing the difference between right and wrong. (First Certificate in English; B2; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "right (LAW)",
+            "level": "B2",
+            "definition": "something that the law allows you to do",
+            "dictionary_examples": [
+              " the right to free speech ",
+              " the right to vote"
+            ],
+            "learner_examples": [
+              "To sum up, famous people are the same as we are, and we all have the right to lead a private life and no right to break into their privacy. (First Certificate in English; B2; Japanese)"
+            ]
+          },
+          {
+            "sense_title": "the Right/right",
+            "level": "C2",
+            "definition": "political groups which support capitalism",
+            "dictionary_examples": [
+              "The right campaigned against the president."
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "have a/no right to do sth",
+            "level": "C1",
+            "definition": "to have, or not have, a good reason for something",
+            "dictionary_examples": [
+              "He has a right to be angry.",
+              "She had no right to speak to me like that."
+            ],
+            "learner_examples": [
+              "Finally, you have no right to say that we \"did not reach our target figure\" since the whole event was considered to be a success by many people. (Certificate in Advanced English; C1; French)"
+            ]
+          },
+          {
+            "sense_title": "in its/his/their, etc. own right",
+            "level": "C2",
+            "definition": "in a way that does not rely on anything or anyone else",
+            "dictionary_examples": [
+              "I think this is a dialect, rather than a language in its own right.",
+              "These experiments are very important in their own right."
+            ],
+            "learner_examples": [
+              "Major international sports competitions can either be understood as a means to an end or an end in their own right. (Certificate of Proficiency in English; C2; Spanish)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "right",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKRIDER015.mp3",
+          "written": "/raɪt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "right",
+            "level": "A2",
+            "definition": "used to express agreement with someone",
+            "dictionary_examples": [
+              "\"Johnny, you climb up first.\" - \"Right!\""
+            ],
+            "learner_examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "please",
+    "guideword": "POLITE REQUEST",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/4300",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "please",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKPLAYG022.mp3",
+          "written": "/pliːz/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "please",
+            "level": "A1",
+            "definition": "used to make a request more polite",
+            "dictionary_examples": [
+              "Could I have two cups of coffee and a tea, please?",
+              "Please remember to close the windows before you leave."
+            ],
+            "learner_examples": [
+              "We like Polish foo[d], so please make us something from Poland. (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "Yes, please",
+            "level": "A1",
+            "definition": "used to accept something politely",
+            "dictionary_examples": [
+              "\"Would you like a lift home?\" \"Oh yes, please.\""
+            ],
+            "learner_examples": [
+              "\"Yes, please, it's an emergency,\" [he] answered. (Preliminary English Test; B1; Portuguese)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "please",
+          "position": "verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKPLAYG022.mp3",
+          "written": "/pliːz/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "please",
+            "level": "B1",
+            "definition": "to make someone feel happy",
+            "dictionary_examples": [
+              "I only got married to please my parents.",
+              "He was always a good boy, very friendly and eager to please."
+            ],
+            "learner_examples": [
+              "Considering her loneliness, we made every effort to please her and to encourage her, because she was loved by everybody for her gentle, kind and lovely character. (First Certificate in English; B2; Japanese)"
+            ]
+          },
+          {
+            "sense_title": "anything/as/what/whatever, etc. you please",
+            "level": "C2",
+            "definition": "used to say that someone can have or do anything they want",
+            "dictionary_examples": [
+              "Feel free to talk about anything you please.",
+              "He can come and go as he pleases."
+            ],
+            "learner_examples": [
+              "Another is to [have] 20 years to do whatever you please! (Certificate of Proficiency in English; C2; Dutch)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pardon",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/4123",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "pardon",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKPARAS014.mp3",
+          "written": "/ˈpɑː.dən/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "pardon",
+            "level": "A2",
+            "definition": "used to politely ask someone to repeat something they have said because you have not heard it",
+            "dictionary_examples": [
+              "\"You'll need an umbrella.\" - \"Pardon?\" - \"I said you'll need an umbrella.\""
+            ],
+            "learner_examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "thanks",
+    "guideword": "THANK YOU",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/5970",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "thanks",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKTETCH024.mp3",
+          "written": "/θæŋks/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "thanks",
+            "level": "A1",
+            "definition": "thank you",
+            "dictionary_examples": [
+              "Thanks for the advice.",
+              "Can you pass me that book? Thanks very much."
+            ],
+            "learner_examples": [
+              "Hi, Thanks for your invite. (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "no thanks",
+            "level": "A2",
+            "definition": "used to refuse an offer politely",
+            "dictionary_examples": [
+              "\"Would you like a drink?\" \"No thanks, I've just had one.\""
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "thanks to sb/sth",
+            "level": "B2",
+            "definition": "because of someone or something",
+            "dictionary_examples": [
+              "I passed my driving test, thanks to the extra help my dad gave me.",
+              "Its thanks to Sandy that I heard about the job."
+            ],
+            "learner_examples": []
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "thanks",
+          "position": "noun",
+          "audio": "http://www.englishprofile.org/evp/audio/UKTETCH024.mp3",
+          "written": "/θæŋks/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "thanks",
+            "level": "B2",
+            "definition": "words or actions that show you are grateful or pleased about something",
+            "dictionary_examples": [
+              "They expressed their thanks to the organisers.",
+              "He wrote a letter of thanks to the hospital."
+            ],
+            "learner_examples": [
+              "Give thanks also to your wife, we really ap[p]reciate[d] her marvellous cooking. (First Certificate in English; B2; Swedish)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "thank you",
+    "guideword": "GRATEFUL",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/5971",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "thank you",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCLD01459.mp3",
+          "written": "/ˈθæŋk.ju/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "thank you (GRATEFUL)",
+            "level": "A1",
+            "definition": "used to tell someone that you are grateful because they have given you something, done something for you or made a polite remark",
+            "dictionary_examples": [
+              "That was a delicious lunch, thank you.",
+              "\"Here's your coffee.\" \"Thank you very much.\"",
+              "Thank you for my lovely birthday present.",
+              "\"You look very nice in that dress.\" \"Thank you.\""
+            ],
+            "learner_examples": [
+              "I like pork meat very much. Thank you very much. (Skills for Life (Entry 1); A1; Mandarin)"
+            ]
+          },
+          {
+            "sense_title": "thank you (ACCEPT/REFUSE)",
+            "level": "A2",
+            "definition": "said to politely accept or refuse something that has been offered to you",
+            "dictionary_examples": [
+              "\"Would you like some more cake?\" \"Yes, I will have a small piece, thank you.\"",
+              "\"Do you need any help?\" \"No, thank you.\""
+            ],
+            "learner_examples": []
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "thank you",
+          "position": "noun",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCLD01459.mp3",
+          "written": "/ˈθæŋk.ju/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "thank you",
+            "level": "B1",
+            "definition": "something that you say or do in order to show that you are grateful for something",
+            "dictionary_examples": [
+              "I'd like to say a big thank you to everyone for all their help.",
+              "The chocolates were a thank you for looking after the children."
+            ],
+            "learner_examples": [
+              "I'm writing to say [a] very big thank you for our fantastic weekend. (Preliminary English Test; B1; Russian)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "thank you",
+    "guideword": "ACCEPT/REFUSE",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/5971",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "thank you",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCLD01459.mp3",
+          "written": "/ˈθæŋk.ju/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "thank you (GRATEFUL)",
+            "level": "A1",
+            "definition": "used to tell someone that you are grateful because they have given you something, done something for you or made a polite remark",
+            "dictionary_examples": [
+              "That was a delicious lunch, thank you.",
+              "\"Here's your coffee.\" \"Thank you very much.\"",
+              "Thank you for my lovely birthday present.",
+              "\"You look very nice in that dress.\" \"Thank you.\""
+            ],
+            "learner_examples": [
+              "I like pork meat very much. Thank you very much. (Skills for Life (Entry 1); A1; Mandarin)"
+            ]
+          },
+          {
+            "sense_title": "thank you (ACCEPT/REFUSE)",
+            "level": "A2",
+            "definition": "said to politely accept or refuse something that has been offered to you",
+            "dictionary_examples": [
+              "\"Would you like some more cake?\" \"Yes, I will have a small piece, thank you.\"",
+              "\"Do you need any help?\" \"No, thank you.\""
+            ],
+            "learner_examples": []
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "thank you",
+          "position": "noun",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCLD01459.mp3",
+          "written": "/ˈθæŋk.ju/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "thank you",
+            "level": "B1",
+            "definition": "something that you say or do in order to show that you are grateful for something",
+            "dictionary_examples": [
+              "I'd like to say a big thank you to everyone for all their help.",
+              "The chocolates were a thank you for looking after the children."
+            ],
+            "learner_examples": [
+              "I'm writing to say [a] very big thank you for our fantastic weekend. (Preliminary English Test; B1; Russian)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wow",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/6737",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "wow",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWORTH015.mp3",
+          "written": "/waʊ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "wow",
+            "level": "A2",
+            "definition": "used to show surprise, excitement, admiration, etc.",
+            "dictionary_examples": [
+              "Wow! Did you make that cake? It looks delicious!"
+            ],
+            "learner_examples": [
+              "Wow, this is very cool! (Preliminary English Test; B1; Swiss German)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yeah",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/6756",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "yeah",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKYD___004.mp3",
+          "written": "/jeə/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "yeah",
+            "level": "A2",
+            "definition": "yes",
+            "dictionary_examples": [
+              "\"Do you like your job?\" \"Yeah, it's all right I suppose.\"",
+              "\"Will you drive?\" \"Yeah, sure.\""
+            ],
+            "learner_examples": [
+              "Yeah, try wearing black because we're gonna [get] dirty. (Key English Test; A2; Thai)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "well",
+    "guideword": "EXPRESSING DOUBT",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/6606",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "well",
+          "position": "adverb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWELDE004.mp3",
+          "written": "/wel/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "well (IN A GOOD WAY)",
+            "level": "A1",
+            "definition": "in a successful or satisfactory way",
+            "dictionary_examples": [
+              "I thought the team played well.",
+              "He's doing very well at school.",
+              "The shop sells well-made clothes.",
+              "They took two hours to discuss the plans and considered it time well spent."
+            ],
+            "learner_examples": [
+              "I play guitar very well and I love rock! (Key English Test; A2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "Well done!",
+            "level": "A1",
+            "definition": "used to tell someone how pleased you are about something they have done",
+            "dictionary_examples": [
+              "\"I passed my exam.\" \"Well done!\""
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "as well",
+            "level": "A1",
+            "definition": "also",
+            "dictionary_examples": [
+              "Are you going to invite Steve as well?"
+            ],
+            "learner_examples": [
+              "Dylma goes to school every day and work[s] as well. (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "as well as",
+            "level": "A2",
+            "definition": "in addition to",
+            "dictionary_examples": [
+              "There are soft drinks as well as coffee and tea.",
+              "They have lived in the United States as well as Britain."
+            ],
+            "learner_examples": [
+              "I like pop as well as country music. (Key English Test; A2; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "well (TO A GREAT DEGREE)",
+            "level": "A2",
+            "definition": "in a complete way or as much as possible",
+            "dictionary_examples": [
+              "Stir the mixture well.",
+              "I know him quite well."
+            ],
+            "learner_examples": [
+              "I live in the capital city. [...] I know it very well and it will be [a] pleasure to guide you around. (Preliminary English Test; B1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "may/might as well",
+            "level": "B2",
+            "definition": "used to suggest doing something, often when there is nothing better to do",
+            "dictionary_examples": [
+              "We might as well walk there.",
+              "As you already know so much about the subject, you might as well skip this lecture."
+            ],
+            "learner_examples": [
+              "In my opinion, you might as well ask your neighbours if they can look after your flat for one day. (First Certificate in English; B2; Korean)"
+            ]
+          },
+          {
+            "sense_title": "may/might/could well",
+            "level": "B2",
+            "definition": "used to say that something is likely to be true",
+            "dictionary_examples": [
+              "She might well be the best person to ask.",
+              "He could well be at Michelle's house."
+            ],
+            "learner_examples": [
+              "Laura could well imagine [that] she would stand opposite the examiners and not answer any question in the right way. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "well (CONSIDERABLY)",
+            "level": "C1",
+            "definition": "used to emphasize some prepositions",
+            "dictionary_examples": [
+              "The results are well above/below what we expected.",
+              "Keep well away from the edge of the cliff.",
+              "It cost well over £100."
+            ],
+            "learner_examples": [
+              "The hospital received well over 80% of the profits, and that as you can see is much more than just 60%. (Certificate in Advanced English; C1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "well (EMPHASIS)",
+            "level": "B2",
+            "definition": "used to emphasize some adjectives",
+            "dictionary_examples": [
+              "The police are well aware of the situation.",
+              "The museum is well worth a visit."
+            ],
+            "learner_examples": [
+              "Finally I would like to recommend a visit to Lampton Castle; in addition to the paintings and furniture there is now a new collection of musical instruments, which is well worth seeing. (First Certificate in English; B2; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "may/might as well do sth",
+            "level": "C1",
+            "definition": "If you may/might as well do something, it will not spoil the situation if you do that thing.",
+            "dictionary_examples": [
+              "If we're not waiting for Karen, we might as well go now."
+            ],
+            "learner_examples": [
+              "I might as well go with her and if you like, you can join us too. (Certificate in Advanced English; C1; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "it's just as well",
+            "level": "C1",
+            "definition": "used to say that it is lucky that something happened",
+            "dictionary_examples": [
+              "It's just as well we brought an umbrella."
+            ],
+            "learner_examples": [
+              "It is just as well that my friends had cars to give me a lift to the school. (Certificate in Advanced English; C1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "can't/couldn't very well do sth",
+            "level": "C2",
+            "definition": "used to say that something is not a suitable or practical thing to do",
+            "dictionary_examples": [
+              "I couldn't very well tell her while he was there."
+            ],
+            "learner_examples": [
+              "I couldn't very well tell her that without my diaries, I'd be lost and not know who I was. (Certificate of Proficiency in English; C2; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "mean well",
+            "level": "C2",
+            "definition": "to intend to behave in a kind way",
+            "dictionary_examples": [
+              "I know my parents mean well, but I wish they wouldn't interfere."
+            ],
+            "learner_examples": [
+              "Although these fans might mean well, in many cases they do not appear to realise that their 'heroes' perhaps would like to be left alone. (Certificate of Proficiency in English; C2; Dutch)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "well",
+          "position": "adjective",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWELDE004.mp3",
+          "written": "/wel/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "well",
+            "level": "A1",
+            "definition": "healthy; not ill",
+            "dictionary_examples": [
+              "You look well! - Thanks, I feel well.",
+              "He hasn't been too well lately.",
+              "When she came home from school she really didn't look well.",
+              "I'm sorry you're ill - I hope you get well soon."
+            ],
+            "learner_examples": [
+              "How are you? I'm very well. (Skills for Life (Entry 1); A1; Bengali)"
+            ]
+          },
+          {
+            "sense_title": "all is well",
+            "level": "B1",
+            "definition": "everything is in a good or acceptable state",
+            "dictionary_examples": [
+              "I hope all is well with Jack."
+            ],
+            "learner_examples": [
+              "I hope all's well. (First Certificate in English; B2; French)"
+            ]
+          },
+          {
+            "sense_title": "it's just as well",
+            "level": "B2",
+            "definition": "used to say that it is lucky that something happened",
+            "dictionary_examples": [
+              "It's just as well we brought an umbrella."
+            ],
+            "learner_examples": [
+              "It is just as well that my friends had cars to give me a lift to the school. (Certificate in Advanced English; C1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "be all very well",
+            "level": "C1",
+            "definition": "used to show that you do not agree with something or that you are annoyed about something",
+            "dictionary_examples": [
+              "It's all very well for her to say everything's fine, she doesn't have to live here."
+            ],
+            "learner_examples": [
+              "That's all very well for most of the people but according to my desires [i]t's not enough. I envisage a more sophisticated flat. (Certificate in Advanced English; C1; Greek)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "well",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWELDE004.mp3",
+          "written": "/wel/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "well",
+            "level": "A1",
+            "definition": "used at the beginning of a sentence to pause slightly or to express doubt or disagreement",
+            "dictionary_examples": [
+              "You'll go, won't you? - Well, I'm not sure.",
+              "Well, what shall we do now?",
+              "Who was that? - Well, I'm afraid I can't remember her name.",
+              "Well, after that we went camping in the mountains."
+            ],
+            "learner_examples": [
+              "Well, my friend, I have just seen this film but I can see it again. (Key English Test; A2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "Oh well",
+            "level": "B1",
+            "definition": "used to say that a situation cannot be changed although it might be disappointing",
+            "dictionary_examples": [
+              "Oh well, it doesn't matter, I can always buy another one."
+            ],
+            "learner_examples": [
+              "I always dreamed [of going] sailing, but not even a little boat [is] left, some other people [have] already booked them! Oh well. (Preliminary English Test; B1; Italian)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "welcome",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "details": "/british-english/words/detail/6604",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "welcome",
+          "position": "exclamation",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWEEDK029.mp3",
+          "written": "/ˈwel.kəm/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "welcome",
+            "level": "A2",
+            "definition": "said as a greeting to someone arriving at a place",
+            "dictionary_examples": [
+              "Welcome - please come in.",
+              "Welcome home/back - we've missed you!",
+              "Welcome to Cambridge."
+            ],
+            "learner_examples": [
+              "Wendy, welcome to my town. (Key English Test; A2; Chinese)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "welcome",
+          "position": "verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWEEDK029.mp3",
+          "written": "/ˈwel.kəm/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "welcome (MEET)",
+            "level": "B1",
+            "definition": "to greet someone who has arrived in a place",
+            "dictionary_examples": [
+              "Both families were there to welcome us.",
+              "The visitors to the college were warmly welcomed by the principal."
+            ],
+            "learner_examples": [
+              "Everyone welcomed us to their village. (Preliminary English Test; B1; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "welcome (ENCOURAGE)",
+            "level": "B2",
+            "definition": "to be pleased about something and encourage or support it",
+            "dictionary_examples": [
+              "The decision has been widely welcomed.",
+              "I would welcome your advice."
+            ],
+            "learner_examples": [
+              "The time will arrive [when] all of us will accept and welcome this \"beautiful machine\"! [the computer] (First Certificate in English; B2; Spanish)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "welcome",
+          "position": "adjective",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWEEDK029.mp3",
+          "written": "/ˈwel.kəm/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "you're welcome ()",
+            "level": "A2",
+            "definition": "said as a polite answer when someone thanks you for doing something",
+            "dictionary_examples": [
+              "\"It was very kind of you to help.\" \"You're welcome.\""
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "welcome (PLEASED)",
+            "level": "B1",
+            "definition": "If you are welcome, people are pleased that you are there.",
+            "dictionary_examples": [
+              "You will always be welcome here.",
+              "She makes us (feel) welcome whenever we visit her."
+            ],
+            "learner_examples": [
+              "You know that you are very welcome in my country. (Preliminary English Test; B1; Arabic)"
+            ]
+          },
+          {
+            "sense_title": "be welcome to do sth ()",
+            "level": "B1",
+            "definition": "used to tell someone that they can certainly do something, if they want to",
+            "dictionary_examples": [
+              "Anyone who is interested is welcome to come along."
+            ],
+            "learner_examples": [
+              "You're very welcome to join too if you want. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "welcome (PLEASING)",
+            "level": "B2",
+            "definition": "If something is welcome, people are pleased about it and want it to happen.",
+            "dictionary_examples": [
+              "a welcome change ",
+              "Your comments are always welcome."
+            ],
+            "learner_examples": [
+              "And, since all these new things only make our life easier, technology is welcome. (First Certificate in English; B2; Spanish)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "welcome",
+          "position": "noun",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWEEDK029.mp3",
+          "written": "/ˈwel.kəm/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "welcome",
+            "level": "B1",
+            "definition": "when someone is met and spoken to in a friendly way when they arrive in a place",
+            "dictionary_examples": [
+              "They were given a warm welcome.",
+              "She referred to his previous visit in her welcome speech."
+            ],
+            "learner_examples": [
+              "Dear Bertha, Once again I want to thank you very much for your hospitality and the warm welcome you gave me. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "outstay/overstay your welcome",
+            "level": "C2",
+            "definition": "to stay somewhere too long so that people want you to leave",
+            "dictionary_examples": [
+              "I don't want to outstay my welcome."
+            ],
+            "learner_examples": [
+              "The worst thing one can do is to let them know they have outstayed their welcome, that will only make things wors[e]. (Certificate of Proficiency in English; C2; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,3855 @@
+[
+  {
+    "word": "can",
+    "guideword": "REQUEST",
+    "level": "A1",
+    "part_of_speech": "modal verb",
+    "topic": "communication",
+    "details": "/british-english/words/detail/754",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "can",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCAMSH002.mp3",
+          "written": "/kæn/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "can (ABILITY)",
+            "level": "A1",
+            "definition": "to be able to",
+            "dictionary_examples": [
+              "Can you drive?",
+              "She can speak four languages.",
+              "I can't read that sign over there - what does it say?"
+            ],
+            "learner_examples": [
+              "It was difficult to join two words of English correct[l]y. Now I can speak. (Skills for Life (Entry 1); A1; Somali)"
+            ]
+          },
+          {
+            "sense_title": "can (REQUEST)",
+            "level": "A1",
+            "definition": "used to request something",
+            "dictionary_examples": [
+              "If you see Adrian, can you tell him I'm in London next weekend?",
+              "Can I have a glass of water?"
+            ],
+            "learner_examples": [
+              "So please, can you make me a big sala[d]? (Skills for Life (Entry 1); A1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "can (OFFER)",
+            "level": "A1",
+            "definition": "used in polite offers of help",
+            "dictionary_examples": [
+              "Can I help you with those bags?"
+            ],
+            "learner_examples": [
+              "Can I help you? (Skills for Life (Entry 1); A1; Lithuanian)"
+            ]
+          },
+          {
+            "sense_title": "can (POSSIBILITY)",
+            "level": "A1",
+            "definition": "used to talk about what is possible",
+            "dictionary_examples": [
+              "You can get stamps at the supermarket."
+            ],
+            "learner_examples": [
+              "You can make a quick snack, for example a sandwich. (Skills for Life (Entry 1); A1; German)"
+            ]
+          },
+          {
+            "sense_title": "can (PERMISSION)",
+            "level": "A2",
+            "definition": "to be allowed to",
+            "dictionary_examples": [
+              "Can I go now?",
+              "You can't park here."
+            ],
+            "learner_examples": [
+              "And if you want, you can bring pencils or pens. (Key English Test; A2; Catalan)"
+            ]
+          },
+          {
+            "sense_title": "can (SURPRISE)",
+            "level": "B1",
+            "definition": "used to show surprise or lack of belief",
+            "dictionary_examples": [
+              "You can't possibly be hungry already!",
+              "Can you believe it?"
+            ],
+            "learner_examples": [
+              "In fact, the highest tree there is almost 30 metres tall! Can you believe that? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "can (TYPICAL)",
+            "level": "B2",
+            "definition": "used to talk about how someone often behaves or what something is often like",
+            "dictionary_examples": [
+              "She can be really rude at times."
+            ],
+            "learner_examples": [
+              "When you choose to travel by car there can be a lot of traffic. (First Certificate in English; B2; Dutch)"
+            ]
+          },
+          {
+            "sense_title": "can (SOMETIMES HAPPENING)",
+            "level": "B2",
+            "definition": "used to say that something sometimes happens or is true",
+            "dictionary_examples": [
+              "Smoking can cause cancer.",
+              "The nights can be very cold."
+            ],
+            "learner_examples": [
+              "But overworking is also bad. It has lots of disadvantages, and can cause lots of problems, including health problems. (First Certificate in English; B2; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "guideword": "OFFER",
+    "level": "A1",
+    "part_of_speech": "modal verb",
+    "topic": "communication",
+    "details": "/british-english/words/detail/754",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "can",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCAMSH002.mp3",
+          "written": "/kæn/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "can (ABILITY)",
+            "level": "A1",
+            "definition": "to be able to",
+            "dictionary_examples": [
+              "Can you drive?",
+              "She can speak four languages.",
+              "I can't read that sign over there - what does it say?"
+            ],
+            "learner_examples": [
+              "It was difficult to join two words of English correct[l]y. Now I can speak. (Skills for Life (Entry 1); A1; Somali)"
+            ]
+          },
+          {
+            "sense_title": "can (REQUEST)",
+            "level": "A1",
+            "definition": "used to request something",
+            "dictionary_examples": [
+              "If you see Adrian, can you tell him I'm in London next weekend?",
+              "Can I have a glass of water?"
+            ],
+            "learner_examples": [
+              "So please, can you make me a big sala[d]? (Skills for Life (Entry 1); A1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "can (OFFER)",
+            "level": "A1",
+            "definition": "used in polite offers of help",
+            "dictionary_examples": [
+              "Can I help you with those bags?"
+            ],
+            "learner_examples": [
+              "Can I help you? (Skills for Life (Entry 1); A1; Lithuanian)"
+            ]
+          },
+          {
+            "sense_title": "can (POSSIBILITY)",
+            "level": "A1",
+            "definition": "used to talk about what is possible",
+            "dictionary_examples": [
+              "You can get stamps at the supermarket."
+            ],
+            "learner_examples": [
+              "You can make a quick snack, for example a sandwich. (Skills for Life (Entry 1); A1; German)"
+            ]
+          },
+          {
+            "sense_title": "can (PERMISSION)",
+            "level": "A2",
+            "definition": "to be allowed to",
+            "dictionary_examples": [
+              "Can I go now?",
+              "You can't park here."
+            ],
+            "learner_examples": [
+              "And if you want, you can bring pencils or pens. (Key English Test; A2; Catalan)"
+            ]
+          },
+          {
+            "sense_title": "can (SURPRISE)",
+            "level": "B1",
+            "definition": "used to show surprise or lack of belief",
+            "dictionary_examples": [
+              "You can't possibly be hungry already!",
+              "Can you believe it?"
+            ],
+            "learner_examples": [
+              "In fact, the highest tree there is almost 30 metres tall! Can you believe that? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "can (TYPICAL)",
+            "level": "B2",
+            "definition": "used to talk about how someone often behaves or what something is often like",
+            "dictionary_examples": [
+              "She can be really rude at times."
+            ],
+            "learner_examples": [
+              "When you choose to travel by car there can be a lot of traffic. (First Certificate in English; B2; Dutch)"
+            ]
+          },
+          {
+            "sense_title": "can (SOMETIMES HAPPENING)",
+            "level": "B2",
+            "definition": "used to say that something sometimes happens or is true",
+            "dictionary_examples": [
+              "Smoking can cause cancer.",
+              "The nights can be very cold."
+            ],
+            "learner_examples": [
+              "But overworking is also bad. It has lots of disadvantages, and can cause lots of problems, including health problems. (First Certificate in English; B2; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "guideword": "ABILITY",
+    "level": "A1",
+    "part_of_speech": "modal verb",
+    "topic": "people: actions",
+    "details": "/british-english/words/detail/754",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "can",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCAMSH002.mp3",
+          "written": "/kæn/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "can (ABILITY)",
+            "level": "A1",
+            "definition": "to be able to",
+            "dictionary_examples": [
+              "Can you drive?",
+              "She can speak four languages.",
+              "I can't read that sign over there - what does it say?"
+            ],
+            "learner_examples": [
+              "It was difficult to join two words of English correct[l]y. Now I can speak. (Skills for Life (Entry 1); A1; Somali)"
+            ]
+          },
+          {
+            "sense_title": "can (REQUEST)",
+            "level": "A1",
+            "definition": "used to request something",
+            "dictionary_examples": [
+              "If you see Adrian, can you tell him I'm in London next weekend?",
+              "Can I have a glass of water?"
+            ],
+            "learner_examples": [
+              "So please, can you make me a big sala[d]? (Skills for Life (Entry 1); A1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "can (OFFER)",
+            "level": "A1",
+            "definition": "used in polite offers of help",
+            "dictionary_examples": [
+              "Can I help you with those bags?"
+            ],
+            "learner_examples": [
+              "Can I help you? (Skills for Life (Entry 1); A1; Lithuanian)"
+            ]
+          },
+          {
+            "sense_title": "can (POSSIBILITY)",
+            "level": "A1",
+            "definition": "used to talk about what is possible",
+            "dictionary_examples": [
+              "You can get stamps at the supermarket."
+            ],
+            "learner_examples": [
+              "You can make a quick snack, for example a sandwich. (Skills for Life (Entry 1); A1; German)"
+            ]
+          },
+          {
+            "sense_title": "can (PERMISSION)",
+            "level": "A2",
+            "definition": "to be allowed to",
+            "dictionary_examples": [
+              "Can I go now?",
+              "You can't park here."
+            ],
+            "learner_examples": [
+              "And if you want, you can bring pencils or pens. (Key English Test; A2; Catalan)"
+            ]
+          },
+          {
+            "sense_title": "can (SURPRISE)",
+            "level": "B1",
+            "definition": "used to show surprise or lack of belief",
+            "dictionary_examples": [
+              "You can't possibly be hungry already!",
+              "Can you believe it?"
+            ],
+            "learner_examples": [
+              "In fact, the highest tree there is almost 30 metres tall! Can you believe that? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "can (TYPICAL)",
+            "level": "B2",
+            "definition": "used to talk about how someone often behaves or what something is often like",
+            "dictionary_examples": [
+              "She can be really rude at times."
+            ],
+            "learner_examples": [
+              "When you choose to travel by car there can be a lot of traffic. (First Certificate in English; B2; Dutch)"
+            ]
+          },
+          {
+            "sense_title": "can (SOMETIMES HAPPENING)",
+            "level": "B2",
+            "definition": "used to say that something sometimes happens or is true",
+            "dictionary_examples": [
+              "Smoking can cause cancer.",
+              "The nights can be very cold."
+            ],
+            "learner_examples": [
+              "But overworking is also bad. It has lots of disadvantages, and can cause lots of problems, including health problems. (First Certificate in English; B2; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "guideword": "POSSIBILITY",
+    "level": "A1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/754",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "can",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCAMSH002.mp3",
+          "written": "/kæn/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "can (ABILITY)",
+            "level": "A1",
+            "definition": "to be able to",
+            "dictionary_examples": [
+              "Can you drive?",
+              "She can speak four languages.",
+              "I can't read that sign over there - what does it say?"
+            ],
+            "learner_examples": [
+              "It was difficult to join two words of English correct[l]y. Now I can speak. (Skills for Life (Entry 1); A1; Somali)"
+            ]
+          },
+          {
+            "sense_title": "can (REQUEST)",
+            "level": "A1",
+            "definition": "used to request something",
+            "dictionary_examples": [
+              "If you see Adrian, can you tell him I'm in London next weekend?",
+              "Can I have a glass of water?"
+            ],
+            "learner_examples": [
+              "So please, can you make me a big sala[d]? (Skills for Life (Entry 1); A1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "can (OFFER)",
+            "level": "A1",
+            "definition": "used in polite offers of help",
+            "dictionary_examples": [
+              "Can I help you with those bags?"
+            ],
+            "learner_examples": [
+              "Can I help you? (Skills for Life (Entry 1); A1; Lithuanian)"
+            ]
+          },
+          {
+            "sense_title": "can (POSSIBILITY)",
+            "level": "A1",
+            "definition": "used to talk about what is possible",
+            "dictionary_examples": [
+              "You can get stamps at the supermarket."
+            ],
+            "learner_examples": [
+              "You can make a quick snack, for example a sandwich. (Skills for Life (Entry 1); A1; German)"
+            ]
+          },
+          {
+            "sense_title": "can (PERMISSION)",
+            "level": "A2",
+            "definition": "to be allowed to",
+            "dictionary_examples": [
+              "Can I go now?",
+              "You can't park here."
+            ],
+            "learner_examples": [
+              "And if you want, you can bring pencils or pens. (Key English Test; A2; Catalan)"
+            ]
+          },
+          {
+            "sense_title": "can (SURPRISE)",
+            "level": "B1",
+            "definition": "used to show surprise or lack of belief",
+            "dictionary_examples": [
+              "You can't possibly be hungry already!",
+              "Can you believe it?"
+            ],
+            "learner_examples": [
+              "In fact, the highest tree there is almost 30 metres tall! Can you believe that? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "can (TYPICAL)",
+            "level": "B2",
+            "definition": "used to talk about how someone often behaves or what something is often like",
+            "dictionary_examples": [
+              "She can be really rude at times."
+            ],
+            "learner_examples": [
+              "When you choose to travel by car there can be a lot of traffic. (First Certificate in English; B2; Dutch)"
+            ]
+          },
+          {
+            "sense_title": "can (SOMETIMES HAPPENING)",
+            "level": "B2",
+            "definition": "used to say that something sometimes happens or is true",
+            "dictionary_examples": [
+              "Smoking can cause cancer.",
+              "The nights can be very cold."
+            ],
+            "learner_examples": [
+              "But overworking is also bad. It has lots of disadvantages, and can cause lots of problems, including health problems. (First Certificate in English; B2; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cannot",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/762",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "cannot",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCANDY020.mp3",
+          "written": "/ˈkæn.ɒt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "cannot",
+            "level": "A1",
+            "definition": "the negative form of 'can'",
+            "dictionary_examples": [
+              "I cannot predict what will happen next year."
+            ],
+            "learner_examples": [
+              "I cannot sp[ea]k English. (Skills for Life (Entry 1); A1; Czech)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "guideword": "PERMISSION",
+    "level": "A2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/754",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "can",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCAMSH002.mp3",
+          "written": "/kæn/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "can (ABILITY)",
+            "level": "A1",
+            "definition": "to be able to",
+            "dictionary_examples": [
+              "Can you drive?",
+              "She can speak four languages.",
+              "I can't read that sign over there - what does it say?"
+            ],
+            "learner_examples": [
+              "It was difficult to join two words of English correct[l]y. Now I can speak. (Skills for Life (Entry 1); A1; Somali)"
+            ]
+          },
+          {
+            "sense_title": "can (REQUEST)",
+            "level": "A1",
+            "definition": "used to request something",
+            "dictionary_examples": [
+              "If you see Adrian, can you tell him I'm in London next weekend?",
+              "Can I have a glass of water?"
+            ],
+            "learner_examples": [
+              "So please, can you make me a big sala[d]? (Skills for Life (Entry 1); A1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "can (OFFER)",
+            "level": "A1",
+            "definition": "used in polite offers of help",
+            "dictionary_examples": [
+              "Can I help you with those bags?"
+            ],
+            "learner_examples": [
+              "Can I help you? (Skills for Life (Entry 1); A1; Lithuanian)"
+            ]
+          },
+          {
+            "sense_title": "can (POSSIBILITY)",
+            "level": "A1",
+            "definition": "used to talk about what is possible",
+            "dictionary_examples": [
+              "You can get stamps at the supermarket."
+            ],
+            "learner_examples": [
+              "You can make a quick snack, for example a sandwich. (Skills for Life (Entry 1); A1; German)"
+            ]
+          },
+          {
+            "sense_title": "can (PERMISSION)",
+            "level": "A2",
+            "definition": "to be allowed to",
+            "dictionary_examples": [
+              "Can I go now?",
+              "You can't park here."
+            ],
+            "learner_examples": [
+              "And if you want, you can bring pencils or pens. (Key English Test; A2; Catalan)"
+            ]
+          },
+          {
+            "sense_title": "can (SURPRISE)",
+            "level": "B1",
+            "definition": "used to show surprise or lack of belief",
+            "dictionary_examples": [
+              "You can't possibly be hungry already!",
+              "Can you believe it?"
+            ],
+            "learner_examples": [
+              "In fact, the highest tree there is almost 30 metres tall! Can you believe that? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "can (TYPICAL)",
+            "level": "B2",
+            "definition": "used to talk about how someone often behaves or what something is often like",
+            "dictionary_examples": [
+              "She can be really rude at times."
+            ],
+            "learner_examples": [
+              "When you choose to travel by car there can be a lot of traffic. (First Certificate in English; B2; Dutch)"
+            ]
+          },
+          {
+            "sense_title": "can (SOMETIMES HAPPENING)",
+            "level": "B2",
+            "definition": "used to say that something sometimes happens or is true",
+            "dictionary_examples": [
+              "Smoking can cause cancer.",
+              "The nights can be very cold."
+            ],
+            "learner_examples": [
+              "But overworking is also bad. It has lots of disadvantages, and can cause lots of problems, including health problems. (First Certificate in English; B2; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "guideword": "SURPRISE",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/754",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "can",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCAMSH002.mp3",
+          "written": "/kæn/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "can (ABILITY)",
+            "level": "A1",
+            "definition": "to be able to",
+            "dictionary_examples": [
+              "Can you drive?",
+              "She can speak four languages.",
+              "I can't read that sign over there - what does it say?"
+            ],
+            "learner_examples": [
+              "It was difficult to join two words of English correct[l]y. Now I can speak. (Skills for Life (Entry 1); A1; Somali)"
+            ]
+          },
+          {
+            "sense_title": "can (REQUEST)",
+            "level": "A1",
+            "definition": "used to request something",
+            "dictionary_examples": [
+              "If you see Adrian, can you tell him I'm in London next weekend?",
+              "Can I have a glass of water?"
+            ],
+            "learner_examples": [
+              "So please, can you make me a big sala[d]? (Skills for Life (Entry 1); A1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "can (OFFER)",
+            "level": "A1",
+            "definition": "used in polite offers of help",
+            "dictionary_examples": [
+              "Can I help you with those bags?"
+            ],
+            "learner_examples": [
+              "Can I help you? (Skills for Life (Entry 1); A1; Lithuanian)"
+            ]
+          },
+          {
+            "sense_title": "can (POSSIBILITY)",
+            "level": "A1",
+            "definition": "used to talk about what is possible",
+            "dictionary_examples": [
+              "You can get stamps at the supermarket."
+            ],
+            "learner_examples": [
+              "You can make a quick snack, for example a sandwich. (Skills for Life (Entry 1); A1; German)"
+            ]
+          },
+          {
+            "sense_title": "can (PERMISSION)",
+            "level": "A2",
+            "definition": "to be allowed to",
+            "dictionary_examples": [
+              "Can I go now?",
+              "You can't park here."
+            ],
+            "learner_examples": [
+              "And if you want, you can bring pencils or pens. (Key English Test; A2; Catalan)"
+            ]
+          },
+          {
+            "sense_title": "can (SURPRISE)",
+            "level": "B1",
+            "definition": "used to show surprise or lack of belief",
+            "dictionary_examples": [
+              "You can't possibly be hungry already!",
+              "Can you believe it?"
+            ],
+            "learner_examples": [
+              "In fact, the highest tree there is almost 30 metres tall! Can you believe that? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "can (TYPICAL)",
+            "level": "B2",
+            "definition": "used to talk about how someone often behaves or what something is often like",
+            "dictionary_examples": [
+              "She can be really rude at times."
+            ],
+            "learner_examples": [
+              "When you choose to travel by car there can be a lot of traffic. (First Certificate in English; B2; Dutch)"
+            ]
+          },
+          {
+            "sense_title": "can (SOMETIMES HAPPENING)",
+            "level": "B2",
+            "definition": "used to say that something sometimes happens or is true",
+            "dictionary_examples": [
+              "Smoking can cause cancer.",
+              "The nights can be very cold."
+            ],
+            "learner_examples": [
+              "But overworking is also bad. It has lots of disadvantages, and can cause lots of problems, including health problems. (First Certificate in English; B2; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "guideword": "TYPICAL",
+    "level": "B2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/754",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "can",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCAMSH002.mp3",
+          "written": "/kæn/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "can (ABILITY)",
+            "level": "A1",
+            "definition": "to be able to",
+            "dictionary_examples": [
+              "Can you drive?",
+              "She can speak four languages.",
+              "I can't read that sign over there - what does it say?"
+            ],
+            "learner_examples": [
+              "It was difficult to join two words of English correct[l]y. Now I can speak. (Skills for Life (Entry 1); A1; Somali)"
+            ]
+          },
+          {
+            "sense_title": "can (REQUEST)",
+            "level": "A1",
+            "definition": "used to request something",
+            "dictionary_examples": [
+              "If you see Adrian, can you tell him I'm in London next weekend?",
+              "Can I have a glass of water?"
+            ],
+            "learner_examples": [
+              "So please, can you make me a big sala[d]? (Skills for Life (Entry 1); A1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "can (OFFER)",
+            "level": "A1",
+            "definition": "used in polite offers of help",
+            "dictionary_examples": [
+              "Can I help you with those bags?"
+            ],
+            "learner_examples": [
+              "Can I help you? (Skills for Life (Entry 1); A1; Lithuanian)"
+            ]
+          },
+          {
+            "sense_title": "can (POSSIBILITY)",
+            "level": "A1",
+            "definition": "used to talk about what is possible",
+            "dictionary_examples": [
+              "You can get stamps at the supermarket."
+            ],
+            "learner_examples": [
+              "You can make a quick snack, for example a sandwich. (Skills for Life (Entry 1); A1; German)"
+            ]
+          },
+          {
+            "sense_title": "can (PERMISSION)",
+            "level": "A2",
+            "definition": "to be allowed to",
+            "dictionary_examples": [
+              "Can I go now?",
+              "You can't park here."
+            ],
+            "learner_examples": [
+              "And if you want, you can bring pencils or pens. (Key English Test; A2; Catalan)"
+            ]
+          },
+          {
+            "sense_title": "can (SURPRISE)",
+            "level": "B1",
+            "definition": "used to show surprise or lack of belief",
+            "dictionary_examples": [
+              "You can't possibly be hungry already!",
+              "Can you believe it?"
+            ],
+            "learner_examples": [
+              "In fact, the highest tree there is almost 30 metres tall! Can you believe that? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "can (TYPICAL)",
+            "level": "B2",
+            "definition": "used to talk about how someone often behaves or what something is often like",
+            "dictionary_examples": [
+              "She can be really rude at times."
+            ],
+            "learner_examples": [
+              "When you choose to travel by car there can be a lot of traffic. (First Certificate in English; B2; Dutch)"
+            ]
+          },
+          {
+            "sense_title": "can (SOMETIMES HAPPENING)",
+            "level": "B2",
+            "definition": "used to say that something sometimes happens or is true",
+            "dictionary_examples": [
+              "Smoking can cause cancer.",
+              "The nights can be very cold."
+            ],
+            "learner_examples": [
+              "But overworking is also bad. It has lots of disadvantages, and can cause lots of problems, including health problems. (First Certificate in English; B2; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "guideword": "SOMETIMES HAPPENING",
+    "level": "B2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/754",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "can",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCAMSH002.mp3",
+          "written": "/kæn/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "can (ABILITY)",
+            "level": "A1",
+            "definition": "to be able to",
+            "dictionary_examples": [
+              "Can you drive?",
+              "She can speak four languages.",
+              "I can't read that sign over there - what does it say?"
+            ],
+            "learner_examples": [
+              "It was difficult to join two words of English correct[l]y. Now I can speak. (Skills for Life (Entry 1); A1; Somali)"
+            ]
+          },
+          {
+            "sense_title": "can (REQUEST)",
+            "level": "A1",
+            "definition": "used to request something",
+            "dictionary_examples": [
+              "If you see Adrian, can you tell him I'm in London next weekend?",
+              "Can I have a glass of water?"
+            ],
+            "learner_examples": [
+              "So please, can you make me a big sala[d]? (Skills for Life (Entry 1); A1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "can (OFFER)",
+            "level": "A1",
+            "definition": "used in polite offers of help",
+            "dictionary_examples": [
+              "Can I help you with those bags?"
+            ],
+            "learner_examples": [
+              "Can I help you? (Skills for Life (Entry 1); A1; Lithuanian)"
+            ]
+          },
+          {
+            "sense_title": "can (POSSIBILITY)",
+            "level": "A1",
+            "definition": "used to talk about what is possible",
+            "dictionary_examples": [
+              "You can get stamps at the supermarket."
+            ],
+            "learner_examples": [
+              "You can make a quick snack, for example a sandwich. (Skills for Life (Entry 1); A1; German)"
+            ]
+          },
+          {
+            "sense_title": "can (PERMISSION)",
+            "level": "A2",
+            "definition": "to be allowed to",
+            "dictionary_examples": [
+              "Can I go now?",
+              "You can't park here."
+            ],
+            "learner_examples": [
+              "And if you want, you can bring pencils or pens. (Key English Test; A2; Catalan)"
+            ]
+          },
+          {
+            "sense_title": "can (SURPRISE)",
+            "level": "B1",
+            "definition": "used to show surprise or lack of belief",
+            "dictionary_examples": [
+              "You can't possibly be hungry already!",
+              "Can you believe it?"
+            ],
+            "learner_examples": [
+              "In fact, the highest tree there is almost 30 metres tall! Can you believe that? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "can (TYPICAL)",
+            "level": "B2",
+            "definition": "used to talk about how someone often behaves or what something is often like",
+            "dictionary_examples": [
+              "She can be really rude at times."
+            ],
+            "learner_examples": [
+              "When you choose to travel by car there can be a lot of traffic. (First Certificate in English; B2; Dutch)"
+            ]
+          },
+          {
+            "sense_title": "can (SOMETIMES HAPPENING)",
+            "level": "B2",
+            "definition": "used to say that something sometimes happens or is true",
+            "dictionary_examples": [
+              "Smoking can cause cancer.",
+              "The nights can be very cold."
+            ],
+            "learner_examples": [
+              "But overworking is also bad. It has lots of disadvantages, and can cause lots of problems, including health problems. (First Certificate in English; B2; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "could",
+    "guideword": "REQUEST",
+    "level": "A2",
+    "part_of_speech": "modal verb",
+    "topic": "communication",
+    "details": "/british-english/words/detail/1255",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "could",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCOSSA027.mp3",
+          "written": "/kʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "could (PAST ABILITY)",
+            "level": "A2",
+            "definition": "used as the past form of 'can' to talk about what someone or something was able to do",
+            "dictionary_examples": [
+              "When I was younger I could stay up all night and not get tired.",
+              "It was so noisy that we couldn't hear ourselves speak."
+            ],
+            "learner_examples": [
+              "I couldn't find the information [either] but I phoned the school. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "could (REQUEST)",
+            "level": "A2",
+            "definition": "used as a more polite form of 'can' when asking someone to provide something or do something",
+            "dictionary_examples": [
+              "Could you lend me £5?",
+              "Could you turn the music down a little, please?"
+            ],
+            "learner_examples": [
+              "Could you please send it? (Key English Test; A2; French)"
+            ]
+          },
+          {
+            "sense_title": "could (SUGGESTION)",
+            "level": "B1",
+            "definition": "used for making a suggestion",
+            "dictionary_examples": [
+              "We could go for a drink after work tomorrow, if you like.",
+              "You could always call Susie and see if she might babysit."
+            ],
+            "learner_examples": [
+              "I could take you to a nice hotel. (Preliminary English Test; B1; Hungarian)"
+            ]
+          },
+          {
+            "sense_title": "could (POSSIBLY HAPPEN)",
+            "level": "B1",
+            "definition": "used to talk about what will possibly happen or is possibly true",
+            "dictionary_examples": [
+              "She could arrive any time now.",
+              "A lot of crime could be prevented.",
+              "This new drug could be an important step in the fight against cancer."
+            ],
+            "learner_examples": [
+              "This could be a big advantage but on the other [hand], books contain more details and sometimes some parts of the book are cut out [in] the film. (First Certificate in English; B2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "could (ASK PERMISSION)",
+            "level": "B1",
+            "definition": "used as a more polite form of 'can' when asking for permission",
+            "dictionary_examples": [
+              "Could I speak to Mr Davis, please?",
+              "Excuse me, could I just say something here?"
+            ],
+            "learner_examples": [
+              "Could I bring you the missing work [to the] next class? (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "could have",
+            "level": "B2",
+            "definition": "used to talk about things that possibly happened in the past or might possibly have happened by some time in the future",
+            "dictionary_examples": [
+              "She could have been killed.",
+              "Let's go to the coast anyway - the rain could have stopped by the time we get there."
+            ],
+            "learner_examples": [
+              "Then they thought about the situation and tried to [develop] a theor[y] about what could have happened with the dead body and who could be the murderer. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "couldn't have",
+            "level": "B2",
+            "definition": "used to express certainty that something in the past was impossible or didn't happen",
+            "dictionary_examples": [
+              "He couldn't have damaged your bike - he was with me all evening.",
+              "That book couldn't have been on sale last week - it's only come out today!"
+            ],
+            "learner_examples": [
+              "The blood froze in our veins, and we were all sure that it couldn't have been anything but a ghost! (First Certificate in English; B2; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "I/he, etc. couldn't care less",
+            "level": "C1",
+            "definition": "used to emphasize that someone is not interested in or worried about something or someone",
+            "dictionary_examples": [
+              "I couldn't care less what people think."
+            ],
+            "learner_examples": [
+              "There was hunger, there was poverty and the king couldn't care less about his people['s] well-being. (Certificate in Advanced English; C1; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "could",
+    "guideword": "SUGGESTION",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "communication",
+    "details": "/british-english/words/detail/1255",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "could",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCOSSA027.mp3",
+          "written": "/kʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "could (PAST ABILITY)",
+            "level": "A2",
+            "definition": "used as the past form of 'can' to talk about what someone or something was able to do",
+            "dictionary_examples": [
+              "When I was younger I could stay up all night and not get tired.",
+              "It was so noisy that we couldn't hear ourselves speak."
+            ],
+            "learner_examples": [
+              "I couldn't find the information [either] but I phoned the school. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "could (REQUEST)",
+            "level": "A2",
+            "definition": "used as a more polite form of 'can' when asking someone to provide something or do something",
+            "dictionary_examples": [
+              "Could you lend me £5?",
+              "Could you turn the music down a little, please?"
+            ],
+            "learner_examples": [
+              "Could you please send it? (Key English Test; A2; French)"
+            ]
+          },
+          {
+            "sense_title": "could (SUGGESTION)",
+            "level": "B1",
+            "definition": "used for making a suggestion",
+            "dictionary_examples": [
+              "We could go for a drink after work tomorrow, if you like.",
+              "You could always call Susie and see if she might babysit."
+            ],
+            "learner_examples": [
+              "I could take you to a nice hotel. (Preliminary English Test; B1; Hungarian)"
+            ]
+          },
+          {
+            "sense_title": "could (POSSIBLY HAPPEN)",
+            "level": "B1",
+            "definition": "used to talk about what will possibly happen or is possibly true",
+            "dictionary_examples": [
+              "She could arrive any time now.",
+              "A lot of crime could be prevented.",
+              "This new drug could be an important step in the fight against cancer."
+            ],
+            "learner_examples": [
+              "This could be a big advantage but on the other [hand], books contain more details and sometimes some parts of the book are cut out [in] the film. (First Certificate in English; B2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "could (ASK PERMISSION)",
+            "level": "B1",
+            "definition": "used as a more polite form of 'can' when asking for permission",
+            "dictionary_examples": [
+              "Could I speak to Mr Davis, please?",
+              "Excuse me, could I just say something here?"
+            ],
+            "learner_examples": [
+              "Could I bring you the missing work [to the] next class? (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "could have",
+            "level": "B2",
+            "definition": "used to talk about things that possibly happened in the past or might possibly have happened by some time in the future",
+            "dictionary_examples": [
+              "She could have been killed.",
+              "Let's go to the coast anyway - the rain could have stopped by the time we get there."
+            ],
+            "learner_examples": [
+              "Then they thought about the situation and tried to [develop] a theor[y] about what could have happened with the dead body and who could be the murderer. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "couldn't have",
+            "level": "B2",
+            "definition": "used to express certainty that something in the past was impossible or didn't happen",
+            "dictionary_examples": [
+              "He couldn't have damaged your bike - he was with me all evening.",
+              "That book couldn't have been on sale last week - it's only come out today!"
+            ],
+            "learner_examples": [
+              "The blood froze in our veins, and we were all sure that it couldn't have been anything but a ghost! (First Certificate in English; B2; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "I/he, etc. couldn't care less",
+            "level": "C1",
+            "definition": "used to emphasize that someone is not interested in or worried about something or someone",
+            "dictionary_examples": [
+              "I couldn't care less what people think."
+            ],
+            "learner_examples": [
+              "There was hunger, there was poverty and the king couldn't care less about his people['s] well-being. (Certificate in Advanced English; C1; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "could",
+    "guideword": "ASK PERMISSION",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "communication",
+    "details": "/british-english/words/detail/1255",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "could",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCOSSA027.mp3",
+          "written": "/kʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "could (PAST ABILITY)",
+            "level": "A2",
+            "definition": "used as the past form of 'can' to talk about what someone or something was able to do",
+            "dictionary_examples": [
+              "When I was younger I could stay up all night and not get tired.",
+              "It was so noisy that we couldn't hear ourselves speak."
+            ],
+            "learner_examples": [
+              "I couldn't find the information [either] but I phoned the school. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "could (REQUEST)",
+            "level": "A2",
+            "definition": "used as a more polite form of 'can' when asking someone to provide something or do something",
+            "dictionary_examples": [
+              "Could you lend me £5?",
+              "Could you turn the music down a little, please?"
+            ],
+            "learner_examples": [
+              "Could you please send it? (Key English Test; A2; French)"
+            ]
+          },
+          {
+            "sense_title": "could (SUGGESTION)",
+            "level": "B1",
+            "definition": "used for making a suggestion",
+            "dictionary_examples": [
+              "We could go for a drink after work tomorrow, if you like.",
+              "You could always call Susie and see if she might babysit."
+            ],
+            "learner_examples": [
+              "I could take you to a nice hotel. (Preliminary English Test; B1; Hungarian)"
+            ]
+          },
+          {
+            "sense_title": "could (POSSIBLY HAPPEN)",
+            "level": "B1",
+            "definition": "used to talk about what will possibly happen or is possibly true",
+            "dictionary_examples": [
+              "She could arrive any time now.",
+              "A lot of crime could be prevented.",
+              "This new drug could be an important step in the fight against cancer."
+            ],
+            "learner_examples": [
+              "This could be a big advantage but on the other [hand], books contain more details and sometimes some parts of the book are cut out [in] the film. (First Certificate in English; B2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "could (ASK PERMISSION)",
+            "level": "B1",
+            "definition": "used as a more polite form of 'can' when asking for permission",
+            "dictionary_examples": [
+              "Could I speak to Mr Davis, please?",
+              "Excuse me, could I just say something here?"
+            ],
+            "learner_examples": [
+              "Could I bring you the missing work [to the] next class? (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "could have",
+            "level": "B2",
+            "definition": "used to talk about things that possibly happened in the past or might possibly have happened by some time in the future",
+            "dictionary_examples": [
+              "She could have been killed.",
+              "Let's go to the coast anyway - the rain could have stopped by the time we get there."
+            ],
+            "learner_examples": [
+              "Then they thought about the situation and tried to [develop] a theor[y] about what could have happened with the dead body and who could be the murderer. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "couldn't have",
+            "level": "B2",
+            "definition": "used to express certainty that something in the past was impossible or didn't happen",
+            "dictionary_examples": [
+              "He couldn't have damaged your bike - he was with me all evening.",
+              "That book couldn't have been on sale last week - it's only come out today!"
+            ],
+            "learner_examples": [
+              "The blood froze in our veins, and we were all sure that it couldn't have been anything but a ghost! (First Certificate in English; B2; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "I/he, etc. couldn't care less",
+            "level": "C1",
+            "definition": "used to emphasize that someone is not interested in or worried about something or someone",
+            "dictionary_examples": [
+              "I couldn't care less what people think."
+            ],
+            "learner_examples": [
+              "There was hunger, there was poverty and the king couldn't care less about his people['s] well-being. (Certificate in Advanced English; C1; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "could",
+    "guideword": "PAST ABILITY",
+    "level": "A2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/1255",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "could",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCOSSA027.mp3",
+          "written": "/kʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "could (PAST ABILITY)",
+            "level": "A2",
+            "definition": "used as the past form of 'can' to talk about what someone or something was able to do",
+            "dictionary_examples": [
+              "When I was younger I could stay up all night and not get tired.",
+              "It was so noisy that we couldn't hear ourselves speak."
+            ],
+            "learner_examples": [
+              "I couldn't find the information [either] but I phoned the school. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "could (REQUEST)",
+            "level": "A2",
+            "definition": "used as a more polite form of 'can' when asking someone to provide something or do something",
+            "dictionary_examples": [
+              "Could you lend me £5?",
+              "Could you turn the music down a little, please?"
+            ],
+            "learner_examples": [
+              "Could you please send it? (Key English Test; A2; French)"
+            ]
+          },
+          {
+            "sense_title": "could (SUGGESTION)",
+            "level": "B1",
+            "definition": "used for making a suggestion",
+            "dictionary_examples": [
+              "We could go for a drink after work tomorrow, if you like.",
+              "You could always call Susie and see if she might babysit."
+            ],
+            "learner_examples": [
+              "I could take you to a nice hotel. (Preliminary English Test; B1; Hungarian)"
+            ]
+          },
+          {
+            "sense_title": "could (POSSIBLY HAPPEN)",
+            "level": "B1",
+            "definition": "used to talk about what will possibly happen or is possibly true",
+            "dictionary_examples": [
+              "She could arrive any time now.",
+              "A lot of crime could be prevented.",
+              "This new drug could be an important step in the fight against cancer."
+            ],
+            "learner_examples": [
+              "This could be a big advantage but on the other [hand], books contain more details and sometimes some parts of the book are cut out [in] the film. (First Certificate in English; B2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "could (ASK PERMISSION)",
+            "level": "B1",
+            "definition": "used as a more polite form of 'can' when asking for permission",
+            "dictionary_examples": [
+              "Could I speak to Mr Davis, please?",
+              "Excuse me, could I just say something here?"
+            ],
+            "learner_examples": [
+              "Could I bring you the missing work [to the] next class? (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "could have",
+            "level": "B2",
+            "definition": "used to talk about things that possibly happened in the past or might possibly have happened by some time in the future",
+            "dictionary_examples": [
+              "She could have been killed.",
+              "Let's go to the coast anyway - the rain could have stopped by the time we get there."
+            ],
+            "learner_examples": [
+              "Then they thought about the situation and tried to [develop] a theor[y] about what could have happened with the dead body and who could be the murderer. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "couldn't have",
+            "level": "B2",
+            "definition": "used to express certainty that something in the past was impossible or didn't happen",
+            "dictionary_examples": [
+              "He couldn't have damaged your bike - he was with me all evening.",
+              "That book couldn't have been on sale last week - it's only come out today!"
+            ],
+            "learner_examples": [
+              "The blood froze in our veins, and we were all sure that it couldn't have been anything but a ghost! (First Certificate in English; B2; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "I/he, etc. couldn't care less",
+            "level": "C1",
+            "definition": "used to emphasize that someone is not interested in or worried about something or someone",
+            "dictionary_examples": [
+              "I couldn't care less what people think."
+            ],
+            "learner_examples": [
+              "There was hunger, there was poverty and the king couldn't care less about his people['s] well-being. (Certificate in Advanced English; C1; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "could",
+    "guideword": " POSSIBLY HAPPEN",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/1255",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "could",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKCOSSA027.mp3",
+          "written": "/kʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "could (PAST ABILITY)",
+            "level": "A2",
+            "definition": "used as the past form of 'can' to talk about what someone or something was able to do",
+            "dictionary_examples": [
+              "When I was younger I could stay up all night and not get tired.",
+              "It was so noisy that we couldn't hear ourselves speak."
+            ],
+            "learner_examples": [
+              "I couldn't find the information [either] but I phoned the school. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "could (REQUEST)",
+            "level": "A2",
+            "definition": "used as a more polite form of 'can' when asking someone to provide something or do something",
+            "dictionary_examples": [
+              "Could you lend me £5?",
+              "Could you turn the music down a little, please?"
+            ],
+            "learner_examples": [
+              "Could you please send it? (Key English Test; A2; French)"
+            ]
+          },
+          {
+            "sense_title": "could (SUGGESTION)",
+            "level": "B1",
+            "definition": "used for making a suggestion",
+            "dictionary_examples": [
+              "We could go for a drink after work tomorrow, if you like.",
+              "You could always call Susie and see if she might babysit."
+            ],
+            "learner_examples": [
+              "I could take you to a nice hotel. (Preliminary English Test; B1; Hungarian)"
+            ]
+          },
+          {
+            "sense_title": "could (POSSIBLY HAPPEN)",
+            "level": "B1",
+            "definition": "used to talk about what will possibly happen or is possibly true",
+            "dictionary_examples": [
+              "She could arrive any time now.",
+              "A lot of crime could be prevented.",
+              "This new drug could be an important step in the fight against cancer."
+            ],
+            "learner_examples": [
+              "This could be a big advantage but on the other [hand], books contain more details and sometimes some parts of the book are cut out [in] the film. (First Certificate in English; B2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "could (ASK PERMISSION)",
+            "level": "B1",
+            "definition": "used as a more polite form of 'can' when asking for permission",
+            "dictionary_examples": [
+              "Could I speak to Mr Davis, please?",
+              "Excuse me, could I just say something here?"
+            ],
+            "learner_examples": [
+              "Could I bring you the missing work [to the] next class? (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "could have",
+            "level": "B2",
+            "definition": "used to talk about things that possibly happened in the past or might possibly have happened by some time in the future",
+            "dictionary_examples": [
+              "She could have been killed.",
+              "Let's go to the coast anyway - the rain could have stopped by the time we get there."
+            ],
+            "learner_examples": [
+              "Then they thought about the situation and tried to [develop] a theor[y] about what could have happened with the dead body and who could be the murderer. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "couldn't have",
+            "level": "B2",
+            "definition": "used to express certainty that something in the past was impossible or didn't happen",
+            "dictionary_examples": [
+              "He couldn't have damaged your bike - he was with me all evening.",
+              "That book couldn't have been on sale last week - it's only come out today!"
+            ],
+            "learner_examples": [
+              "The blood froze in our veins, and we were all sure that it couldn't have been anything but a ghost! (First Certificate in English; B2; Swedish)"
+            ]
+          },
+          {
+            "sense_title": "I/he, etc. couldn't care less",
+            "level": "C1",
+            "definition": "used to emphasize that someone is not interested in or worried about something or someone",
+            "dictionary_examples": [
+              "I couldn't care less what people think."
+            ],
+            "learner_examples": [
+              "There was hunger, there was poverty and the king couldn't care less about his people['s] well-being. (Certificate in Advanced English; C1; Portuguese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "may",
+    "guideword": "PERMISSION",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "communication",
+    "details": "/british-english/words/detail/3547",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "may",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKMAUSO017.mp3",
+          "written": "/meɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "may (POSSIBLY HAPPEN)",
+            "level": "A2",
+            "definition": "used to talk about what will possibly happen",
+            "dictionary_examples": [
+              "We may go to France later this year.",
+              "I may see you tomorrow - it depends on when we leave.",
+              "The cause of the accident may never be discovered."
+            ],
+            "learner_examples": [
+              "Then we may go sightseeing. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "may (POSSIBLY TRUE)",
+            "level": "B1",
+            "definition": "used to talk about what is possibly true",
+            "dictionary_examples": [
+              "There may be other problems that we don't know about.",
+              " I think I may be getting a cold."
+            ],
+            "learner_examples": [
+              "I know it may be difficult, because [it] is not that easy to find [a] house, but please can you do your best and find something for us very soon. (Skills for Life (Entry 3); B1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "may (PERMISSION)",
+            "level": "B1",
+            "definition": "used to ask or give permission",
+            "dictionary_examples": [
+              " May I be excused, please? ",
+              "\"May I help myself to some more food?\" \"Yes, of course.\"",
+              "You may begin.",
+              "Hi, my name's Tiffany. How may I help you?"
+            ],
+            "learner_examples": [
+              "May I suggest that you book me in for the new accommodation. (Skills for Life (Entry 3); B1; Thai)"
+            ]
+          },
+          {
+            "sense_title": "may have",
+            "level": "B2",
+            "definition": "used to talk about things that possibly happened in the past or might possibly have happened by a certain time in the future",
+            "dictionary_examples": [
+              "The explosion may have been caused by a faulty electrical connection.",
+              "That may not have been Mike's brother you met - I think his cousin is staying with him at the moment.",
+              "Helen may have already left by the time you arrive."
+            ],
+            "learner_examples": [
+              "Besides, your report is full of mistakes, so it seem[s] to me that you may not have been well informed. (First Certificate in English; B2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "may as well",
+            "level": "B2",
+            "definition": "used to suggest doing something, often when there is nothing better to do",
+            "dictionary_examples": [
+              "We may as well start the meeting - the others will be here soon.",
+              "If the shops are closed, we may as well go home."
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "may as well do sth",
+            "level": "C1",
+            "definition": "If you may as well do something, it will not spoil the situation if you do that thing.",
+            "dictionary_examples": [
+              "If we're not waiting for Karen, we might as well go now."
+            ],
+            "learner_examples": [
+              "She turned round quickly, and then paused, seemingly unable to find her words. A few minutes later, she began hesitantly: \"After all, you may as well know. (Certificate of Proficiency in English; C2; French)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "may",
+    "guideword": "POSSIBLY HAPPEN",
+    "level": "A2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/3547",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "may",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKMAUSO017.mp3",
+          "written": "/meɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "may (POSSIBLY HAPPEN)",
+            "level": "A2",
+            "definition": "used to talk about what will possibly happen",
+            "dictionary_examples": [
+              "We may go to France later this year.",
+              "I may see you tomorrow - it depends on when we leave.",
+              "The cause of the accident may never be discovered."
+            ],
+            "learner_examples": [
+              "Then we may go sightseeing. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "may (POSSIBLY TRUE)",
+            "level": "B1",
+            "definition": "used to talk about what is possibly true",
+            "dictionary_examples": [
+              "There may be other problems that we don't know about.",
+              " I think I may be getting a cold."
+            ],
+            "learner_examples": [
+              "I know it may be difficult, because [it] is not that easy to find [a] house, but please can you do your best and find something for us very soon. (Skills for Life (Entry 3); B1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "may (PERMISSION)",
+            "level": "B1",
+            "definition": "used to ask or give permission",
+            "dictionary_examples": [
+              " May I be excused, please? ",
+              "\"May I help myself to some more food?\" \"Yes, of course.\"",
+              "You may begin.",
+              "Hi, my name's Tiffany. How may I help you?"
+            ],
+            "learner_examples": [
+              "May I suggest that you book me in for the new accommodation. (Skills for Life (Entry 3); B1; Thai)"
+            ]
+          },
+          {
+            "sense_title": "may have",
+            "level": "B2",
+            "definition": "used to talk about things that possibly happened in the past or might possibly have happened by a certain time in the future",
+            "dictionary_examples": [
+              "The explosion may have been caused by a faulty electrical connection.",
+              "That may not have been Mike's brother you met - I think his cousin is staying with him at the moment.",
+              "Helen may have already left by the time you arrive."
+            ],
+            "learner_examples": [
+              "Besides, your report is full of mistakes, so it seem[s] to me that you may not have been well informed. (First Certificate in English; B2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "may as well",
+            "level": "B2",
+            "definition": "used to suggest doing something, often when there is nothing better to do",
+            "dictionary_examples": [
+              "We may as well start the meeting - the others will be here soon.",
+              "If the shops are closed, we may as well go home."
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "may as well do sth",
+            "level": "C1",
+            "definition": "If you may as well do something, it will not spoil the situation if you do that thing.",
+            "dictionary_examples": [
+              "If we're not waiting for Karen, we might as well go now."
+            ],
+            "learner_examples": [
+              "She turned round quickly, and then paused, seemingly unable to find her words. A few minutes later, she began hesitantly: \"After all, you may as well know. (Certificate of Proficiency in English; C2; French)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "might",
+    "guideword": "POSSIBLY HAPPEN",
+    "level": "A2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/3616",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "might",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKMIDSI015.mp3",
+          "written": "/maɪt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "might (POSSIBLY HAPPEN)",
+            "level": "A2",
+            "definition": "used to talk about what will possibly happen",
+            "dictionary_examples": [
+              "We might finish the project by Thursday.",
+              "She might not come."
+            ],
+            "learner_examples": [
+              "We shou[l]d wear t-shirts to paint the wall because the paint might make our t-shirts dirty. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "might (POSSIBLY TRUE)",
+            "level": "B1",
+            "definition": "used to talk about what is possibly true",
+            "dictionary_examples": [
+              " I think Isabel might be pregnant.",
+              "Don't go any closer - it might be dangerous."
+            ],
+            "learner_examples": [
+              "At first, I thought it might be a mistake. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "might have",
+            "level": "B2",
+            "definition": "used to talk about things that possibly happened in the past or could possibly have happened by some time in the future",
+            "dictionary_examples": [
+              "It might have been Alex who called.",
+              "The rain might have stopped by lunchtime."
+            ],
+            "learner_examples": [
+              "First of all, you might have been thinking you have to go to a sports club or somewhere and exer[c]ise very hard to keep fit. (First Certificate in English; B2; Japanese)"
+            ]
+          },
+          {
+            "sense_title": "might as well",
+            "level": "B2",
+            "definition": "used to suggest doing something, often when there is nothing better to do",
+            "dictionary_examples": [
+              "We might as well walk there.",
+              "As you already know so much about the subject, you might as well skip this lecture."
+            ],
+            "learner_examples": [
+              "In my opinion, you might as well ask your neighbours if they can look after your flat for one day. (First Certificate in English; B2; Korean)"
+            ]
+          },
+          {
+            "sense_title": "you might like/want to...",
+            "level": "C1",
+            "definition": "used to politely suggest something",
+            "dictionary_examples": [
+              " You might want to try a different approach next time. "
+            ],
+            "learner_examples": [
+              "You might want to consider requesting your staff to learn a second language such as German, French or Spanish. (Certificate in Advanced English; C1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "might as well do sth",
+            "level": "C1",
+            "definition": "If you may/might as well do something, it will not spoil the situation if you do that thing.",
+            "dictionary_examples": [
+              "If we're not waiting for Karen, we might as well go now."
+            ],
+            "learner_examples": [
+              "I'm not happy to tell you this but I might as well be frank about it as we both want the visit to be a delightful as possible to our members. (Certificate in Advanced English; C1; Danish)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "must",
+    "guideword": "NECESSARY",
+    "level": "A2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/3756",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "must",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKMUSIC009.mp3",
+          "written": "/mʌst/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "must (NECESSARY)",
+            "level": "A2",
+            "definition": "used to say that it is necessary or important that something happens or is done",
+            "dictionary_examples": [
+              "Meat must be cooked thoroughly.",
+              "I must get some sleep.",
+              "You mustn't show this letter to anyone else.",
+              "Luggage must not be left unattended."
+            ],
+            "learner_examples": [
+              "We must be there at 7 o'clock in the morning. (Key English Test; A2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "must (SUGGEST)",
+            "level": "B1",
+            "definition": "used to show that you think it is a good idea for someone to do something",
+            "dictionary_examples": [
+              "You must come and stay with us some time.",
+              "We must meet for lunch."
+            ],
+            "learner_examples": [
+              "You must come with me when you are in Germany. (Preliminary English Test; B1; German)"
+            ]
+          },
+          {
+            "sense_title": "must (LIKELY)",
+            "level": "B2",
+            "definition": "used to show that you think something is very likely or certain to be true",
+            "dictionary_examples": [
+              "Harry's been driving all day - he must be tired.",
+              " It must have been very upsetting for her.",
+              "There's no food left - they must have eaten it all.",
+              " She must be very wealthy."
+            ],
+            "learner_examples": [
+              "I must have been seven years old at that time. (First Certificate in English; B2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "may",
+    "guideword": "POSSIBLY TRUE",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/3547",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "may",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKMAUSO017.mp3",
+          "written": "/meɪ/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "may (POSSIBLY HAPPEN)",
+            "level": "A2",
+            "definition": "used to talk about what will possibly happen",
+            "dictionary_examples": [
+              "We may go to France later this year.",
+              "I may see you tomorrow - it depends on when we leave.",
+              "The cause of the accident may never be discovered."
+            ],
+            "learner_examples": [
+              "Then we may go sightseeing. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "may (POSSIBLY TRUE)",
+            "level": "B1",
+            "definition": "used to talk about what is possibly true",
+            "dictionary_examples": [
+              "There may be other problems that we don't know about.",
+              " I think I may be getting a cold."
+            ],
+            "learner_examples": [
+              "I know it may be difficult, because [it] is not that easy to find [a] house, but please can you do your best and find something for us very soon. (Skills for Life (Entry 3); B1; Slovak)"
+            ]
+          },
+          {
+            "sense_title": "may (PERMISSION)",
+            "level": "B1",
+            "definition": "used to ask or give permission",
+            "dictionary_examples": [
+              " May I be excused, please? ",
+              "\"May I help myself to some more food?\" \"Yes, of course.\"",
+              "You may begin.",
+              "Hi, my name's Tiffany. How may I help you?"
+            ],
+            "learner_examples": [
+              "May I suggest that you book me in for the new accommodation. (Skills for Life (Entry 3); B1; Thai)"
+            ]
+          },
+          {
+            "sense_title": "may have",
+            "level": "B2",
+            "definition": "used to talk about things that possibly happened in the past or might possibly have happened by a certain time in the future",
+            "dictionary_examples": [
+              "The explosion may have been caused by a faulty electrical connection.",
+              "That may not have been Mike's brother you met - I think his cousin is staying with him at the moment.",
+              "Helen may have already left by the time you arrive."
+            ],
+            "learner_examples": [
+              "Besides, your report is full of mistakes, so it seem[s] to me that you may not have been well informed. (First Certificate in English; B2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "may as well",
+            "level": "B2",
+            "definition": "used to suggest doing something, often when there is nothing better to do",
+            "dictionary_examples": [
+              "We may as well start the meeting - the others will be here soon.",
+              "If the shops are closed, we may as well go home."
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "may as well do sth",
+            "level": "C1",
+            "definition": "If you may as well do something, it will not spoil the situation if you do that thing.",
+            "dictionary_examples": [
+              "If we're not waiting for Karen, we might as well go now."
+            ],
+            "learner_examples": [
+              "She turned round quickly, and then paused, seemingly unable to find her words. A few minutes later, she began hesitantly: \"After all, you may as well know. (Certificate of Proficiency in English; C2; French)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "might",
+    "guideword": "POSSIBLY TRUE",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/3616",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "might",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKMIDSI015.mp3",
+          "written": "/maɪt/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "might (POSSIBLY HAPPEN)",
+            "level": "A2",
+            "definition": "used to talk about what will possibly happen",
+            "dictionary_examples": [
+              "We might finish the project by Thursday.",
+              "She might not come."
+            ],
+            "learner_examples": [
+              "We shou[l]d wear t-shirts to paint the wall because the paint might make our t-shirts dirty. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "might (POSSIBLY TRUE)",
+            "level": "B1",
+            "definition": "used to talk about what is possibly true",
+            "dictionary_examples": [
+              " I think Isabel might be pregnant.",
+              "Don't go any closer - it might be dangerous."
+            ],
+            "learner_examples": [
+              "At first, I thought it might be a mistake. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "might have",
+            "level": "B2",
+            "definition": "used to talk about things that possibly happened in the past or could possibly have happened by some time in the future",
+            "dictionary_examples": [
+              "It might have been Alex who called.",
+              "The rain might have stopped by lunchtime."
+            ],
+            "learner_examples": [
+              "First of all, you might have been thinking you have to go to a sports club or somewhere and exer[c]ise very hard to keep fit. (First Certificate in English; B2; Japanese)"
+            ]
+          },
+          {
+            "sense_title": "might as well",
+            "level": "B2",
+            "definition": "used to suggest doing something, often when there is nothing better to do",
+            "dictionary_examples": [
+              "We might as well walk there.",
+              "As you already know so much about the subject, you might as well skip this lecture."
+            ],
+            "learner_examples": [
+              "In my opinion, you might as well ask your neighbours if they can look after your flat for one day. (First Certificate in English; B2; Korean)"
+            ]
+          },
+          {
+            "sense_title": "you might like/want to...",
+            "level": "C1",
+            "definition": "used to politely suggest something",
+            "dictionary_examples": [
+              " You might want to try a different approach next time. "
+            ],
+            "learner_examples": [
+              "You might want to consider requesting your staff to learn a second language such as German, French or Spanish. (Certificate in Advanced English; C1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "might as well do sth",
+            "level": "C1",
+            "definition": "If you may/might as well do something, it will not spoil the situation if you do that thing.",
+            "dictionary_examples": [
+              "If we're not waiting for Karen, we might as well go now."
+            ],
+            "learner_examples": [
+              "I'm not happy to tell you this but I might as well be frank about it as we both want the visit to be a delightful as possible to our members. (Certificate in Advanced English; C1; Danish)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "must",
+    "guideword": "SUGGEST",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/3756",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "must",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKMUSIC009.mp3",
+          "written": "/mʌst/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "must (NECESSARY)",
+            "level": "A2",
+            "definition": "used to say that it is necessary or important that something happens or is done",
+            "dictionary_examples": [
+              "Meat must be cooked thoroughly.",
+              "I must get some sleep.",
+              "You mustn't show this letter to anyone else.",
+              "Luggage must not be left unattended."
+            ],
+            "learner_examples": [
+              "We must be there at 7 o'clock in the morning. (Key English Test; A2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "must (SUGGEST)",
+            "level": "B1",
+            "definition": "used to show that you think it is a good idea for someone to do something",
+            "dictionary_examples": [
+              "You must come and stay with us some time.",
+              "We must meet for lunch."
+            ],
+            "learner_examples": [
+              "You must come with me when you are in Germany. (Preliminary English Test; B1; German)"
+            ]
+          },
+          {
+            "sense_title": "must (LIKELY)",
+            "level": "B2",
+            "definition": "used to show that you think something is very likely or certain to be true",
+            "dictionary_examples": [
+              "Harry's been driving all day - he must be tired.",
+              " It must have been very upsetting for her.",
+              "There's no food left - they must have eaten it all.",
+              " She must be very wealthy."
+            ],
+            "learner_examples": [
+              "I must have been seven years old at that time. (First Certificate in English; B2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ought to",
+    "guideword": "BEST THING",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/4031",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "ought to",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/EPW_UK_0107.mp3",
+          "written": "/ɔːt.tuː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "ought to (BEST THING)",
+            "level": "B1",
+            "definition": "used to say or ask what is the correct or best thing to do",
+            "dictionary_examples": [
+              "We ought to tidy up before we go.",
+              "You ought to see a doctor.",
+              "He ought to have told her the truth.",
+              "Ought I to phone her?"
+            ],
+            "learner_examples": [
+              "I ought to go to the doctor tomorrow. (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "ought to (TRUE)",
+            "level": "B2",
+            "definition": "used to say that you expect something to be true or that you expect something to happen",
+            "dictionary_examples": [
+              "She ought to be home by now.",
+              "He ought to pass the exam this time."
+            ],
+            "learner_examples": [
+              "All the students ought to know how famous you are. You are a very well-known writer who was born in Rhodes. (First Certificate in English; B2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "must",
+    "guideword": "LIKELY",
+    "level": "B2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/3756",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "must",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKMUSIC009.mp3",
+          "written": "/mʌst/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "must (NECESSARY)",
+            "level": "A2",
+            "definition": "used to say that it is necessary or important that something happens or is done",
+            "dictionary_examples": [
+              "Meat must be cooked thoroughly.",
+              "I must get some sleep.",
+              "You mustn't show this letter to anyone else.",
+              "Luggage must not be left unattended."
+            ],
+            "learner_examples": [
+              "We must be there at 7 o'clock in the morning. (Key English Test; A2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "must (SUGGEST)",
+            "level": "B1",
+            "definition": "used to show that you think it is a good idea for someone to do something",
+            "dictionary_examples": [
+              "You must come and stay with us some time.",
+              "We must meet for lunch."
+            ],
+            "learner_examples": [
+              "You must come with me when you are in Germany. (Preliminary English Test; B1; German)"
+            ]
+          },
+          {
+            "sense_title": "must (LIKELY)",
+            "level": "B2",
+            "definition": "used to show that you think something is very likely or certain to be true",
+            "dictionary_examples": [
+              "Harry's been driving all day - he must be tired.",
+              " It must have been very upsetting for her.",
+              "There's no food left - they must have eaten it all.",
+              " She must be very wealthy."
+            ],
+            "learner_examples": [
+              "I must have been seven years old at that time. (First Certificate in English; B2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ought to",
+    "guideword": "TRUE",
+    "level": "B2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/4031",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "ought to",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/EPW_UK_0107.mp3",
+          "written": "/ɔːt.tuː/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "ought to (BEST THING)",
+            "level": "B1",
+            "definition": "used to say or ask what is the correct or best thing to do",
+            "dictionary_examples": [
+              "We ought to tidy up before we go.",
+              "You ought to see a doctor.",
+              "He ought to have told her the truth.",
+              "Ought I to phone her?"
+            ],
+            "learner_examples": [
+              "I ought to go to the doctor tomorrow. (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "ought to (TRUE)",
+            "level": "B2",
+            "definition": "used to say that you expect something to be true or that you expect something to happen",
+            "dictionary_examples": [
+              "She ought to be home by now.",
+              "He ought to pass the exam this time."
+            ],
+            "learner_examples": [
+              "All the students ought to know how famous you are. You are a very well-known writer who was born in Rhodes. (First Certificate in English; B2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shall",
+    "guideword": "QUESTION",
+    "level": "A2",
+    "part_of_speech": "modal verb",
+    "topic": "communication",
+    "details": "/british-english/words/detail/5253",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "shall",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKSHAKE011.mp3",
+          "written": "/ʃæl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "shall I/we...?",
+            "level": "A2",
+            "definition": "used to make an offer or suggestion",
+            "dictionary_examples": [
+              "Shall I cook dinner tonight?",
+              "We'll ask him later, shall we?"
+            ],
+            "learner_examples": [
+              "After the film, shall we go to eat pizza next to the cinema? (Key English Test; A2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "shall",
+            "level": "A2",
+            "definition": "used to ask someone what to do",
+            "dictionary_examples": [
+              "What restaurant shall we go to?",
+              "Who shall I ask?"
+            ],
+            "learner_examples": [
+              "What time will you be free? When shall we meet? (Key English Test; A2; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "I/we shall...",
+            "level": "B1",
+            "definition": "used to say what you are going to do in the future",
+            "dictionary_examples": [
+              "I shall be talking to her tomorrow.",
+              "I shan't forget to tell them.",
+              "I shall look forward to meeting you next week.",
+              "So we'll see you at the weekend, shall we?"
+            ],
+            "learner_examples": [
+              "I shall make sure that the work I miss is completed by borrowing my friend's notes. (Preliminary English Test; B1; Tamil)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "should",
+    "guideword": "ADVICE",
+    "level": "A2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/5303",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "should",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKSHORN024.mp3",
+          "written": "/ʃʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "should (ADVICE)",
+            "level": "A2",
+            "definition": "used to give advice",
+            "dictionary_examples": [
+              "I think you should see a doctor.",
+              "If you're annoyed with him, you should tell him.",
+              "You should change trains at Peterborough if you're going to Newcastle."
+            ],
+            "learner_examples": [
+              "You should wear old clothes because we will get dirty. (Key English Test; A2; German)"
+            ]
+          },
+          {
+            "sense_title": "should (BEST)",
+            "level": "B1",
+            "definition": "used to say or ask what is the correct or best thing to do",
+            "dictionary_examples": [
+              "\"Should I apologize to him?\"",
+              "Where should we meet tonight?",
+              "There should be an investigation into the cause of the disaster.",
+              "I should have written to her but I haven't had any time.",
+              "It's getting cold in here. Should I turn the heat up?"
+            ],
+            "learner_examples": [
+              "Should I call the police? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "should (PROBABLE)",
+            "level": "B1",
+            "definition": "used to say that you expect something to be true or that you expect something to happen",
+            "dictionary_examples": [
+              "My dry cleaning should be ready this afternoon.",
+              "If you follow these directions, you shouldn’t have any trouble finding our house.",
+              "I wonder what's happened to Annie. She should be here by now.",
+              "That should be enough food for five people."
+            ],
+            "learner_examples": [
+              "I have invite[d] all his friends, [so] we should be 28 people. (Preliminary English Test; B1; French)"
+            ]
+          },
+          {
+            "sense_title": "why should/shouldn't...?",
+            "level": "B2",
+            "definition": "used to ask or give the reason for something, especially when you are surprised or angry about it",
+            "dictionary_examples": [
+              "He wants me to give him my old car, but why should I?",
+              "Why shouldn't she get a new car if she wants one?"
+            ],
+            "learner_examples": [
+              "And personally I say \"why should I read something in a book which I can watch on TV?\" (First Certificate in English; B2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "should",
+    "guideword": "BEST",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/5303",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "should",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKSHORN024.mp3",
+          "written": "/ʃʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "should (ADVICE)",
+            "level": "A2",
+            "definition": "used to give advice",
+            "dictionary_examples": [
+              "I think you should see a doctor.",
+              "If you're annoyed with him, you should tell him.",
+              "You should change trains at Peterborough if you're going to Newcastle."
+            ],
+            "learner_examples": [
+              "You should wear old clothes because we will get dirty. (Key English Test; A2; German)"
+            ]
+          },
+          {
+            "sense_title": "should (BEST)",
+            "level": "B1",
+            "definition": "used to say or ask what is the correct or best thing to do",
+            "dictionary_examples": [
+              "\"Should I apologize to him?\"",
+              "Where should we meet tonight?",
+              "There should be an investigation into the cause of the disaster.",
+              "I should have written to her but I haven't had any time.",
+              "It's getting cold in here. Should I turn the heat up?"
+            ],
+            "learner_examples": [
+              "Should I call the police? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "should (PROBABLE)",
+            "level": "B1",
+            "definition": "used to say that you expect something to be true or that you expect something to happen",
+            "dictionary_examples": [
+              "My dry cleaning should be ready this afternoon.",
+              "If you follow these directions, you shouldn’t have any trouble finding our house.",
+              "I wonder what's happened to Annie. She should be here by now.",
+              "That should be enough food for five people."
+            ],
+            "learner_examples": [
+              "I have invite[d] all his friends, [so] we should be 28 people. (Preliminary English Test; B1; French)"
+            ]
+          },
+          {
+            "sense_title": "why should/shouldn't...?",
+            "level": "B2",
+            "definition": "used to ask or give the reason for something, especially when you are surprised or angry about it",
+            "dictionary_examples": [
+              "He wants me to give him my old car, but why should I?",
+              "Why shouldn't she get a new car if she wants one?"
+            ],
+            "learner_examples": [
+              "And personally I say \"why should I read something in a book which I can watch on TV?\" (First Certificate in English; B2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "should",
+    "guideword": "PROBABLE",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/5303",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "should",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKSHORN024.mp3",
+          "written": "/ʃʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "should (ADVICE)",
+            "level": "A2",
+            "definition": "used to give advice",
+            "dictionary_examples": [
+              "I think you should see a doctor.",
+              "If you're annoyed with him, you should tell him.",
+              "You should change trains at Peterborough if you're going to Newcastle."
+            ],
+            "learner_examples": [
+              "You should wear old clothes because we will get dirty. (Key English Test; A2; German)"
+            ]
+          },
+          {
+            "sense_title": "should (BEST)",
+            "level": "B1",
+            "definition": "used to say or ask what is the correct or best thing to do",
+            "dictionary_examples": [
+              "\"Should I apologize to him?\"",
+              "Where should we meet tonight?",
+              "There should be an investigation into the cause of the disaster.",
+              "I should have written to her but I haven't had any time.",
+              "It's getting cold in here. Should I turn the heat up?"
+            ],
+            "learner_examples": [
+              "Should I call the police? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "should (PROBABLE)",
+            "level": "B1",
+            "definition": "used to say that you expect something to be true or that you expect something to happen",
+            "dictionary_examples": [
+              "My dry cleaning should be ready this afternoon.",
+              "If you follow these directions, you shouldn’t have any trouble finding our house.",
+              "I wonder what's happened to Annie. She should be here by now.",
+              "That should be enough food for five people."
+            ],
+            "learner_examples": [
+              "I have invite[d] all his friends, [so] we should be 28 people. (Preliminary English Test; B1; French)"
+            ]
+          },
+          {
+            "sense_title": "why should/shouldn't...?",
+            "level": "B2",
+            "definition": "used to ask or give the reason for something, especially when you are surprised or angry about it",
+            "dictionary_examples": [
+              "He wants me to give him my old car, but why should I?",
+              "Why shouldn't she get a new car if she wants one?"
+            ],
+            "learner_examples": [
+              "And personally I say \"why should I read something in a book which I can watch on TV?\" (First Certificate in English; B2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "will",
+    "guideword": "ASK",
+    "level": "A2",
+    "part_of_speech": "modal verb",
+    "topic": "communication",
+    "details": "/british-english/words/detail/6666",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "will",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWILDL007.mp3",
+          "written": "/wɪl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "will (FUTURE)",
+            "level": "A2",
+            "definition": "used to talk about what is going to happen in the future, especially things that you are certain about",
+            "dictionary_examples": [
+              "Ben will be five years old next month.",
+              "The train leaves at 8.58, so we'll be in Scotland by lunchtime.",
+              "I'll see him on Saturday.",
+              "Will Susie be there?",
+              "It won't be easy to find another secretary."
+            ],
+            "learner_examples": [
+              "I will arrive at 8 o'clock. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "will (ABLE/WILLING)",
+            "level": "A1",
+            "definition": "used to talk about what someone or something is able or willing to do",
+            "dictionary_examples": [
+              "I'll give you a lift.",
+              "I've asked her but she won't come.",
+              "The car won't start."
+            ],
+            "learner_examples": [
+              "I'll cook for you. (Skills for Life (Entry 2); A2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "will (ASK)",
+            "level": "A2",
+            "definition": "used to ask someone to do something",
+            "dictionary_examples": [
+              "Will you give me her address?",
+              "Will you give that to Tony when you see him, please?",
+              "Will you join us for a drink, Evie?"
+            ],
+            "learner_examples": [
+              "Will you help me to [paint] my bedroom? (Key English Test; A2; Bengali)"
+            ]
+          },
+          {
+            "sense_title": "will (IF)",
+            "level": "A2",
+            "definition": "used in conditional sentences that start with 'if' and use the present tense",
+            "dictionary_examples": [
+              "If he's late again, I'll be very angry.",
+              "I won't be surprised if she cancels the holiday."
+            ],
+            "learner_examples": [
+              "If you want [me] to, I'll bring you some of my CDs. (Key English Test; A2; Swiss German)"
+            ]
+          },
+          {
+            "sense_title": "will have",
+            "level": "B2",
+            "definition": "used to form the future perfect tense",
+            "dictionary_examples": [
+              "Next month, Gary will have been working here for 10 years.",
+              "He'll have reached Berlin by tonight."
+            ],
+            "learner_examples": [
+              "First of all, if you go to work by bicycle every day, at the end of the month you will have saved more money because you won't have spent it buying petrol. (First Certificate in English; B2; Catalan)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "will",
+          "position": "noun",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWILDL007.mp3",
+          "written": "/wɪl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "will (MENTAL POWER)",
+            "level": "B2",
+            "definition": "the mental power used to control and direct your thoughts and actions, or a determination to do something, despite any difficulties or opposition",
+            "dictionary_examples": [
+              "From an early age she had a very strong will.",
+              "After six months in hospital she began to lose the will to live."
+            ],
+            "learner_examples": [
+              "How would you find the will to look for another job? (First Certificate in English; B2; French)"
+            ]
+          },
+          {
+            "sense_title": "will (WHAT SOMEONE WANTS)",
+            "level": "C1",
+            "definition": "what someone wants to happen",
+            "dictionary_examples": [
+              " Against their will, they were forced to hold a meeting.",
+              "The government has failed to impose its will upon regional communities."
+            ],
+            "learner_examples": [
+              "But if you go [and] learn a language against your will, then it's better not to go at all. (Certificate in Advanced English; C1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "will (DOCUMENT)",
+            "level": "C2",
+            "definition": "an official statement of what a person has decided should be done with their money and property after their death",
+            "dictionary_examples": [
+              "Have you made a will yet?",
+              "She left me some money in her will."
+            ],
+            "learner_examples": [
+              "This uncle of mine, rich as he was, decided to make a will some years before his death. (Certificate of Proficiency in English; C2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "will",
+    "guideword": "ABLE/WILLING",
+    "level": "A1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/6666",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "will",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWILDL007.mp3",
+          "written": "/wɪl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "will (FUTURE)",
+            "level": "A2",
+            "definition": "used to talk about what is going to happen in the future, especially things that you are certain about",
+            "dictionary_examples": [
+              "Ben will be five years old next month.",
+              "The train leaves at 8.58, so we'll be in Scotland by lunchtime.",
+              "I'll see him on Saturday.",
+              "Will Susie be there?",
+              "It won't be easy to find another secretary."
+            ],
+            "learner_examples": [
+              "I will arrive at 8 o'clock. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "will (ABLE/WILLING)",
+            "level": "A1",
+            "definition": "used to talk about what someone or something is able or willing to do",
+            "dictionary_examples": [
+              "I'll give you a lift.",
+              "I've asked her but she won't come.",
+              "The car won't start."
+            ],
+            "learner_examples": [
+              "I'll cook for you. (Skills for Life (Entry 2); A2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "will (ASK)",
+            "level": "A2",
+            "definition": "used to ask someone to do something",
+            "dictionary_examples": [
+              "Will you give me her address?",
+              "Will you give that to Tony when you see him, please?",
+              "Will you join us for a drink, Evie?"
+            ],
+            "learner_examples": [
+              "Will you help me to [paint] my bedroom? (Key English Test; A2; Bengali)"
+            ]
+          },
+          {
+            "sense_title": "will (IF)",
+            "level": "A2",
+            "definition": "used in conditional sentences that start with 'if' and use the present tense",
+            "dictionary_examples": [
+              "If he's late again, I'll be very angry.",
+              "I won't be surprised if she cancels the holiday."
+            ],
+            "learner_examples": [
+              "If you want [me] to, I'll bring you some of my CDs. (Key English Test; A2; Swiss German)"
+            ]
+          },
+          {
+            "sense_title": "will have",
+            "level": "B2",
+            "definition": "used to form the future perfect tense",
+            "dictionary_examples": [
+              "Next month, Gary will have been working here for 10 years.",
+              "He'll have reached Berlin by tonight."
+            ],
+            "learner_examples": [
+              "First of all, if you go to work by bicycle every day, at the end of the month you will have saved more money because you won't have spent it buying petrol. (First Certificate in English; B2; Catalan)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "will",
+          "position": "noun",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWILDL007.mp3",
+          "written": "/wɪl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "will (MENTAL POWER)",
+            "level": "B2",
+            "definition": "the mental power used to control and direct your thoughts and actions, or a determination to do something, despite any difficulties or opposition",
+            "dictionary_examples": [
+              "From an early age she had a very strong will.",
+              "After six months in hospital she began to lose the will to live."
+            ],
+            "learner_examples": [
+              "How would you find the will to look for another job? (First Certificate in English; B2; French)"
+            ]
+          },
+          {
+            "sense_title": "will (WHAT SOMEONE WANTS)",
+            "level": "C1",
+            "definition": "what someone wants to happen",
+            "dictionary_examples": [
+              " Against their will, they were forced to hold a meeting.",
+              "The government has failed to impose its will upon regional communities."
+            ],
+            "learner_examples": [
+              "But if you go [and] learn a language against your will, then it's better not to go at all. (Certificate in Advanced English; C1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "will (DOCUMENT)",
+            "level": "C2",
+            "definition": "an official statement of what a person has decided should be done with their money and property after their death",
+            "dictionary_examples": [
+              "Have you made a will yet?",
+              "She left me some money in her will."
+            ],
+            "learner_examples": [
+              "This uncle of mine, rich as he was, decided to make a will some years before his death. (Certificate of Proficiency in English; C2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "will",
+    "guideword": "FUTURE",
+    "level": "A2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/6666",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "will",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWILDL007.mp3",
+          "written": "/wɪl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "will (FUTURE)",
+            "level": "A2",
+            "definition": "used to talk about what is going to happen in the future, especially things that you are certain about",
+            "dictionary_examples": [
+              "Ben will be five years old next month.",
+              "The train leaves at 8.58, so we'll be in Scotland by lunchtime.",
+              "I'll see him on Saturday.",
+              "Will Susie be there?",
+              "It won't be easy to find another secretary."
+            ],
+            "learner_examples": [
+              "I will arrive at 8 o'clock. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "will (ABLE/WILLING)",
+            "level": "A1",
+            "definition": "used to talk about what someone or something is able or willing to do",
+            "dictionary_examples": [
+              "I'll give you a lift.",
+              "I've asked her but she won't come.",
+              "The car won't start."
+            ],
+            "learner_examples": [
+              "I'll cook for you. (Skills for Life (Entry 2); A2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "will (ASK)",
+            "level": "A2",
+            "definition": "used to ask someone to do something",
+            "dictionary_examples": [
+              "Will you give me her address?",
+              "Will you give that to Tony when you see him, please?",
+              "Will you join us for a drink, Evie?"
+            ],
+            "learner_examples": [
+              "Will you help me to [paint] my bedroom? (Key English Test; A2; Bengali)"
+            ]
+          },
+          {
+            "sense_title": "will (IF)",
+            "level": "A2",
+            "definition": "used in conditional sentences that start with 'if' and use the present tense",
+            "dictionary_examples": [
+              "If he's late again, I'll be very angry.",
+              "I won't be surprised if she cancels the holiday."
+            ],
+            "learner_examples": [
+              "If you want [me] to, I'll bring you some of my CDs. (Key English Test; A2; Swiss German)"
+            ]
+          },
+          {
+            "sense_title": "will have",
+            "level": "B2",
+            "definition": "used to form the future perfect tense",
+            "dictionary_examples": [
+              "Next month, Gary will have been working here for 10 years.",
+              "He'll have reached Berlin by tonight."
+            ],
+            "learner_examples": [
+              "First of all, if you go to work by bicycle every day, at the end of the month you will have saved more money because you won't have spent it buying petrol. (First Certificate in English; B2; Catalan)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "will",
+          "position": "noun",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWILDL007.mp3",
+          "written": "/wɪl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "will (MENTAL POWER)",
+            "level": "B2",
+            "definition": "the mental power used to control and direct your thoughts and actions, or a determination to do something, despite any difficulties or opposition",
+            "dictionary_examples": [
+              "From an early age she had a very strong will.",
+              "After six months in hospital she began to lose the will to live."
+            ],
+            "learner_examples": [
+              "How would you find the will to look for another job? (First Certificate in English; B2; French)"
+            ]
+          },
+          {
+            "sense_title": "will (WHAT SOMEONE WANTS)",
+            "level": "C1",
+            "definition": "what someone wants to happen",
+            "dictionary_examples": [
+              " Against their will, they were forced to hold a meeting.",
+              "The government has failed to impose its will upon regional communities."
+            ],
+            "learner_examples": [
+              "But if you go [and] learn a language against your will, then it's better not to go at all. (Certificate in Advanced English; C1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "will (DOCUMENT)",
+            "level": "C2",
+            "definition": "an official statement of what a person has decided should be done with their money and property after their death",
+            "dictionary_examples": [
+              "Have you made a will yet?",
+              "She left me some money in her will."
+            ],
+            "learner_examples": [
+              "This uncle of mine, rich as he was, decided to make a will some years before his death. (Certificate of Proficiency in English; C2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "will",
+    "guideword": "IF",
+    "level": "A2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/6666",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "will",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWILDL007.mp3",
+          "written": "/wɪl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "will (FUTURE)",
+            "level": "A2",
+            "definition": "used to talk about what is going to happen in the future, especially things that you are certain about",
+            "dictionary_examples": [
+              "Ben will be five years old next month.",
+              "The train leaves at 8.58, so we'll be in Scotland by lunchtime.",
+              "I'll see him on Saturday.",
+              "Will Susie be there?",
+              "It won't be easy to find another secretary."
+            ],
+            "learner_examples": [
+              "I will arrive at 8 o'clock. (Key English Test; A2; Turkish)"
+            ]
+          },
+          {
+            "sense_title": "will (ABLE/WILLING)",
+            "level": "A1",
+            "definition": "used to talk about what someone or something is able or willing to do",
+            "dictionary_examples": [
+              "I'll give you a lift.",
+              "I've asked her but she won't come.",
+              "The car won't start."
+            ],
+            "learner_examples": [
+              "I'll cook for you. (Skills for Life (Entry 2); A2; Italian)"
+            ]
+          },
+          {
+            "sense_title": "will (ASK)",
+            "level": "A2",
+            "definition": "used to ask someone to do something",
+            "dictionary_examples": [
+              "Will you give me her address?",
+              "Will you give that to Tony when you see him, please?",
+              "Will you join us for a drink, Evie?"
+            ],
+            "learner_examples": [
+              "Will you help me to [paint] my bedroom? (Key English Test; A2; Bengali)"
+            ]
+          },
+          {
+            "sense_title": "will (IF)",
+            "level": "A2",
+            "definition": "used in conditional sentences that start with 'if' and use the present tense",
+            "dictionary_examples": [
+              "If he's late again, I'll be very angry.",
+              "I won't be surprised if she cancels the holiday."
+            ],
+            "learner_examples": [
+              "If you want [me] to, I'll bring you some of my CDs. (Key English Test; A2; Swiss German)"
+            ]
+          },
+          {
+            "sense_title": "will have",
+            "level": "B2",
+            "definition": "used to form the future perfect tense",
+            "dictionary_examples": [
+              "Next month, Gary will have been working here for 10 years.",
+              "He'll have reached Berlin by tonight."
+            ],
+            "learner_examples": [
+              "First of all, if you go to work by bicycle every day, at the end of the month you will have saved more money because you won't have spent it buying petrol. (First Certificate in English; B2; Catalan)"
+            ]
+          }
+        ]
+      },
+      {
+        "pos_header": {
+          "headword": "will",
+          "position": "noun",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWILDL007.mp3",
+          "written": "/wɪl/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "will (MENTAL POWER)",
+            "level": "B2",
+            "definition": "the mental power used to control and direct your thoughts and actions, or a determination to do something, despite any difficulties or opposition",
+            "dictionary_examples": [
+              "From an early age she had a very strong will.",
+              "After six months in hospital she began to lose the will to live."
+            ],
+            "learner_examples": [
+              "How would you find the will to look for another job? (First Certificate in English; B2; French)"
+            ]
+          },
+          {
+            "sense_title": "will (WHAT SOMEONE WANTS)",
+            "level": "C1",
+            "definition": "what someone wants to happen",
+            "dictionary_examples": [
+              " Against their will, they were forced to hold a meeting.",
+              "The government has failed to impose its will upon regional communities."
+            ],
+            "learner_examples": [
+              "But if you go [and] learn a language against your will, then it's better not to go at all. (Certificate in Advanced English; C1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "will (DOCUMENT)",
+            "level": "C2",
+            "definition": "an official statement of what a person has decided should be done with their money and property after their death",
+            "dictionary_examples": [
+              "Have you made a will yet?",
+              "She left me some money in her will."
+            ],
+            "learner_examples": [
+              "This uncle of mine, rich as he was, decided to make a will some years before his death. (Certificate of Proficiency in English; C2; Greek)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "would",
+    "guideword": "IF",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/6734",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "would",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWOMAN020.mp3",
+          "written": "/wʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "would like sth/to do sth",
+            "level": "A1",
+            "definition": "used to say politely that you want something",
+            "dictionary_examples": [
+              "I'd like a cup of coffee, please.",
+              "I'd like to talk to her myself."
+            ],
+            "learner_examples": [
+              "I'd like fish and chips (but not too fat[ty]!) (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "Would you like ...?",
+            "level": "A1",
+            "definition": "used to ask someone if they want something",
+            "dictionary_examples": [
+              "Would you like a drink?",
+              "Would you like me to come with you?"
+            ],
+            "learner_examples": [
+              "Would you like to come? (Skills for Life (Entry 1); A1; Kurdish)"
+            ]
+          },
+          {
+            "sense_title": "would love sth",
+            "level": "A2",
+            "definition": "used to say that you would very much like something",
+            "dictionary_examples": [
+              "I'd love some chocolate right now!",
+              "I'd love to be an actor."
+            ],
+            "learner_examples": [
+              "I'd love some chop[s] and beer. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "would love to (do sth)",
+            "level": "A2",
+            "definition": "used to say that you would very much like to do something that someone has suggested",
+            "dictionary_examples": [
+              "\"Would you like to come to the concert with us?\" \"I'd love to.\" ",
+              "We'd love to go to the beach - thanks for inviting us."
+            ],
+            "learner_examples": [
+              "Yes, I'd love to come with you. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "would (IF)",
+            "level": "B1",
+            "definition": "used to say what might happen if something else happens",
+            "dictionary_examples": [
+              "What would you do if you lost your job?",
+              "They knew there would be trouble unless the report was finished by the next day."
+            ],
+            "learner_examples": [
+              "I was just wondering if you would ask me that, because if you didn't, I would - I just love shopping! (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "would (SAID/THOUGHT)",
+            "level": "B1",
+            "definition": "used as the past form of 'will' to talk about what someone said or thought",
+            "dictionary_examples": [
+              "Archie said he would see his brother tomorrow.",
+              "They thought that she would never recover."
+            ],
+            "learner_examples": [
+              "He said to me he would like to come back soon. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "would (WILLING/ABLE)",
+            "level": "B1",
+            "definition": "used as the past form of 'will' to talk about what someone was willing to do or what something was able to do",
+            "dictionary_examples": [
+              "The car wouldn't start this morning.",
+              "I asked her to talk to him, but she wouldn't."
+            ],
+            "learner_examples": [
+              "My parents wouldn't let me stay in a hotel alone. (Preliminary English Test; B1; Serbian)"
+            ]
+          },
+          {
+            "sense_title": "would (IMAGINE)",
+            "level": "B1",
+            "definition": "used to talk about a situation that you can imagine happening",
+            "dictionary_examples": [
+              "It would be lovely to go to New York."
+            ],
+            "learner_examples": [
+              "It would be great to join you and your friends in the mountains. (First Certificate in English; B2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "Would you mind...?",
+            "level": "B1",
+            "definition": "used to request something politely",
+            "dictionary_examples": [
+              "Would you mind sharing a room?"
+            ],
+            "learner_examples": [
+              "Would you mind if I called you, to know what I've missed? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "would rather",
+            "level": "B1",
+            "definition": "used to show that you prefer to have or do one thing more than another",
+            "dictionary_examples": [
+              "I'd rather have a beer.",
+              "Which would you rather do - go swimming or play tennis?",
+              "Wouldn't you rather finish it tomorrow?"
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "would (OFTEN)",
+            "level": "B2",
+            "definition": "used to talk about things that happened often in the past",
+            "dictionary_examples": [
+              "He would always turn and wave at the end of the street."
+            ],
+            "learner_examples": [
+              "Since my childhood I have always been fond of swimming. I would usually spend my summer holidays on a campsite near a river with my family. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "would sooner",
+            "level": "C2",
+            "definition": "would prefer",
+            "dictionary_examples": [
+              "I'd sooner spend a bit more money than take chances with safety."
+            ],
+            "learner_examples": [
+              "However, with many living examples of unemploye[d] [people] getting by on benefits, some young people have been influenced to think that they would sooner live on benefits than work all week and receive moderate wages. (Certificate of Proficiency in English; C2; Chinese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "would",
+    "guideword": "SAID/THOUGHT",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/6734",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "would",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWOMAN020.mp3",
+          "written": "/wʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "would like sth/to do sth",
+            "level": "A1",
+            "definition": "used to say politely that you want something",
+            "dictionary_examples": [
+              "I'd like a cup of coffee, please.",
+              "I'd like to talk to her myself."
+            ],
+            "learner_examples": [
+              "I'd like fish and chips (but not too fat[ty]!) (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "Would you like ...?",
+            "level": "A1",
+            "definition": "used to ask someone if they want something",
+            "dictionary_examples": [
+              "Would you like a drink?",
+              "Would you like me to come with you?"
+            ],
+            "learner_examples": [
+              "Would you like to come? (Skills for Life (Entry 1); A1; Kurdish)"
+            ]
+          },
+          {
+            "sense_title": "would love sth",
+            "level": "A2",
+            "definition": "used to say that you would very much like something",
+            "dictionary_examples": [
+              "I'd love some chocolate right now!",
+              "I'd love to be an actor."
+            ],
+            "learner_examples": [
+              "I'd love some chop[s] and beer. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "would love to (do sth)",
+            "level": "A2",
+            "definition": "used to say that you would very much like to do something that someone has suggested",
+            "dictionary_examples": [
+              "\"Would you like to come to the concert with us?\" \"I'd love to.\" ",
+              "We'd love to go to the beach - thanks for inviting us."
+            ],
+            "learner_examples": [
+              "Yes, I'd love to come with you. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "would (IF)",
+            "level": "B1",
+            "definition": "used to say what might happen if something else happens",
+            "dictionary_examples": [
+              "What would you do if you lost your job?",
+              "They knew there would be trouble unless the report was finished by the next day."
+            ],
+            "learner_examples": [
+              "I was just wondering if you would ask me that, because if you didn't, I would - I just love shopping! (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "would (SAID/THOUGHT)",
+            "level": "B1",
+            "definition": "used as the past form of 'will' to talk about what someone said or thought",
+            "dictionary_examples": [
+              "Archie said he would see his brother tomorrow.",
+              "They thought that she would never recover."
+            ],
+            "learner_examples": [
+              "He said to me he would like to come back soon. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "would (WILLING/ABLE)",
+            "level": "B1",
+            "definition": "used as the past form of 'will' to talk about what someone was willing to do or what something was able to do",
+            "dictionary_examples": [
+              "The car wouldn't start this morning.",
+              "I asked her to talk to him, but she wouldn't."
+            ],
+            "learner_examples": [
+              "My parents wouldn't let me stay in a hotel alone. (Preliminary English Test; B1; Serbian)"
+            ]
+          },
+          {
+            "sense_title": "would (IMAGINE)",
+            "level": "B1",
+            "definition": "used to talk about a situation that you can imagine happening",
+            "dictionary_examples": [
+              "It would be lovely to go to New York."
+            ],
+            "learner_examples": [
+              "It would be great to join you and your friends in the mountains. (First Certificate in English; B2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "Would you mind...?",
+            "level": "B1",
+            "definition": "used to request something politely",
+            "dictionary_examples": [
+              "Would you mind sharing a room?"
+            ],
+            "learner_examples": [
+              "Would you mind if I called you, to know what I've missed? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "would rather",
+            "level": "B1",
+            "definition": "used to show that you prefer to have or do one thing more than another",
+            "dictionary_examples": [
+              "I'd rather have a beer.",
+              "Which would you rather do - go swimming or play tennis?",
+              "Wouldn't you rather finish it tomorrow?"
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "would (OFTEN)",
+            "level": "B2",
+            "definition": "used to talk about things that happened often in the past",
+            "dictionary_examples": [
+              "He would always turn and wave at the end of the street."
+            ],
+            "learner_examples": [
+              "Since my childhood I have always been fond of swimming. I would usually spend my summer holidays on a campsite near a river with my family. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "would sooner",
+            "level": "C2",
+            "definition": "would prefer",
+            "dictionary_examples": [
+              "I'd sooner spend a bit more money than take chances with safety."
+            ],
+            "learner_examples": [
+              "However, with many living examples of unemploye[d] [people] getting by on benefits, some young people have been influenced to think that they would sooner live on benefits than work all week and receive moderate wages. (Certificate of Proficiency in English; C2; Chinese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "would",
+    "guideword": "WILLING/ABLE",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/6734",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "would",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWOMAN020.mp3",
+          "written": "/wʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "would like sth/to do sth",
+            "level": "A1",
+            "definition": "used to say politely that you want something",
+            "dictionary_examples": [
+              "I'd like a cup of coffee, please.",
+              "I'd like to talk to her myself."
+            ],
+            "learner_examples": [
+              "I'd like fish and chips (but not too fat[ty]!) (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "Would you like ...?",
+            "level": "A1",
+            "definition": "used to ask someone if they want something",
+            "dictionary_examples": [
+              "Would you like a drink?",
+              "Would you like me to come with you?"
+            ],
+            "learner_examples": [
+              "Would you like to come? (Skills for Life (Entry 1); A1; Kurdish)"
+            ]
+          },
+          {
+            "sense_title": "would love sth",
+            "level": "A2",
+            "definition": "used to say that you would very much like something",
+            "dictionary_examples": [
+              "I'd love some chocolate right now!",
+              "I'd love to be an actor."
+            ],
+            "learner_examples": [
+              "I'd love some chop[s] and beer. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "would love to (do sth)",
+            "level": "A2",
+            "definition": "used to say that you would very much like to do something that someone has suggested",
+            "dictionary_examples": [
+              "\"Would you like to come to the concert with us?\" \"I'd love to.\" ",
+              "We'd love to go to the beach - thanks for inviting us."
+            ],
+            "learner_examples": [
+              "Yes, I'd love to come with you. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "would (IF)",
+            "level": "B1",
+            "definition": "used to say what might happen if something else happens",
+            "dictionary_examples": [
+              "What would you do if you lost your job?",
+              "They knew there would be trouble unless the report was finished by the next day."
+            ],
+            "learner_examples": [
+              "I was just wondering if you would ask me that, because if you didn't, I would - I just love shopping! (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "would (SAID/THOUGHT)",
+            "level": "B1",
+            "definition": "used as the past form of 'will' to talk about what someone said or thought",
+            "dictionary_examples": [
+              "Archie said he would see his brother tomorrow.",
+              "They thought that she would never recover."
+            ],
+            "learner_examples": [
+              "He said to me he would like to come back soon. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "would (WILLING/ABLE)",
+            "level": "B1",
+            "definition": "used as the past form of 'will' to talk about what someone was willing to do or what something was able to do",
+            "dictionary_examples": [
+              "The car wouldn't start this morning.",
+              "I asked her to talk to him, but she wouldn't."
+            ],
+            "learner_examples": [
+              "My parents wouldn't let me stay in a hotel alone. (Preliminary English Test; B1; Serbian)"
+            ]
+          },
+          {
+            "sense_title": "would (IMAGINE)",
+            "level": "B1",
+            "definition": "used to talk about a situation that you can imagine happening",
+            "dictionary_examples": [
+              "It would be lovely to go to New York."
+            ],
+            "learner_examples": [
+              "It would be great to join you and your friends in the mountains. (First Certificate in English; B2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "Would you mind...?",
+            "level": "B1",
+            "definition": "used to request something politely",
+            "dictionary_examples": [
+              "Would you mind sharing a room?"
+            ],
+            "learner_examples": [
+              "Would you mind if I called you, to know what I've missed? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "would rather",
+            "level": "B1",
+            "definition": "used to show that you prefer to have or do one thing more than another",
+            "dictionary_examples": [
+              "I'd rather have a beer.",
+              "Which would you rather do - go swimming or play tennis?",
+              "Wouldn't you rather finish it tomorrow?"
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "would (OFTEN)",
+            "level": "B2",
+            "definition": "used to talk about things that happened often in the past",
+            "dictionary_examples": [
+              "He would always turn and wave at the end of the street."
+            ],
+            "learner_examples": [
+              "Since my childhood I have always been fond of swimming. I would usually spend my summer holidays on a campsite near a river with my family. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "would sooner",
+            "level": "C2",
+            "definition": "would prefer",
+            "dictionary_examples": [
+              "I'd sooner spend a bit more money than take chances with safety."
+            ],
+            "learner_examples": [
+              "However, with many living examples of unemploye[d] [people] getting by on benefits, some young people have been influenced to think that they would sooner live on benefits than work all week and receive moderate wages. (Certificate of Proficiency in English; C2; Chinese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "would",
+    "guideword": "IMAGINE",
+    "level": "B1",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/6734",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "would",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWOMAN020.mp3",
+          "written": "/wʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "would like sth/to do sth",
+            "level": "A1",
+            "definition": "used to say politely that you want something",
+            "dictionary_examples": [
+              "I'd like a cup of coffee, please.",
+              "I'd like to talk to her myself."
+            ],
+            "learner_examples": [
+              "I'd like fish and chips (but not too fat[ty]!) (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "Would you like ...?",
+            "level": "A1",
+            "definition": "used to ask someone if they want something",
+            "dictionary_examples": [
+              "Would you like a drink?",
+              "Would you like me to come with you?"
+            ],
+            "learner_examples": [
+              "Would you like to come? (Skills for Life (Entry 1); A1; Kurdish)"
+            ]
+          },
+          {
+            "sense_title": "would love sth",
+            "level": "A2",
+            "definition": "used to say that you would very much like something",
+            "dictionary_examples": [
+              "I'd love some chocolate right now!",
+              "I'd love to be an actor."
+            ],
+            "learner_examples": [
+              "I'd love some chop[s] and beer. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "would love to (do sth)",
+            "level": "A2",
+            "definition": "used to say that you would very much like to do something that someone has suggested",
+            "dictionary_examples": [
+              "\"Would you like to come to the concert with us?\" \"I'd love to.\" ",
+              "We'd love to go to the beach - thanks for inviting us."
+            ],
+            "learner_examples": [
+              "Yes, I'd love to come with you. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "would (IF)",
+            "level": "B1",
+            "definition": "used to say what might happen if something else happens",
+            "dictionary_examples": [
+              "What would you do if you lost your job?",
+              "They knew there would be trouble unless the report was finished by the next day."
+            ],
+            "learner_examples": [
+              "I was just wondering if you would ask me that, because if you didn't, I would - I just love shopping! (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "would (SAID/THOUGHT)",
+            "level": "B1",
+            "definition": "used as the past form of 'will' to talk about what someone said or thought",
+            "dictionary_examples": [
+              "Archie said he would see his brother tomorrow.",
+              "They thought that she would never recover."
+            ],
+            "learner_examples": [
+              "He said to me he would like to come back soon. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "would (WILLING/ABLE)",
+            "level": "B1",
+            "definition": "used as the past form of 'will' to talk about what someone was willing to do or what something was able to do",
+            "dictionary_examples": [
+              "The car wouldn't start this morning.",
+              "I asked her to talk to him, but she wouldn't."
+            ],
+            "learner_examples": [
+              "My parents wouldn't let me stay in a hotel alone. (Preliminary English Test; B1; Serbian)"
+            ]
+          },
+          {
+            "sense_title": "would (IMAGINE)",
+            "level": "B1",
+            "definition": "used to talk about a situation that you can imagine happening",
+            "dictionary_examples": [
+              "It would be lovely to go to New York."
+            ],
+            "learner_examples": [
+              "It would be great to join you and your friends in the mountains. (First Certificate in English; B2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "Would you mind...?",
+            "level": "B1",
+            "definition": "used to request something politely",
+            "dictionary_examples": [
+              "Would you mind sharing a room?"
+            ],
+            "learner_examples": [
+              "Would you mind if I called you, to know what I've missed? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "would rather",
+            "level": "B1",
+            "definition": "used to show that you prefer to have or do one thing more than another",
+            "dictionary_examples": [
+              "I'd rather have a beer.",
+              "Which would you rather do - go swimming or play tennis?",
+              "Wouldn't you rather finish it tomorrow?"
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "would (OFTEN)",
+            "level": "B2",
+            "definition": "used to talk about things that happened often in the past",
+            "dictionary_examples": [
+              "He would always turn and wave at the end of the street."
+            ],
+            "learner_examples": [
+              "Since my childhood I have always been fond of swimming. I would usually spend my summer holidays on a campsite near a river with my family. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "would sooner",
+            "level": "C2",
+            "definition": "would prefer",
+            "dictionary_examples": [
+              "I'd sooner spend a bit more money than take chances with safety."
+            ],
+            "learner_examples": [
+              "However, with many living examples of unemploye[d] [people] getting by on benefits, some young people have been influenced to think that they would sooner live on benefits than work all week and receive moderate wages. (Certificate of Proficiency in English; C2; Chinese)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "would",
+    "guideword": "OFTEN",
+    "level": "B2",
+    "part_of_speech": "modal verb",
+    "topic": "",
+    "details": "/british-english/words/detail/6734",
+    "definitions": [
+      {
+        "pos_header": {
+          "headword": "would",
+          "position": "modal verb",
+          "audio": "http://www.englishprofile.org/evp/audio/UKWOMAN020.mp3",
+          "written": "/wʊd/"
+        },
+        "pos_items": [
+          {
+            "sense_title": "would like sth/to do sth",
+            "level": "A1",
+            "definition": "used to say politely that you want something",
+            "dictionary_examples": [
+              "I'd like a cup of coffee, please.",
+              "I'd like to talk to her myself."
+            ],
+            "learner_examples": [
+              "I'd like fish and chips (but not too fat[ty]!) (Skills for Life (Entry 1); A1; Polish)"
+            ]
+          },
+          {
+            "sense_title": "Would you like ...?",
+            "level": "A1",
+            "definition": "used to ask someone if they want something",
+            "dictionary_examples": [
+              "Would you like a drink?",
+              "Would you like me to come with you?"
+            ],
+            "learner_examples": [
+              "Would you like to come? (Skills for Life (Entry 1); A1; Kurdish)"
+            ]
+          },
+          {
+            "sense_title": "would love sth",
+            "level": "A2",
+            "definition": "used to say that you would very much like something",
+            "dictionary_examples": [
+              "I'd love some chocolate right now!",
+              "I'd love to be an actor."
+            ],
+            "learner_examples": [
+              "I'd love some chop[s] and beer. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "would love to (do sth)",
+            "level": "A2",
+            "definition": "used to say that you would very much like to do something that someone has suggested",
+            "dictionary_examples": [
+              "\"Would you like to come to the concert with us?\" \"I'd love to.\" ",
+              "We'd love to go to the beach - thanks for inviting us."
+            ],
+            "learner_examples": [
+              "Yes, I'd love to come with you. (Key English Test; A2; Chinese)"
+            ]
+          },
+          {
+            "sense_title": "would (IF)",
+            "level": "B1",
+            "definition": "used to say what might happen if something else happens",
+            "dictionary_examples": [
+              "What would you do if you lost your job?",
+              "They knew there would be trouble unless the report was finished by the next day."
+            ],
+            "learner_examples": [
+              "I was just wondering if you would ask me that, because if you didn't, I would - I just love shopping! (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "would (SAID/THOUGHT)",
+            "level": "B1",
+            "definition": "used as the past form of 'will' to talk about what someone said or thought",
+            "dictionary_examples": [
+              "Archie said he would see his brother tomorrow.",
+              "They thought that she would never recover."
+            ],
+            "learner_examples": [
+              "He said to me he would like to come back soon. (Preliminary English Test; B1; Spanish)"
+            ]
+          },
+          {
+            "sense_title": "would (WILLING/ABLE)",
+            "level": "B1",
+            "definition": "used as the past form of 'will' to talk about what someone was willing to do or what something was able to do",
+            "dictionary_examples": [
+              "The car wouldn't start this morning.",
+              "I asked her to talk to him, but she wouldn't."
+            ],
+            "learner_examples": [
+              "My parents wouldn't let me stay in a hotel alone. (Preliminary English Test; B1; Serbian)"
+            ]
+          },
+          {
+            "sense_title": "would (IMAGINE)",
+            "level": "B1",
+            "definition": "used to talk about a situation that you can imagine happening",
+            "dictionary_examples": [
+              "It would be lovely to go to New York."
+            ],
+            "learner_examples": [
+              "It would be great to join you and your friends in the mountains. (First Certificate in English; B2; Greek)"
+            ]
+          },
+          {
+            "sense_title": "Would you mind...?",
+            "level": "B1",
+            "definition": "used to request something politely",
+            "dictionary_examples": [
+              "Would you mind sharing a room?"
+            ],
+            "learner_examples": [
+              "Would you mind if I called you, to know what I've missed? (Preliminary English Test; B1; Portuguese)"
+            ]
+          },
+          {
+            "sense_title": "would rather",
+            "level": "B1",
+            "definition": "used to show that you prefer to have or do one thing more than another",
+            "dictionary_examples": [
+              "I'd rather have a beer.",
+              "Which would you rather do - go swimming or play tennis?",
+              "Wouldn't you rather finish it tomorrow?"
+            ],
+            "learner_examples": []
+          },
+          {
+            "sense_title": "would (OFTEN)",
+            "level": "B2",
+            "definition": "used to talk about things that happened often in the past",
+            "dictionary_examples": [
+              "He would always turn and wave at the end of the street."
+            ],
+            "learner_examples": [
+              "Since my childhood I have always been fond of swimming. I would usually spend my summer holidays on a campsite near a river with my family. (First Certificate in English; B2; German)"
+            ]
+          },
+          {
+            "sense_title": "would sooner",
+            "level": "C2",
+            "definition": "would prefer",
+            "dictionary_examples": [
+              "I'd sooner spend a bit more money than take chances with safety."
+            ],
+            "learner_examples": [
+              "However, with many living examples of unemploye[d] [people] getting by on benefits, some young people have been influenced to think that they would sooner live on benefits than work all week and receive moderate wages. (Certificate of Proficiency in English; C2; Chinese)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

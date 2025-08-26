@@ -1,0 +1,719 @@
+[
+  {
+    "word": "bye",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "goodbye",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "bye",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/baɪ/",
+        "definition": "goodbye",
+        "dictionary_examples": "Are you going? Bye then.",
+        "learner_examples": "Bye, see you soon. (Key English Test; A2; Spanish)"
+      }
+    ],
+    "headword": "bye",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/baɪ/",
+    "dictionary_examples": "Are you going? Bye then.",
+    "learner_examples": "Bye, see you soon. (Key English Test; A2; Spanish)",
+    "match_type": "partial"
+  },
+  {
+    "word": "Cheers!",
+    "guideword": "GOODBYE",
+    "level": "B1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to mean 'goodbye'",
+    "guideword_match": 1,
+    "headword": "Cheers!",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/tʃɪəz/",
+    "dictionary_examples": "\"Bye.\" \"Cheers, see you next week.\"",
+    "learner_examples": "See you later, cheers. (Preliminary English Test; B1; )",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "Cheers!",
+    "guideword": "THANK YOU",
+    "level": "B2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to mean 'thank you'",
+    "guideword_match": 1,
+    "headword": "Cheers!",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/tʃɪəz/",
+    "dictionary_examples": "\"I've bought you a drink.\" \"Cheers, mate.\"",
+    "learner_examples": "",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "all right",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to agree to a suggestion or request",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "all right",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/ɔːlˈraɪt/",
+        "definition": "used to agree to a suggestion or request",
+        "dictionary_examples": "\"How about going out for dinner?\" \"All right.\" | \"Can we leave at six?\" \"All right.\"",
+        "learner_examples": "All right, tomorrow you get my jacket and wait for me at the bus stop. (Key English Test; A2; Thai)"
+      }
+    ],
+    "headword": "all right",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ɔːlˈraɪt/",
+    "dictionary_examples": "\"How about going out for dinner?\" \"All right.\" | \"Can we leave at six?\" \"All right.\"",
+    "learner_examples": "All right, tomorrow you get my jacket and wait for me at the bus stop. (Key English Test; A2; Thai)",
+    "match_type": "partial"
+  },
+  {
+    "word": "alright",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to agree to a suggestion or request",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "alright",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/ɔːlˈraɪt/",
+        "definition": "used to agree to a suggestion or request",
+        "dictionary_examples": "\"How about going swimming?\" \"Alright.\" | \"Would you look after the children?\" \"Yes, alright.\"",
+        "learner_examples": ""
+      }
+    ],
+    "headword": "alright",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ɔːlˈraɪt/",
+    "dictionary_examples": "\"How about going swimming?\" \"Alright.\" | \"Would you look after the children?\" \"Yes, alright.\"",
+    "learner_examples": "",
+    "match_type": "partial"
+  },
+  {
+    "word": "Cheers!",
+    "guideword": "BEFORE DRINK",
+    "level": "B1",
+    "part_of_speech": "exclamation",
+    "topic": "",
+    "definition": "a friendly expression said just before you drink an alcoholic drink",
+    "guideword_match": 1,
+    "headword": "Cheers!",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/tʃɪəz/",
+    "dictionary_examples": "Cheers! To your good health.",
+    "learner_examples": "",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "cool",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used when you like something or agree to something",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "cool",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/kuːl/",
+        "definition": "used when you like something or agree to something",
+        "dictionary_examples": "You've got your own apartment? Cool! | \"We'll meet at ten, then?\" \"Cool.\"",
+        "learner_examples": "That's very exciting. Cool! (Key English Test; A2; Chinese)"
+      }
+    ],
+    "headword": "cool",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/kuːl/",
+    "dictionary_examples": "You've got your own apartment? Cool! | \"We'll meet at ten, then?\" \"Cool.\"",
+    "learner_examples": "That's very exciting. Cool! (Key English Test; A2; Chinese)",
+    "match_type": "partial"
+  },
+  {
+    "word": "damn",
+    "guideword": "",
+    "level": "B1",
+    "part_of_speech": "exclamation",
+    "topic": "",
+    "definition": "used to express anger or disappointment",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "damn",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/dæm/",
+        "definition": "used to express anger or disappointment",
+        "dictionary_examples": "Damn! I've forgotten the tickets.",
+        "learner_examples": "It was just a joke, damn it. (Preliminary English Test; B1; Portuguese)"
+      }
+    ],
+    "headword": "damn",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/dæm/",
+    "dictionary_examples": "Damn! I've forgotten the tickets.",
+    "learner_examples": "It was just a joke, damn it. (Preliminary English Test; B1; Portuguese)",
+    "match_type": "partial"
+  },
+  {
+    "word": "congratulations",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "",
+    "definition": "something that you say when you want to congratulate someone",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "congratulations",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/kənˌgræt.jʊˈleɪ.ʃənz/",
+        "definition": "something that you say when you want to congratulate someone",
+        "dictionary_examples": "\"I passed my driving test yesterday.\" \"Congratulations! That's fantastic.\" | Congratulations on your engagement!",
+        "learner_examples": "Congratulations on your wedding. (Skills for Life (Entry 2); A2; Korean)"
+      }
+    ],
+    "headword": "congratulations",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/kənˌgræt.jʊˈleɪ.ʃənz/",
+    "dictionary_examples": "\"I passed my driving test yesterday.\" \"Congratulations! That's fantastic.\" | Congratulations on your engagement!",
+    "learner_examples": "Congratulations on your wedding. (Skills for Life (Entry 2); A2; Korean)",
+    "match_type": "partial"
+  },
+  {
+    "word": "goodbye",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "something you say when you leave someone or when they leave you",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "goodbye",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/ˈgʊd.baɪ/",
+        "definition": "something you say when you leave someone or when they leave you",
+        "dictionary_examples": "Goodbye Marcos! See you next week.",
+        "learner_examples": "Goodbye for now. (Key English Test; A2; Turkish)"
+      }
+    ],
+    "headword": "goodbye",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˈgʊd.baɪ/",
+    "dictionary_examples": "Goodbye Marcos! See you next week.",
+    "learner_examples": "Goodbye for now. (Key English Test; A2; Turkish)",
+    "match_type": "partial"
+  },
+  {
+    "word": "hi",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "hello",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "hi",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/haɪ/",
+        "definition": "hello",
+        "dictionary_examples": "Hi, there! | Hi, how're you doing?",
+        "learner_examples": "Hi Ramesh. (Skills for Life (Entry 1); A1; Italian)"
+      }
+    ],
+    "headword": "hi",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/haɪ/",
+    "dictionary_examples": "Hi, there! | Hi, how're you doing?",
+    "learner_examples": "Hi Ramesh. (Skills for Life (Entry 1); A1; Italian)",
+    "match_type": "partial"
+  },
+  {
+    "word": "hey",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used as a way of attracting someone's attention, or as a greeting",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "hey",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/heɪ/",
+        "definition": "used as a way of attracting someone's attention, or as a greeting",
+        "dictionary_examples": "Hey! What are you doing with my car? | Hey, are you guys coming to Angela's party?",
+        "learner_examples": "Jesse: Hey, how are you? (Key English Test; A2; Chinese)"
+      }
+    ],
+    "headword": "hey",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/heɪ/",
+    "dictionary_examples": "Hey! What are you doing with my car? | Hey, are you guys coming to Angela's party?",
+    "learner_examples": "Jesse: Hey, how are you? (Key English Test; A2; Chinese)",
+    "match_type": "partial"
+  },
+  {
+    "word": "good afternoon",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "something you say to someone when you meet them in the afternoon",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "good afternoon",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/ˌgʊd.ɑːf.təˈnuːn/",
+        "definition": "something you say to someone when you meet them in the afternoon",
+        "dictionary_examples": " Good afternoon, Cara.",
+        "learner_examples": ""
+      }
+    ],
+    "headword": "good afternoon",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˌgʊd.ɑːf.təˈnuːn/",
+    "dictionary_examples": " Good afternoon, Cara.",
+    "learner_examples": "",
+    "match_type": "partial"
+  },
+  {
+    "word": "good evening",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "something you say to greet someone in the evening",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "good evening",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/ˌgʊdˈiːv.nɪŋ/",
+        "definition": "something you say to greet someone in the evening",
+        "dictionary_examples": " Good evening, everyone.",
+        "learner_examples": ""
+      }
+    ],
+    "headword": "good evening",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˌgʊdˈiːv.nɪŋ/",
+    "dictionary_examples": " Good evening, everyone.",
+    "learner_examples": "",
+    "match_type": "partial"
+  },
+  {
+    "word": "good morning",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "something you say to greet someone when you meet them in the morning",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "good morning",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/ˌgʊdˈmɔː.nɪŋ/",
+        "definition": "something you say to greet someone when you meet them in the morning",
+        "dictionary_examples": " Good morning, Joe - how are you today?",
+        "learner_examples": "When you come in clas[s] he say[s] hi good morning every body. (Skills for Life (Entry 1); A1; Arabic)"
+      }
+    ],
+    "headword": "good morning",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˌgʊdˈmɔː.nɪŋ/",
+    "dictionary_examples": " Good morning, Joe - how are you today?",
+    "learner_examples": "When you come in clas[s] he say[s] hi good morning every body. (Skills for Life (Entry 1); A1; Arabic)",
+    "match_type": "partial"
+  },
+  {
+    "word": "good night",
+    "guideword": "",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "something you say when you leave someone or they leave you in the evening, or when you are going to bed",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "good night",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/ˌgʊdˈnaɪt/",
+        "definition": "something you say when you leave someone or they leave you in the evening, or when you are going to bed",
+        "dictionary_examples": " Good night, everyone - I'm off to bed.",
+        "learner_examples": ""
+      }
+    ],
+    "headword": "good night",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˌgʊdˈnaɪt/",
+    "dictionary_examples": " Good night, everyone - I'm off to bed.",
+    "learner_examples": "",
+    "match_type": "partial"
+  },
+  {
+    "word": "hello",
+    "guideword": "GREETING",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to greet someone",
+    "guideword_match": 1,
+    "headword": "hello",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/helˈəʊ/",
+    "dictionary_examples": "Hello, Paul. I haven't seen you for ages. | I just thought I'd call by and say hello.",
+    "learner_examples": "Hello Fatima, how are you? (Skills for Life (Entry 2); A2; Slovak)",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "hello",
+    "guideword": "ON PHONE",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to start a conversation on the phone",
+    "guideword_match": 1,
+    "headword": "hello",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/helˈəʊ/",
+    "dictionary_examples": "\"Hello, I'd like some information about your flights to the USA, please.\"",
+    "learner_examples": "",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "OK",
+    "guideword": "AGREEING",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used when agreeing to do something or when allowing someone to do something",
+    "guideword_match": 1,
+    "headword": "OK",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˌəʊˈkeɪ/",
+    "dictionary_examples": "\"Could you pick me up from the station?\" \"OK, what time?\" | \"I'll pay you back tomorrow.\" \"Okay, no problem.\"",
+    "learner_examples": "OK. See you for dinner! (Skills for Life (Entry 1); A1; Polish)",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "OK",
+    "guideword": "ACTION",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used as a way of showing that you are going to take action, start speaking or start something new",
+    "guideword_match": 1,
+    "headword": "OK",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˌəʊˈkeɪ/",
+    "dictionary_examples": "OK then, if you're ready we'll start. | Okay, let's go.",
+    "learner_examples": "",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "OK",
+    "guideword": "UNDERSTAND",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "",
+    "definition": "used to check that someone understands something or that they agree to something",
+    "guideword_match": 1,
+    "headword": "OK",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˌəʊˈkeɪ/",
+    "dictionary_examples": "So I'll get the food and you can get the drink, OK? | I'll see you at six-thirty, okay?",
+    "learner_examples": "Don't forget to wear [an] old shirt and jeans, okay? (Key English Test; A2; Portuguese)",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "oh",
+    "guideword": "NEW IDEA",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "introduces an idea that you have just thought of, or something that you have just remembered",
+    "guideword_match": 1,
+    "headword": "oh",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/əʊ/",
+    "dictionary_examples": "Oh, I've just thought of a problem. | Oh, and don't forget to lock the back door. | Oh yeah, someone phoned for you while you were out.",
+    "learner_examples": "Oh, and don't forget to show up in old clothes, ok? (Key English Test; A2; Portuguese)",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "oh",
+    "guideword": "EXPRESS EMOTION",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to express different emotions, such as surprise, disappointment and pleasure, often as a reaction to something someone has said",
+    "guideword_match": 1,
+    "headword": "oh",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/əʊ/",
+    "dictionary_examples": "\"Jack can't come after all.\" \"Oh dear, Emma will be sad to hear that.\" | \"He's been married three times.\" \"Oh, really? I didn't know that!\" | \"I'm afraid I can't come to the party.\" \" Oh, that's a shame.\" | Is that for me? Oh, you're so kind! | \"I'm sorry I forgot to ring you.\" \"Oh, don't worry.\"",
+    "learner_examples": "Oh, that's ok. (Key English Test; A2; Portuguese)",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "right",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to express agreement with someone",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "right",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/raɪt/",
+        "definition": "used to express agreement with someone",
+        "dictionary_examples": "\"Johnny, you climb up first.\" - \"Right!\"",
+        "learner_examples": ""
+      }
+    ],
+    "headword": "right",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/raɪt/",
+    "dictionary_examples": "\"Johnny, you climb up first.\" - \"Right!\"",
+    "learner_examples": "",
+    "match_type": "partial"
+  },
+  {
+    "word": "please",
+    "guideword": "POLITE REQUEST",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to make a request more polite",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "please",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/pliːz/",
+        "definition": "used to make a request more polite",
+        "dictionary_examples": "Could I have two cups of coffee and a tea, please? | Please remember to close the windows before you leave.",
+        "learner_examples": "We like Polish foo[d], so please make us something from Poland. (Skills for Life (Entry 1); A1; Polish)"
+      }
+    ],
+    "headword": "please",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/pliːz/",
+    "dictionary_examples": "Could I have two cups of coffee and a tea, please? | Please remember to close the windows before you leave.",
+    "learner_examples": "We like Polish foo[d], so please make us something from Poland. (Skills for Life (Entry 1); A1; Polish)",
+    "match_type": "partial"
+  },
+  {
+    "word": "pardon",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to politely ask someone to repeat something they have said because you have not heard it",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "pardon",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/ˈpɑː.dən/",
+        "definition": "used to politely ask someone to repeat something they have said because you have not heard it",
+        "dictionary_examples": "\"You'll need an umbrella.\" - \"Pardon?\" - \"I said you'll need an umbrella.\"",
+        "learner_examples": ""
+      }
+    ],
+    "headword": "pardon",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˈpɑː.dən/",
+    "dictionary_examples": "\"You'll need an umbrella.\" - \"Pardon?\" - \"I said you'll need an umbrella.\"",
+    "learner_examples": "",
+    "match_type": "partial"
+  },
+  {
+    "word": "thanks",
+    "guideword": "THANK YOU",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "thank you",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "thanks",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/θæŋks/",
+        "definition": "thank you",
+        "dictionary_examples": "Thanks for the advice. | Can you pass me that book? Thanks very much.",
+        "learner_examples": "Hi, Thanks for your invite. (Skills for Life (Entry 1); A1; Polish)"
+      }
+    ],
+    "headword": "thanks",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/θæŋks/",
+    "dictionary_examples": "Thanks for the advice. | Can you pass me that book? Thanks very much.",
+    "learner_examples": "Hi, Thanks for your invite. (Skills for Life (Entry 1); A1; Polish)",
+    "match_type": "partial"
+  },
+  {
+    "word": "thank you",
+    "guideword": "GRATEFUL",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to tell someone that you are grateful because they have given you something, done something for you or made a polite remark",
+    "guideword_match": 1,
+    "headword": "thank you",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˈθæŋk.ju/",
+    "dictionary_examples": "That was a delicious lunch, thank you. | \"Here's your coffee.\" \"Thank you very much.\" | Thank you for my lovely birthday present. | \"You look very nice in that dress.\" \"Thank you.\"",
+    "learner_examples": "I like pork meat very much. Thank you very much. (Skills for Life (Entry 1); A1; Mandarin)",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "thank you",
+    "guideword": "ACCEPT/REFUSE",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "said to politely accept or refuse something that has been offered to you",
+    "guideword_match": 1,
+    "headword": "thank you",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˈθæŋk.ju/",
+    "dictionary_examples": "\"Would you like some more cake?\" \"Yes, I will have a small piece, thank you.\" | \"Do you need any help?\" \"No, thank you.\"",
+    "learner_examples": "",
+    "match_type": "exact",
+    "candidate_match": []
+  },
+  {
+    "word": "wow",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used to show surprise, excitement, admiration, etc.",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "wow",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/waʊ/",
+        "definition": "used to show surprise, excitement, admiration, etc.",
+        "dictionary_examples": "Wow! Did you make that cake? It looks delicious!",
+        "learner_examples": "Wow, this is very cool! (Preliminary English Test; B1; Swiss German)"
+      }
+    ],
+    "headword": "wow",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/waʊ/",
+    "dictionary_examples": "Wow! Did you make that cake? It looks delicious!",
+    "learner_examples": "Wow, this is very cool! (Preliminary English Test; B1; Swiss German)",
+    "match_type": "partial"
+  },
+  {
+    "word": "yeah",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "yes",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "yeah",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/jeə/",
+        "definition": "yes",
+        "dictionary_examples": "\"Do you like your job?\" \"Yeah, it's all right I suppose.\" | \"Will you drive?\" \"Yeah, sure.\"",
+        "learner_examples": "Yeah, try wearing black because we're gonna [get] dirty. (Key English Test; A2; Thai)"
+      }
+    ],
+    "headword": "yeah",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/jeə/",
+    "dictionary_examples": "\"Do you like your job?\" \"Yeah, it's all right I suppose.\" | \"Will you drive?\" \"Yeah, sure.\"",
+    "learner_examples": "Yeah, try wearing black because we're gonna [get] dirty. (Key English Test; A2; Thai)",
+    "match_type": "partial"
+  },
+  {
+    "word": "well",
+    "guideword": "EXPRESSING DOUBT",
+    "level": "A1",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "used at the beginning of a sentence to pause slightly or to express doubt or disagreement",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "well",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/wel/",
+        "definition": "used at the beginning of a sentence to pause slightly or to express doubt or disagreement",
+        "dictionary_examples": "You'll go, won't you? - Well, I'm not sure. | Well, what shall we do now? | Who was that? - Well, I'm afraid I can't remember her name. | Well, after that we went camping in the mountains.",
+        "learner_examples": "Well, my friend, I have just seen this film but I can see it again. (Key English Test; A2; Spanish)"
+      }
+    ],
+    "headword": "well",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/wel/",
+    "dictionary_examples": "You'll go, won't you? - Well, I'm not sure. | Well, what shall we do now? | Who was that? - Well, I'm afraid I can't remember her name. | Well, after that we went camping in the mountains.",
+    "learner_examples": "Well, my friend, I have just seen this film but I can see it again. (Key English Test; A2; Spanish)",
+    "match_type": "partial"
+  },
+  {
+    "word": "welcome",
+    "guideword": "",
+    "level": "A2",
+    "part_of_speech": "exclamation",
+    "topic": "communication",
+    "definition": "said as a greeting to someone arriving at a place",
+    "guideword_match": 0,
+    "candidate_match": [
+      {
+        "headword": "welcome",
+        "headword_pos": "exclamation",
+        "headword_phonetic": "/ˈwel.kəm/",
+        "definition": "said as a greeting to someone arriving at a place",
+        "dictionary_examples": "Welcome - please come in. | Welcome home/back - we've missed you! | Welcome to Cambridge.",
+        "learner_examples": "Wendy, welcome to my town. (Key English Test; A2; Chinese)"
+      }
+    ],
+    "headword": "welcome",
+    "headword_pos": "exclamation",
+    "headword_phonetic": "/ˈwel.kəm/",
+    "dictionary_examples": "Welcome - please come in. | Welcome home/back - we've missed you! | Welcome to Cambridge.",
+    "learner_examples": "Wendy, welcome to my town. (Key English Test; A2; Chinese)",
+    "match_type": "partial"
+  }
+]
